@@ -1,0 +1,701 @@
+Year,Month,Country,Product_Reference,Category,Marketing_Campaign_Type,Sales_Units,Marketing_Investment_USD,Sales_Revenue_USD,Production_Cost_USD,Gross_Margin_USD,Marketing_ROI,Waste_Generated_kg
+2024,Febrero,Holanda,Chrysal Grow X,Fungicida,Social Media,20893,6751.0,127316.56,57858.21,69458.35,18.86,750.32
+2025,Enero,Kenya,Chrysal Flora F,Nutricional,Influencers Agrícolas,6955,,28100.09,18200.66,9899.44,,209.94
+2022,Mayo,Ecuador,Chrysal Flora F,Insecticida,Social Media,34287,,222096.76,101783.75,120313.01,,882.49
+2024,Mayo,Kenya,Chrysal Flora F,Nutricional,Influencers Agrícolas,21763,6751.0,114488.78,73680.46,40808.32,16.96,982.56
+2024,Abril,Colombia,Chrysal Grow X,Insecticida,Field Campaign,21736,6751.0,140394.64,78617.18,61777.45,20.8,582.48
+2025,Febrero,Colombia,Chrysal Grow X,Insecticida,Social Media,5226,,33108.23,21276.4,11831.83,,158.42
+2022,Enero,Ecuador,Chrysal Flora F,Nutricional,Social Media,24103,6751.0,121059.66,57255.25,63804.4,17.93,1273.59
+2022,Abril,Holanda,Chrysal Root R,Insecticida,Field Campaign,28406,,123166.31,67505.2,55661.11,,848.66
+2024,Marzo,Ecuador,Chrysal Root R,Insecticida,Social Media,28951,,122902.46,59472.6,63429.86,,689.98
+2023,Abril,Kenya,Chrysal Protect Y,Fungicida,Influencers Agrícolas,14567,6751.0,,29817.69,34975.91,9.6,568.74
+2024,Abril,Holanda,Chrysal Boost Z,Regulador de crecimiento,Influencers Agrícolas,12108,6751.0,69225.77,39701.38,29524.39,10.25,402.22
+2024,Febrero,Colombia,Chrysal Root R,Regulador de crecimiento,Social Media,25570,6751.0,116010.19,57025.59,58984.61,17.18,1301.98
+2024,Marzo,Holanda,Chrysal Grow X,Fungicida,Influencers Agrícolas,29372,6751.0,138690.13,78712.11,59978.01,20.54,767.84
+2024,Abril,Colombia,Chrysal Root R,Nutricional,E-mail Marketing,3004,,,7113.15,7942.0,,
+2025,Enero,Holanda,Chrysal Protect Y,Fertilizante,Social Media,28033,,175647.16,90703.72,84943.44,,2084.93
+2022,Enero,Holanda,Chrysal Protect Y,Fertilizante,Field Campaign,22529,6751.0,97130.68,58892.91,38237.77,14.39,1455.51
+2025,Mayo,Holanda,Chrysal Boost Z,Fertilizante,E-mail Marketing,31931,6751.0,121771.16,65441.07,56330.08,18.04,1659.44
+2025,Marzo,Kenya,Chrysal Root R,Fungicida,Social Media,34670,,137371.56,79064.08,58307.49,,2483.76
+2025,Marzo,Kenya,Chrysal Grow X,Fungicida,Field Campaign,22407,,139883.97,81061.58,58822.39,,1382.4
+2024,Mayo,Ecuador,Chrysal Grow X,Insecticida,Influencers Agrícolas,25768,,142968.45,88461.87,54506.58,,531.67
+2023,Abril,Ecuador,Chrysal Flora F,Fertilizante,Field Campaign,34198,,155163.5,79906.8,75256.69,,1492.59
+2022,Marzo,Colombia,Chrysal Grow X,Nutricional,E-mail Marketing,12708,6751.0,54370.16,31940.24,22429.91,8.05,902.99
+2023,Enero,Kenya,Chrysal Boost Z,Nutricional,Influencers Agrícolas,27223,,,80339.61,44737.01,,
+2025,Enero,Colombia,Chrysal Boost Z,Fertilizante,Social Media,9971,,40980.33,24426.27,16554.06,,220.49
+2025,Febrero,Ecuador,Chrysal Grow X,Fertilizante,Influencers Agrícolas,13521,6751.0,85752.06,46989.91,38762.15,12.7,875.77
+2023,Marzo,Colombia,Chrysal Grow X,Fertilizante,Social Media,17416,,103056.68,59375.44,43681.25,,1186.42
+2023,Abril,Ecuador,Chrysal Flora F,Fungicida,Social Media,8459,,42704.89,25534.82,17170.07,,250.69
+2023,Mayo,Kenya,Chrysal Grow X,Fungicida,Field Campaign,12504,6751.0,76717.03,43917.06,32799.97,11.36,653.21
+2025,Mayo,Holanda,Chrysal Flora F,Fungicida,Field Campaign,33593,6751.0,150279.53,68127.0,82152.54,22.26,1058.76
+2025,Abril,Kenya,Chrysal Flora F,Regulador de crecimiento,Field Campaign,32026,6751.0,183708.36,89825.07,93883.29,27.21,2022.57
+2022,Febrero,Colombia,Chrysal Grow X,Nutricional,E-mail Marketing,24652,,150662.12,92219.33,58442.79,,894.7
+2022,Mayo,Colombia,Chrysal Protect Y,Nutricional,E-mail Marketing,32882,,156626.03,79022.55,77603.48,,1281.51
+2025,Marzo,Kenya,Chrysal Protect Y,Insecticida,Field Campaign,23594,6751.0,137910.56,82237.78,55672.78,20.43,1668.05
+2023,Febrero,Kenya,Chrysal Flora F,Fungicida,E-mail Marketing,14179,6751.0,65176.54,34180.15,30996.4,9.65,688.81
+2023,Marzo,Ecuador,Chrysal Grow X,Regulador de crecimiento,Influencers Agrícolas,7806,,35961.57,19936.26,16025.31,,469.81
+2022,Enero,Colombia,Chrysal Protect Y,Regulador de crecimiento,Influencers Agrícolas,9482,6751.0,,17974.68,20797.73,5.74,
+2025,Febrero,Colombia,Chrysal Grow X,Nutricional,E-mail Marketing,34640,6751.0,172789.75,84018.17,88771.58,25.59,1312.18
+2022,Mayo,Kenya,Chrysal Grow X,Fungicida,E-mail Marketing,33230,6751.0,191744.48,122992.46,68752.02,28.4,1911.68
+2022,Febrero,Holanda,Chrysal Grow X,Insecticida,Influencers Agrícolas,23891,,151435.4,95105.61,56329.79,,699.8
+2024,Febrero,Colombia,Chrysal Root R,Fungicida,Social Media,33783,,183450.2,106484.59,76965.61,,1431.72
+2024,Febrero,Holanda,Chrysal Grow X,Fertilizante,Influencers Agrícolas,24789,,151968.12,82355.92,69612.2,,806.69
+2024,Febrero,Kenya,Chrysal Root R,Fungicida,Influencers Agrícolas,10715,,64512.18,37749.45,26762.73,,661.63
+2023,Marzo,Kenya,Chrysal Flora F,Fertilizante,E-mail Marketing,19790,,84464.24,48459.0,36005.24,,1516.95
+2025,Enero,Ecuador,Chrysal Protect Y,Fertilizante,Influencers Agrícolas,25534,,130522.33,73576.8,56945.53,,2035.84
+2025,Abril,Colombia,Chrysal Protect Y,Insecticida,E-mail Marketing,15624,6751.0,,29697.68,34605.92,9.53,734.59
+2025,Febrero,Holanda,Chrysal Protect Y,Nutricional,E-mail Marketing,11833,,66759.58,38490.94,28268.64,,415.95
+2025,Mayo,Ecuador,Chrysal Protect Y,Fungicida,Field Campaign,17041,,108461.35,65487.23,42974.12,,793.6
+2024,Febrero,Colombia,Chrysal Protect Y,Fertilizante,Influencers Agrícolas,6739,6751.0,28102.58,18233.42,9869.17,4.16,477.36
+2023,Mayo,Ecuador,Chrysal Protect Y,Fungicida,Social Media,11985,,69291.09,31334.52,37956.57,,387.84
+2023,Marzo,Kenya,Chrysal Protect Y,Nutricional,Field Campaign,27845,,153343.61,91398.11,61945.5,,2147.57
+2024,Mayo,Colombia,Chrysal Flora F,Nutricional,E-mail Marketing,19967,6751.0,107337.27,60576.63,46760.64,15.9,808.9
+2023,Abril,Ecuador,Chrysal Grow X,Regulador de crecimiento,E-mail Marketing,22425,6751.0,108835.8,58424.2,50411.61,16.12,1774.9
+2024,Enero,Ecuador,Chrysal Boost Z,Nutricional,Social Media,27876,6751.0,132657.85,63080.67,69577.18,19.65,1960.14
+2025,Mayo,Holanda,Chrysal Root R,Insecticida,E-mail Marketing,19829,,77772.76,41360.88,36411.88,,1358.57
+2024,Mayo,Ecuador,Chrysal Boost Z,Fertilizante,Influencers Agrícolas,23773,6751.0,104324.33,54339.98,49984.35,15.45,928.91
+2025,Enero,Colombia,Chrysal Boost Z,Regulador de crecimiento,Field Campaign,32233,,,63211.25,60594.98,,
+2025,Abril,Colombia,Chrysal Grow X,Insecticida,E-mail Marketing,2732,,14670.37,8746.12,5924.25,,117.28
+2022,Febrero,Holanda,Chrysal Grow X,Fungicida,E-mail Marketing,2557,,10447.4,6165.48,4281.92,,97.44
+2024,Mayo,Colombia,Chrysal Grow X,Fertilizante,Social Media,31522,,194085.76,110202.67,83883.08,,701.17
+2022,Enero,Kenya,Chrysal Protect Y,Nutricional,Influencers Agrícolas,1916,6751.0,9987.12,6369.12,3618.01,1.48,96.42
+2024,Marzo,Colombia,Chrysal Flora F,Fertilizante,E-mail Marketing,12491,6751.0,,36950.86,34112.47,10.53,
+2024,Enero,Colombia,Chrysal Protect Y,Fungicida,Social Media,1292,,6342.83,3163.55,3179.28,,75.03
+2022,Marzo,Ecuador,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,28682,6751.0,152403.69,88574.07,63829.61,22.57,1642.65
+2022,Abril,Ecuador,Chrysal Flora F,Regulador de crecimiento,Social Media,9611,,60983.52,29867.46,31116.06,,261.85
+2024,Febrero,Colombia,Chrysal Boost Z,Regulador de crecimiento,Social Media,28608,,115100.91,59047.01,56053.9,,2249.1
+2023,Enero,Holanda,Chrysal Boost Z,Nutricional,Influencers Agrícolas,25072,,112463.77,55660.62,56803.14,,782.64
+2025,Mayo,Ecuador,Chrysal Flora F,Insecticida,E-mail Marketing,29199,6751.0,172448.37,79986.85,92461.52,25.54,1364.07
+2022,Abril,Holanda,Chrysal Flora F,Insecticida,Influencers Agrícolas,7274,,29580.38,18206.72,11373.66,,358.51
+2025,Enero,Colombia,Chrysal Protect Y,Fertilizante,Social Media,27756,,111142.93,55672.4,55470.54,,1909.16
+2023,Mayo,Colombia,Chrysal Protect Y,Nutricional,Field Campaign,14779,6751.0,70586.89,38442.01,32144.88,10.46,383.57
+2023,Enero,Kenya,Chrysal Boost Z,Regulador de crecimiento,E-mail Marketing,29128,6751.0,117935.0,54092.43,63842.58,17.47,1331.69
+2023,Marzo,Ecuador,Chrysal Grow X,Regulador de crecimiento,Field Campaign,13667,6751.0,73524.52,43369.75,30154.77,10.89,788.72
+2022,Enero,Colombia,Chrysal Flora F,Fungicida,E-mail Marketing,26651,6751.0,117556.05,60672.11,56883.94,17.41,877.07
+2023,Enero,Kenya,Chrysal Protect Y,Fungicida,Influencers Agrícolas,32079,,199479.56,119477.75,80001.81,,1849.29
+2022,Enero,Ecuador,Chrysal Boost Z,Regulador de crecimiento,Influencers Agrícolas,31327,6751.0,185313.31,98675.74,86637.56,27.45,2362.68
+2023,Abril,Colombia,Chrysal Protect Y,Regulador de crecimiento,Influencers Agrícolas,8666,,49302.64,24116.44,25186.2,,691.99
+2025,Enero,Colombia,Chrysal Flora F,Nutricional,Influencers Agrícolas,16249,6751.0,88812.95,49081.15,39731.81,13.16,356.62
+2025,Mayo,Ecuador,Chrysal Flora F,Insecticida,Influencers Agrícolas,11485,6751.0,70418.64,33526.38,36892.26,10.43,392.04
+2024,Marzo,Ecuador,Chrysal Root R,Fungicida,Field Campaign,24344,6751.0,107168.8,57668.37,49500.43,15.87,940.13
+2025,Marzo,Ecuador,Chrysal Grow X,Insecticida,Influencers Agrícolas,6251,6751.0,38489.87,19763.05,18726.82,5.7,274.72
+2024,Enero,Colombia,Chrysal Root R,Nutricional,Social Media,22442,6751.0,133117.62,84182.51,48935.11,19.72,775.04
+2025,Abril,Colombia,Chrysal Boost Z,Regulador de crecimiento,Social Media,31830,6751.0,185251.69,85620.69,99631.0,27.44,1025.22
+2022,Abril,Kenya,Chrysal Protect Y,Insecticida,Field Campaign,31673,,168354.36,99127.63,69226.73,,2447.48
+2025,Mayo,Holanda,Chrysal Boost Z,Regulador de crecimiento,E-mail Marketing,1419,6751.0,6335.64,3082.6,3253.03,0.94,106.58
+2024,Enero,Ecuador,Chrysal Flora F,Regulador de crecimiento,Social Media,34450,6751.0,170306.31,87504.92,82801.39,25.23,786.13
+2024,Marzo,Colombia,Chrysal Root R,Fertilizante,E-mail Marketing,26172,6751.0,155530.79,82913.9,72616.89,23.04,1055.48
+2023,Abril,Colombia,Chrysal Root R,Insecticida,Field Campaign,4442,6751.0,17260.73,10901.93,6358.8,2.56,196.82
+2022,Enero,Ecuador,Chrysal Root R,Insecticida,E-mail Marketing,28801,,170258.18,84876.37,85381.81,,989.05
+2025,Abril,Holanda,Chrysal Boost Z,Regulador de crecimiento,E-mail Marketing,34864,6751.0,155081.73,72618.84,82462.89,22.97,2012.78
+2023,Abril,Ecuador,Chrysal Flora F,Nutricional,E-mail Marketing,30090,6751.0,126066.11,64764.94,61301.17,18.67,1757.94
+2025,Marzo,Holanda,Chrysal Protect Y,Fertilizante,E-mail Marketing,14922,6751.0,61365.14,28899.0,32466.13,9.09,1059.91
+2025,Febrero,Colombia,Chrysal Protect Y,Regulador de crecimiento,Field Campaign,25620,6751.0,99240.99,47210.86,52030.14,14.7,1651.26
+2023,Mayo,Holanda,Chrysal Boost Z,Fungicida,Social Media,3695,,19264.56,10880.05,8384.51,,194.19
+2023,Mayo,Kenya,Chrysal Root R,Fungicida,Influencers Agrícolas,6166,6751.0,27064.43,12508.65,14555.78,4.01,365.12
+2023,Marzo,Colombia,Chrysal Grow X,Fertilizante,E-mail Marketing,9511,,61550.11,28078.31,33471.8,,346.57
+2023,Abril,Kenya,Chrysal Boost Z,Nutricional,Social Media,20396,6751.0,109138.57,64706.38,44432.19,16.17,1133.68
+2023,Enero,Ecuador,Chrysal Boost Z,Regulador de crecimiento,Social Media,19593,,81747.68,42699.22,39048.46,,966.99
+2025,Abril,Ecuador,Chrysal Flora F,Insecticida,Field Campaign,8999,,50931.27,24196.18,26735.09,,251.98
+2023,Marzo,Ecuador,Chrysal Protect Y,Fertilizante,Social Media,11517,6751.0,71680.74,35892.17,35788.58,10.62,397.94
+2022,Mayo,Holanda,Chrysal Boost Z,Nutricional,Field Campaign,11011,6751.0,63995.76,37016.26,26979.51,9.48,412.93
+2024,Abril,Colombia,Chrysal Boost Z,Insecticida,E-mail Marketing,24160,,96794.33,48891.52,47902.8,,1823.08
+2023,Mayo,Ecuador,Chrysal Root R,Fungicida,E-mail Marketing,22342,,138942.38,76266.06,62676.32,,755.68
+2023,Enero,Ecuador,Chrysal Root R,Fungicida,Influencers Agrícolas,32112,6751.0,190861.18,90532.91,100328.27,28.27,1199.53
+2025,Mayo,Colombia,Chrysal Grow X,Insecticida,Influencers Agrícolas,29047,,122793.88,69700.11,53093.78,,1224.66
+2023,Mayo,Ecuador,Chrysal Flora F,Fertilizante,Influencers Agrícolas,23157,,91234.46,46822.94,44411.52,,1385.36
+2023,Febrero,Kenya,Chrysal Grow X,Fungicida,Social Media,28491,,151137.31,86963.45,64173.85,,771.94
+2023,Febrero,Colombia,Chrysal Root R,Regulador de crecimiento,E-mail Marketing,13224,6751.0,55822.43,34145.41,21677.02,8.27,1021.38
+2025,Febrero,Colombia,Chrysal Protect Y,Insecticida,Field Campaign,19652,,118961.33,68085.05,50876.28,,1413.65
+2023,Mayo,Colombia,Chrysal Root R,Insecticida,Influencers Agrícolas,23401,,111564.35,56802.93,54761.42,,1278.47
+2024,Marzo,Kenya,Chrysal Flora F,Fungicida,Field Campaign,18820,,117903.72,59087.3,58816.42,,1137.52
+2025,Mayo,Colombia,Chrysal Root R,Fertilizante,Field Campaign,8955,6751.0,47706.49,24591.94,23114.55,7.07,188.05
+2024,Marzo,Kenya,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,4383,6751.0,18817.16,9087.26,9729.9,2.79,176.8
+2025,Marzo,Colombia,Chrysal Flora F,Fertilizante,E-mail Marketing,16315,,,33135.12,35011.28,,
+2023,Febrero,Holanda,Chrysal Flora F,Nutricional,Influencers Agrícolas,20510,6751.0,109861.31,66810.86,43050.45,16.27,505.55
+2024,Abril,Ecuador,Chrysal Flora F,Nutricional,Field Campaign,25332,,148371.7,78183.95,70187.75,,935.73
+2025,Enero,Holanda,Chrysal Flora F,Fungicida,Influencers Agrícolas,19401,6751.0,114661.18,61595.87,53065.3,16.98,1069.34
+2022,Febrero,Ecuador,Chrysal Protect Y,Fungicida,Field Campaign,5767,6751.0,26208.39,14907.59,11300.8,3.88,204.06
+2023,Febrero,Kenya,Chrysal Grow X,Fungicida,Field Campaign,19553,,85084.22,48321.94,36762.28,,1486.78
+2025,Abril,Holanda,Chrysal Boost Z,Nutricional,Influencers Agrícolas,20822,6751.0,80065.63,37108.45,42957.18,11.86,580.17
+2022,Enero,Colombia,Chrysal Grow X,Fertilizante,Social Media,9935,6751.0,55972.18,34496.11,21476.07,8.29,674.03
+2025,Mayo,Ecuador,Chrysal Flora F,Fertilizante,Influencers Agrícolas,6522,6751.0,26131.92,12686.14,13445.78,3.87,329.21
+2022,Mayo,Ecuador,Chrysal Protect Y,Fungicida,Social Media,28213,,139260.93,82806.54,56454.38,,1834.4
+2023,Febrero,Holanda,Chrysal Root R,Regulador de crecimiento,Field Campaign,28036,6751.0,152082.46,91939.04,60143.41,22.53,1083.39
+2024,Enero,Kenya,Chrysal Protect Y,Fertilizante,Field Campaign,16314,6751.0,103270.79,61237.5,42033.29,15.3,829.88
+2022,Febrero,Holanda,Chrysal Flora F,Nutricional,Social Media,21131,,98087.27,55497.34,42589.93,,1508.97
+2025,Marzo,Kenya,Chrysal Protect Y,Insecticida,Field Campaign,18860,6751.0,84386.9,38220.67,46166.23,12.5,905.52
+2023,Febrero,Kenya,Chrysal Protect Y,Insecticida,Social Media,1996,6751.0,11110.2,5800.36,5309.84,1.65,83.0
+2022,Febrero,Ecuador,Chrysal Flora F,Insecticida,Social Media,13097,6751.0,,40919.02,30747.04,10.62,
+2025,Mayo,Holanda,Chrysal Protect Y,Regulador de crecimiento,Field Campaign,3587,6751.0,16847.05,8886.65,7960.4,2.5,226.13
+2025,Mayo,Holanda,Chrysal Boost Z,Fungicida,E-mail Marketing,24616,6751.0,155225.42,96658.24,58567.17,22.99,1147.45
+2025,Mayo,Kenya,Chrysal Boost Z,Nutricional,Social Media,20502,,124675.29,63803.88,60871.41,,1564.97
+2022,Marzo,Holanda,Chrysal Protect Y,Regulador de crecimiento,Influencers Agrícolas,26042,,114708.57,58353.05,56355.52,,981.7
+2022,Mayo,Colombia,Chrysal Root R,Nutricional,Influencers Agrícolas,2976,6751.0,13230.36,6657.51,6572.85,1.96,144.42
+2022,Enero,Colombia,Chrysal Flora F,Nutricional,Field Campaign,20927,6751.0,108469.06,56030.36,52438.7,16.07,1368.95
+2024,Abril,Holanda,Chrysal Boost Z,Fungicida,E-mail Marketing,28028,6751.0,165046.93,92670.72,72376.22,24.45,1719.44
+2022,Enero,Holanda,Chrysal Root R,Insecticida,Field Campaign,21008,,82328.44,48689.29,33639.15,,1508.76
+2022,Enero,Kenya,Chrysal Protect Y,Fungicida,E-mail Marketing,29282,,166087.65,96748.31,69339.34,,2336.95
+2022,Mayo,Colombia,Chrysal Root R,Regulador de crecimiento,Social Media,9971,6751.0,55341.41,33843.68,21497.73,8.2,454.79
+2024,Abril,Colombia,Chrysal Grow X,Regulador de crecimiento,Social Media,34196,6751.0,151317.17,94903.53,56413.64,22.41,911.97
+2022,Abril,Ecuador,Chrysal Boost Z,Regulador de crecimiento,Social Media,4496,,25355.88,15548.63,9807.25,,98.12
+2025,Abril,Kenya,Chrysal Protect Y,Fungicida,Social Media,20858,6751.0,132208.32,59994.69,72213.63,19.58,1326.83
+2022,Marzo,Ecuador,Chrysal Flora F,Nutricional,Influencers Agrícolas,21113,,82896.43,49504.39,33392.04,,1529.44
+2025,Mayo,Colombia,Chrysal Protect Y,Nutricional,Influencers Agrícolas,19949,,93023.39,45737.73,47285.66,,663.16
+2025,Abril,Kenya,Chrysal Flora F,Fertilizante,Field Campaign,5756,6751.0,28682.59,13669.71,15012.88,4.25,169.84
+2025,Marzo,Holanda,Chrysal Protect Y,Regulador de crecimiento,E-mail Marketing,10995,,68476.89,39558.95,28917.95,,260.94
+2024,Febrero,Kenya,Chrysal Root R,Nutricional,Social Media,17876,6751.0,114372.54,58781.61,55590.93,16.94,1239.92
+2024,Febrero,Holanda,Chrysal Root R,Fertilizante,Social Media,1905,6751.0,9523.31,4394.28,5129.03,1.41,73.69
+2024,Marzo,Holanda,Chrysal Root R,Nutricional,E-mail Marketing,16217,6751.0,94465.27,45109.62,49355.65,13.99,715.2
+2022,Marzo,Kenya,Chrysal Grow X,Regulador de crecimiento,E-mail Marketing,25529,6751.0,133656.69,60170.36,73486.34,19.8,1280.66
+2025,Mayo,Holanda,Chrysal Flora F,Insecticida,Field Campaign,30899,6751.0,162281.98,102342.27,59939.7,24.04,2174.28
+2024,Mayo,Ecuador,Chrysal Root R,Regulador de crecimiento,E-mail Marketing,33398,6751.0,151989.91,69143.8,82846.11,22.51,1972.15
+2024,Febrero,Colombia,Chrysal Grow X,Fungicida,Social Media,30761,,,66361.55,68549.49,,
+2022,Abril,Holanda,Chrysal Flora F,Nutricional,Social Media,13402,,61349.19,32714.61,28634.58,,409.3
+2024,Febrero,Ecuador,Chrysal Protect Y,Nutricional,Social Media,10056,,53317.77,27795.32,25522.46,,510.76
+2022,Abril,Holanda,Chrysal Grow X,Fungicida,Social Media,21384,,,52448.31,30494.22,,
+2023,Abril,Colombia,Chrysal Boost Z,Fungicida,Social Media,26592,6751.0,166188.62,76123.99,90064.63,24.62,2084.7
+2024,Mayo,Ecuador,Chrysal Grow X,Insecticida,Field Campaign,22704,,95855.52,52954.7,42900.81,,728.44
+2023,Enero,Colombia,Chrysal Grow X,Nutricional,Social Media,27336,,120120.93,70402.38,49718.55,,562.37
+2022,Enero,Colombia,Chrysal Flora F,Nutricional,Field Campaign,19964,,,66051.88,37747.85,,
+2025,Marzo,Ecuador,Chrysal Protect Y,Insecticida,Social Media,13796,6751.0,78876.01,45280.68,33595.32,11.68,587.04
+2024,Mayo,Ecuador,Chrysal Boost Z,Fertilizante,Influencers Agrícolas,3671,,14898.64,9099.36,5799.28,,254.15
+2022,Abril,Ecuador,Chrysal Root R,Insecticida,Influencers Agrícolas,23426,6751.0,109113.05,50927.97,58185.08,16.16,478.56
+2025,Enero,Kenya,Chrysal Root R,Regulador de crecimiento,Influencers Agrícolas,11321,,72628.99,38289.12,34339.86,,536.66
+2025,Abril,Ecuador,Chrysal Grow X,Nutricional,Influencers Agrícolas,1932,6751.0,,4570.96,4139.12,1.29,
+2023,Enero,Ecuador,Chrysal Flora F,Fungicida,Field Campaign,34267,6751.0,159178.28,99845.79,59332.49,23.58,793.24
+2022,Enero,Ecuador,Chrysal Flora F,Regulador de crecimiento,Field Campaign,15334,,92901.74,44618.31,48283.43,,720.92
+2025,Enero,Ecuador,Chrysal Root R,Nutricional,E-mail Marketing,24654,6751.0,97027.76,46609.93,50417.83,14.37,869.91
+2024,Mayo,Holanda,Chrysal Boost Z,Insecticida,Social Media,8612,6751.0,43528.97,22448.4,21080.57,6.45,354.07
+2024,Febrero,Kenya,Chrysal Protect Y,Regulador de crecimiento,Influencers Agrícolas,5357,,25847.34,11912.86,13934.48,,333.94
+2023,Abril,Colombia,Chrysal Boost Z,Nutricional,Field Campaign,2979,,13866.6,6745.99,7120.62,,152.8
+2025,Mayo,Ecuador,Chrysal Protect Y,Fertilizante,Social Media,9865,,45096.75,28999.1,16097.65,,271.08
+2022,Mayo,Holanda,Chrysal Root R,Fertilizante,Social Media,9075,6751.0,36723.89,19670.67,17053.23,5.44,704.99
+2024,Mayo,Holanda,Chrysal Protect Y,Fungicida,Field Campaign,21500,6751.0,99975.64,57626.34,42349.3,14.81,1250.32
+2025,Mayo,Holanda,Chrysal Flora F,Nutricional,Influencers Agrícolas,28594,6751.0,111981.01,66653.59,45327.42,16.59,1885.83
+2025,Mayo,Colombia,Chrysal Grow X,Fertilizante,E-mail Marketing,29583,,174794.19,91485.93,83308.26,,732.26
+2023,Marzo,Ecuador,Chrysal Grow X,Insecticida,Social Media,17798,6751.0,86769.08,41601.04,45168.04,12.85,406.21
+2024,Abril,Kenya,Chrysal Root R,Nutricional,E-mail Marketing,14669,6751.0,73323.59,36025.07,37298.52,10.86,310.5
+2024,Mayo,Kenya,Chrysal Flora F,Insecticida,Influencers Agrícolas,28952,6751.0,179870.25,92211.07,87659.17,26.64,907.0
+2022,Abril,Holanda,Chrysal Boost Z,Insecticida,Influencers Agrícolas,21754,6751.0,121316.59,70025.59,51290.99,17.97,975.98
+2024,Marzo,Colombia,Chrysal Flora F,Fertilizante,E-mail Marketing,32355,6751.0,123653.03,65493.58,58159.45,18.32,2463.82
+2022,Marzo,Colombia,Chrysal Grow X,Nutricional,Influencers Agrícolas,17454,6751.0,110773.07,49998.86,60774.21,16.41,827.73
+2024,Abril,Colombia,Chrysal Grow X,Regulador de crecimiento,Social Media,15842,6751.0,70343.08,39018.0,31325.08,10.42,592.73
+2023,Enero,Kenya,Chrysal Flora F,Fertilizante,E-mail Marketing,26766,,109487.88,69448.46,40039.43,,1437.77
+2024,Febrero,Holanda,Chrysal Flora F,Fertilizante,Influencers Agrícolas,15070,,,54211.25,34309.12,,402.61
+2022,Enero,Ecuador,Chrysal Grow X,Nutricional,E-mail Marketing,31708,,163337.06,100459.2,62877.86,,1793.73
+2022,Enero,Kenya,Chrysal Boost Z,Nutricional,Social Media,16323,6751.0,81144.58,49417.99,31726.59,12.02,883.17
+2023,Enero,Holanda,Chrysal Root R,Insecticida,Influencers Agrícolas,20791,6751.0,93011.83,47877.48,45134.35,13.78,1403.8
+2024,Mayo,Holanda,Chrysal Root R,Nutricional,Social Media,11575,,61094.85,36842.56,24252.29,,916.75
+2024,Marzo,Ecuador,Chrysal Flora F,Insecticida,Influencers Agrícolas,13065,6751.0,59326.05,28395.36,30930.69,8.79,457.96
+2023,Enero,Ecuador,Chrysal Root R,Fertilizante,Field Campaign,20259,,126300.16,73449.0,52851.16,,1024.69
+2024,Marzo,Ecuador,Chrysal Grow X,Fungicida,Influencers Agrícolas,17473,6751.0,76550.12,44269.99,32280.14,11.34,1302.3
+2024,Abril,Colombia,Chrysal Grow X,Regulador de crecimiento,E-mail Marketing,27856,6751.0,172366.21,78446.27,93919.94,25.53,1869.45
+2022,Febrero,Ecuador,Chrysal Flora F,Fertilizante,Influencers Agrícolas,7414,,,23921.75,15449.52,,365.1
+2024,Abril,Holanda,Chrysal Flora F,Nutricional,Social Media,8215,,49593.28,31275.98,18317.3,,630.27
+2024,Abril,Ecuador,Chrysal Flora F,Regulador de crecimiento,Social Media,23955,,137134.81,69045.05,68089.76,,561.37
+2023,Mayo,Holanda,Chrysal Boost Z,Fungicida,Influencers Agrícolas,17764,,100918.65,61810.47,39108.18,,1347.58
+2023,Febrero,Kenya,Chrysal Root R,Fungicida,E-mail Marketing,33052,,154542.35,72091.1,82451.25,,761.2
+2025,Abril,Colombia,Chrysal Flora F,Insecticida,Field Campaign,4632,6751.0,20526.81,11700.15,8826.66,3.04,244.75
+2022,Abril,Kenya,Chrysal Protect Y,Regulador de crecimiento,E-mail Marketing,26075,6751.0,113931.92,62335.5,51596.42,16.88,1914.59
+2024,Febrero,Kenya,Chrysal Protect Y,Insecticida,Field Campaign,15701,6751.0,96002.47,53683.11,42319.36,14.22,561.52
+2024,Febrero,Holanda,Chrysal Grow X,Fertilizante,Social Media,34948,,210217.55,133538.81,76678.73,,1689.21
+2025,Abril,Kenya,Chrysal Root R,Regulador de crecimiento,E-mail Marketing,23718,,118342.11,73876.61,44465.5,,935.91
+2024,Febrero,Holanda,Chrysal Flora F,Fertilizante,Field Campaign,20340,,84563.4,51331.4,33232.0,,1568.8
+2022,Abril,Ecuador,Chrysal Protect Y,Insecticida,Influencers Agrícolas,12380,,59821.16,30194.12,29627.05,,859.4
+2025,Abril,Ecuador,Chrysal Root R,Regulador de crecimiento,Social Media,25717,,140729.27,88992.09,51737.18,,1608.34
+2022,Mayo,Holanda,Chrysal Grow X,Insecticida,Influencers Agrícolas,23118,,116211.61,54561.53,61650.08,,1277.45
+2025,Enero,Ecuador,Chrysal Boost Z,Regulador de crecimiento,Social Media,10979,6751.0,64847.58,40248.68,24598.9,9.61,760.14
+2025,Abril,Colombia,Chrysal Root R,Insecticida,E-mail Marketing,13051,6751.0,84747.73,43698.64,41049.09,12.55,568.19
+2023,Marzo,Kenya,Chrysal Root R,Fungicida,E-mail Marketing,20293,6751.0,87585.74,40355.52,47230.22,12.97,950.79
+2022,Enero,Colombia,Chrysal Boost Z,Insecticida,Social Media,21266,6751.0,107203.12,62592.84,44610.29,15.88,1356.77
+2024,Enero,Kenya,Chrysal Root R,Fungicida,Social Media,31006,6751.0,153903.13,76375.35,77527.78,22.8,1285.67
+2024,Enero,Ecuador,Chrysal Grow X,Insecticida,Social Media,20424,,94402.38,47079.81,47322.57,,486.79
+2022,Mayo,Colombia,Chrysal Grow X,Regulador de crecimiento,E-mail Marketing,27364,,118619.05,60639.18,57979.87,,669.33
+2024,Abril,Ecuador,Chrysal Boost Z,Regulador de crecimiento,Field Campaign,23212,,92322.68,42721.12,49601.57,,624.91
+2024,Mayo,Kenya,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,28790,,178360.45,86580.7,91779.75,,2078.09
+2022,Abril,Holanda,Chrysal Protect Y,Nutricional,Influencers Agrícolas,13956,,68853.2,31054.72,37798.49,,674.54
+2025,Mayo,Holanda,Chrysal Flora F,Fertilizante,E-mail Marketing,23864,,,66145.12,56554.45,,1498.01
+2022,Mayo,Colombia,Chrysal Root R,Regulador de crecimiento,Influencers Agrícolas,26511,6751.0,166376.24,77672.93,88703.31,24.64,1155.21
+2025,Marzo,Ecuador,Chrysal Protect Y,Fungicida,Social Media,30906,,182221.29,106878.35,75342.94,,1097.86
+2024,Mayo,Ecuador,Chrysal Boost Z,Regulador de crecimiento,Field Campaign,17389,,72205.27,35895.02,36310.26,,710.02
+2024,Febrero,Colombia,Chrysal Boost Z,Nutricional,Influencers Agrícolas,24536,,130694.29,83476.38,47217.91,,1659.88
+2024,Marzo,Holanda,Chrysal Protect Y,Fungicida,Field Campaign,21775,,108746.12,67884.8,40861.32,,1252.34
+2023,Mayo,Kenya,Chrysal Grow X,Nutricional,Social Media,8014,6751.0,47703.09,24227.84,23475.26,7.07,611.13
+2025,Enero,Colombia,Chrysal Protect Y,Fungicida,Influencers Agrícolas,31381,6751.0,180611.08,109566.47,71044.62,26.75,1907.41
+2023,Febrero,Kenya,Chrysal Root R,Insecticida,E-mail Marketing,20995,,118917.68,72616.96,46300.72,,1138.16
+2023,Febrero,Holanda,Chrysal Grow X,Fertilizante,Field Campaign,27927,6751.0,131800.67,85316.24,46484.43,19.52,1581.0
+2022,Febrero,Ecuador,Chrysal Boost Z,Fertilizante,Social Media,5941,6751.0,35487.98,20212.82,15275.16,5.26,454.74
+2023,Marzo,Holanda,Chrysal Protect Y,Nutricional,Field Campaign,29684,,116998.19,54567.16,62431.04,,1997.5
+2022,Mayo,Colombia,Chrysal Flora F,Fertilizante,Influencers Agrícolas,25685,,108672.91,62961.54,45711.36,,550.75
+2022,Mayo,Ecuador,Chrysal Flora F,Nutricional,Influencers Agrícolas,3508,,16509.29,9492.77,7016.51,,182.59
+2023,Enero,Colombia,Chrysal Root R,Nutricional,E-mail Marketing,19175,,76841.51,44389.05,32452.47,,1175.43
+2025,Enero,Colombia,Chrysal Flora F,Nutricional,Social Media,15888,,70455.09,36032.79,34422.3,,1031.48
+2025,Febrero,Holanda,Chrysal Protect Y,Fertilizante,Social Media,10814,6751.0,65331.78,40632.18,24699.6,9.68,354.58
+2025,Enero,Colombia,Chrysal Protect Y,Nutricional,E-mail Marketing,4073,,25905.42,16628.54,9276.87,,293.38
+2025,Marzo,Holanda,Chrysal Flora F,Fertilizante,E-mail Marketing,31681,,146443.09,72275.89,74167.2,,2450.54
+2025,Mayo,Ecuador,Chrysal Protect Y,Nutricional,Social Media,32286,,145745.22,68154.9,77590.32,,1104.28
+2023,Febrero,Holanda,Chrysal Root R,Regulador de crecimiento,Field Campaign,13341,6751.0,60777.73,29714.66,31063.07,9.0,973.32
+2023,Enero,Ecuador,Chrysal Grow X,Nutricional,Field Campaign,9512,,43278.09,26577.53,16700.56,,245.59
+2024,Marzo,Holanda,Chrysal Root R,Fungicida,E-mail Marketing,9968,,38845.41,22737.34,16108.07,,232.68
+2025,Marzo,Kenya,Chrysal Root R,Nutricional,Field Campaign,4351,,,15828.78,11594.16,,120.76
+2023,Enero,Kenya,Chrysal Protect Y,Insecticida,Social Media,13097,6751.0,57325.37,30403.01,26922.37,8.49,307.31
+2024,Mayo,Colombia,Chrysal Grow X,Nutricional,Influencers Agrícolas,27928,,137797.06,77933.28,59863.78,,1974.53
+2025,Enero,Holanda,Chrysal Protect Y,Fungicida,Influencers Agrícolas,3632,,13896.59,7109.15,6787.45,,85.51
+2022,Febrero,Holanda,Chrysal Boost Z,Fungicida,Field Campaign,29283,,179108.85,97693.13,81415.71,,1062.97
+2024,Enero,Ecuador,Chrysal Protect Y,Fertilizante,E-mail Marketing,22863,6751.0,132013.82,80345.27,51668.54,19.55,599.59
+2023,Marzo,Colombia,Chrysal Protect Y,Regulador de crecimiento,E-mail Marketing,23763,,151043.36,97611.52,53431.84,,896.47
+2022,Enero,Holanda,Chrysal Protect Y,Nutricional,E-mail Marketing,14222,,,53502.2,30554.97,,
+2022,Mayo,Colombia,Chrysal Grow X,Fertilizante,E-mail Marketing,33720,,156697.1,99780.51,56916.59,,2025.9
+2022,Abril,Kenya,Chrysal Protect Y,Regulador de crecimiento,E-mail Marketing,11956,6751.0,53434.45,28344.02,25090.43,7.92,334.76
+2024,Enero,Holanda,Chrysal Grow X,Nutricional,Field Campaign,11908,,67683.1,36803.22,30879.87,,846.79
+2023,Mayo,Holanda,Chrysal Flora F,Insecticida,Influencers Agrícolas,32645,,156144.45,92301.21,63843.24,,2253.53
+2022,Mayo,Colombia,Chrysal Boost Z,Nutricional,Influencers Agrícolas,3600,,,12170.82,7012.79,,74.95
+2025,Marzo,Holanda,Chrysal Grow X,Fungicida,Field Campaign,3410,6751.0,13015.61,6226.65,6788.96,1.93,251.47
+2022,Mayo,Colombia,Chrysal Flora F,Fungicida,E-mail Marketing,12867,6751.0,51044.56,26076.03,24968.53,7.56,279.69
+2022,Mayo,Holanda,Chrysal Grow X,Insecticida,Field Campaign,34672,,181871.75,86907.3,94964.45,,1191.98
+2024,Mayo,Ecuador,Chrysal Grow X,Fertilizante,Influencers Agrícolas,11528,6751.0,61425.72,35160.19,26265.53,9.1,252.96
+2024,Mayo,Colombia,Chrysal Boost Z,Regulador de crecimiento,Social Media,30366,6751.0,177001.07,90493.6,86507.47,26.22,1219.21
+2023,Febrero,Holanda,Chrysal Root R,Nutricional,Field Campaign,30583,6751.0,127112.32,65491.01,61621.31,18.83,1554.59
+2025,Febrero,Kenya,Chrysal Root R,Fungicida,E-mail Marketing,21383,,110883.56,51470.29,59413.28,,1449.74
+2024,Marzo,Holanda,Chrysal Grow X,Fertilizante,Influencers Agrícolas,21038,,90989.53,47310.85,43678.69,,847.39
+2022,Enero,Kenya,Chrysal Protect Y,Insecticida,Influencers Agrícolas,8063,6751.0,32668.29,20335.99,12332.3,4.84,502.56
+2023,Mayo,Kenya,Chrysal Flora F,Fungicida,Influencers Agrícolas,2714,6751.0,,6615.52,6705.71,1.97,84.81
+2022,Enero,Ecuador,Chrysal Protect Y,Insecticida,Influencers Agrícolas,24549,6751.0,104112.53,61326.18,42786.35,15.42,1596.57
+2022,Enero,Colombia,Chrysal Protect Y,Nutricional,E-mail Marketing,20256,,89102.32,51316.31,37786.01,,691.94
+2024,Marzo,Holanda,Chrysal Grow X,Regulador de crecimiento,Social Media,26382,,122871.46,76511.68,46359.78,,754.86
+2023,Mayo,Ecuador,Chrysal Grow X,Fungicida,Influencers Agrícolas,1206,6751.0,5427.42,2585.94,2841.48,0.8,37.54
+2025,Mayo,Holanda,Chrysal Grow X,Fungicida,Field Campaign,14489,6751.0,58484.8,37752.99,20731.81,8.66,448.05
+2025,Abril,Kenya,Chrysal Grow X,Nutricional,Social Media,33734,6751.0,136378.93,77262.17,59116.76,20.2,1712.73
+2024,Enero,Colombia,Chrysal Root R,Fertilizante,Influencers Agrícolas,34076,6751.0,147268.75,95591.39,51677.37,21.81,2408.76
+2024,Enero,Holanda,Chrysal Grow X,Regulador de crecimiento,Social Media,20673,,81379.47,51456.48,29922.99,,512.2
+2023,Febrero,Holanda,Chrysal Root R,Fungicida,Field Campaign,13850,6751.0,76056.36,37594.92,38461.44,11.27,864.48
+2025,Abril,Kenya,Chrysal Root R,Regulador de crecimiento,Influencers Agrícolas,1480,,6772.16,3123.54,3648.62,,87.71
+2025,Febrero,Holanda,Chrysal Grow X,Fungicida,Field Campaign,19708,6751.0,89776.13,44989.32,44786.81,13.3,1425.9
+2025,Febrero,Holanda,Chrysal Boost Z,Regulador de crecimiento,E-mail Marketing,19304,6751.0,90659.22,50362.35,40296.87,13.43,668.86
+2022,Febrero,Kenya,Chrysal Flora F,Insecticida,Influencers Agrícolas,22444,6751.0,125451.86,60758.75,64693.11,18.58,1055.02
+2025,Marzo,Ecuador,Chrysal Protect Y,Fungicida,Influencers Agrícolas,2163,6751.0,13303.99,6432.37,6871.62,1.97,163.41
+2022,Marzo,Kenya,Chrysal Root R,Regulador de crecimiento,Influencers Agrícolas,2338,6751.0,13676.21,7419.6,6256.61,2.03,139.34
+2023,Febrero,Ecuador,Chrysal Flora F,Fertilizante,Influencers Agrícolas,26475,,152610.61,69690.18,82920.43,,1147.06
+2022,Abril,Colombia,Chrysal Boost Z,Insecticida,E-mail Marketing,19087,6751.0,97493.65,46248.81,51244.85,14.44,532.24
+2023,Enero,Ecuador,Chrysal Protect Y,Insecticida,Influencers Agrícolas,974,6751.0,5525.77,2946.19,2579.58,0.82,34.82
+2025,Abril,Ecuador,Chrysal Protect Y,Fertilizante,Social Media,27532,6751.0,145711.96,67410.14,78301.82,21.58,1510.76
+2025,Mayo,Colombia,Chrysal Root R,Regulador de crecimiento,Influencers Agrícolas,12912,,56604.61,29963.71,26640.9,,814.62
+2023,Marzo,Ecuador,Chrysal Grow X,Nutricional,E-mail Marketing,10489,,45765.49,24933.09,20832.39,,288.08
+2024,Enero,Kenya,Chrysal Boost Z,Fertilizante,Influencers Agrícolas,20355,,93638.26,50588.38,43049.88,,1139.39
+2023,Enero,Ecuador,Chrysal Root R,Regulador de crecimiento,Social Media,34719,,217312.03,135566.84,81745.18,,1840.84
+2024,Mayo,Colombia,Chrysal Boost Z,Fertilizante,E-mail Marketing,8419,6751.0,44435.65,24706.78,19728.87,6.58,428.0
+2022,Mayo,Kenya,Chrysal Grow X,Fertilizante,E-mail Marketing,6833,6751.0,39505.29,21474.92,18030.37,5.85,419.6
+2022,Febrero,Colombia,Chrysal Grow X,Fungicida,Social Media,5746,6751.0,27211.38,14480.32,12731.07,4.03,403.64
+2022,Marzo,Colombia,Chrysal Root R,Regulador de crecimiento,Social Media,25418,,124569.36,76426.38,48142.98,,1000.95
+2025,Marzo,Holanda,Chrysal Grow X,Nutricional,Social Media,19719,6751.0,,51338.32,30279.16,12.09,1446.21
+2022,Abril,Holanda,Chrysal Flora F,Fungicida,Social Media,4973,6751.0,21197.39,13156.13,8041.26,3.14,147.39
+2024,Febrero,Colombia,Chrysal Protect Y,Fertilizante,Social Media,27200,,164121.07,95963.12,68157.95,,826.37
+2022,Febrero,Colombia,Chrysal Root R,Fertilizante,E-mail Marketing,5569,,29956.01,14303.17,15652.84,,200.52
+2023,Febrero,Colombia,Chrysal Boost Z,Fertilizante,E-mail Marketing,15011,,70721.89,35741.0,34980.89,,407.88
+2023,Febrero,Holanda,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,24055,6751.0,143552.98,65921.34,77631.64,21.26,813.52
+2025,Marzo,Holanda,Chrysal Root R,Regulador de crecimiento,Influencers Agrícolas,28762,6751.0,,81708.81,46730.88,19.03,758.88
+2023,Marzo,Ecuador,Chrysal Grow X,Fungicida,Field Campaign,20156,,129709.67,75511.74,54197.93,,1396.91
+2024,Febrero,Ecuador,Chrysal Grow X,Nutricional,Influencers Agrícolas,21106,6751.0,,59838.95,40013.69,14.79,
+2022,Abril,Colombia,Chrysal Grow X,Fungicida,Influencers Agrícolas,5797,,27308.16,13990.36,13317.8,,375.87
+2025,Enero,Kenya,Chrysal Grow X,Insecticida,Social Media,18176,,84375.94,52239.73,32136.2,,415.77
+2022,Enero,Kenya,Chrysal Boost Z,Fertilizante,Social Media,11378,6751.0,46987.74,23584.12,23403.62,6.96,875.1
+2022,Abril,Holanda,Chrysal Flora F,Fertilizante,Influencers Agrícolas,19424,,79639.77,35864.08,43775.69,,1217.29
+2024,Febrero,Holanda,Chrysal Protect Y,Fertilizante,Field Campaign,1189,,6598.81,3466.24,3132.57,,24.26
+2023,Marzo,Holanda,Chrysal Boost Z,Fungicida,Social Media,34567,,213030.15,120181.45,92848.7,,2275.59
+2023,Enero,Colombia,Chrysal Boost Z,Fungicida,Influencers Agrícolas,2655,6751.0,15755.85,8598.61,7157.24,2.33,134.99
+2022,Mayo,Kenya,Chrysal Protect Y,Fertilizante,Influencers Agrícolas,14594,,61017.38,37978.14,23039.23,,974.32
+2025,Mayo,Ecuador,Chrysal Protect Y,Fungicida,E-mail Marketing,5786,,30509.99,14372.68,16137.31,,297.11
+2023,Abril,Colombia,Chrysal Grow X,Regulador de crecimiento,Field Campaign,33098,,,75820.18,59388.37,,1934.96
+2025,Febrero,Ecuador,Chrysal Boost Z,Regulador de crecimiento,E-mail Marketing,2281,,8946.76,4943.94,4002.82,,153.24
+2023,Enero,Ecuador,Chrysal Root R,Fungicida,Field Campaign,4531,,25247.83,12782.43,12465.39,,200.75
+2025,Febrero,Colombia,Chrysal Protect Y,Fertilizante,Social Media,17635,,92494.01,56832.54,35661.47,,355.57
+2024,Enero,Ecuador,Chrysal Protect Y,Fungicida,Field Campaign,28598,,115005.83,69069.02,45936.81,,2030.37
+2025,Abril,Kenya,Chrysal Flora F,Fungicida,Influencers Agrícolas,26913,6751.0,104808.26,62525.66,42282.61,15.52,1153.31
+2024,Abril,Ecuador,Chrysal Root R,Fungicida,Influencers Agrícolas,20277,6751.0,131239.69,82056.1,49183.58,19.44,1009.04
+2024,Mayo,Kenya,Chrysal Root R,Insecticida,Field Campaign,18066,,70115.19,41687.47,28427.72,,369.74
+2025,Febrero,Kenya,Chrysal Protect Y,Regulador de crecimiento,Field Campaign,21592,6751.0,107964.89,53590.34,54374.54,15.99,1069.36
+2024,Mayo,Kenya,Chrysal Grow X,Nutricional,Field Campaign,21252,6751.0,109712.84,64852.64,44860.2,16.25,1682.93
+2022,Febrero,Holanda,Chrysal Flora F,Nutricional,E-mail Marketing,12689,,52236.25,26720.96,25515.29,,465.64
+2024,Mayo,Ecuador,Chrysal Root R,Insecticida,Field Campaign,25135,6751.0,106986.29,53325.71,53660.59,15.85,1099.03
+2023,Marzo,Colombia,Chrysal Protect Y,Fungicida,Social Media,12054,,57254.98,26600.7,30654.27,,738.08
+2025,Marzo,Colombia,Chrysal Root R,Insecticida,E-mail Marketing,21874,,,76710.38,51395.24,,1506.85
+2022,Marzo,Ecuador,Chrysal Flora F,Insecticida,E-mail Marketing,12242,,,37474.66,25805.73,,551.42
+2025,Marzo,Holanda,Chrysal Flora F,Fertilizante,Field Campaign,16999,,93874.17,46646.07,47228.11,,655.82
+2023,Enero,Holanda,Chrysal Boost Z,Regulador de crecimiento,Social Media,8091,,52267.63,31354.09,20913.54,,617.1
+2023,Marzo,Kenya,Chrysal Protect Y,Nutricional,E-mail Marketing,912,6751.0,5356.74,3393.86,1962.88,0.79,55.29
+2023,Abril,Ecuador,Chrysal Flora F,Fungicida,Influencers Agrícolas,22315,,110967.5,52332.91,58634.58,,605.66
+2024,Abril,Ecuador,Chrysal Boost Z,Nutricional,E-mail Marketing,20381,6751.0,102014.92,50653.19,51361.72,15.11,491.91
+2024,Enero,Colombia,Chrysal Boost Z,Nutricional,Field Campaign,27300,,149349.69,89617.6,59732.09,,1338.05
+2025,Marzo,Ecuador,Chrysal Root R,Regulador de crecimiento,Social Media,32826,,183710.25,92755.55,90954.7,,1090.0
+2025,Marzo,Holanda,Chrysal Root R,Nutricional,Field Campaign,17323,,89246.7,51310.86,37935.85,,610.45
+2022,Marzo,Ecuador,Chrysal Boost Z,Nutricional,Influencers Agrícolas,2224,6751.0,12323.46,5745.6,6577.86,1.83,161.6
+2022,Mayo,Colombia,Chrysal Root R,Insecticida,Influencers Agrícolas,20352,,78630.72,42495.23,36135.49,,516.41
+2025,Febrero,Kenya,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,11608,,57575.47,34419.67,23155.8,,730.4
+2024,Mayo,Colombia,Chrysal Grow X,Fertilizante,Field Campaign,7789,,35464.35,20828.31,14636.04,,282.5
+2023,Febrero,Colombia,Chrysal Flora F,Fungicida,E-mail Marketing,24420,,101312.99,62106.32,39206.67,,1602.43
+2025,Marzo,Kenya,Chrysal Boost Z,Nutricional,Field Campaign,1687,6751.0,6864.02,4293.38,2570.64,1.02,106.86
+2022,Marzo,Colombia,Chrysal Boost Z,Fungicida,Social Media,32602,,176983.83,107010.92,69972.91,,666.5
+2024,Mayo,Colombia,Chrysal Flora F,Fertilizante,E-mail Marketing,20288,6751.0,105775.98,61806.76,43969.22,15.67,1025.52
+2025,Mayo,Ecuador,Chrysal Root R,Fungicida,Influencers Agrícolas,30813,,,63060.58,75125.77,,
+2025,Febrero,Ecuador,Chrysal Root R,Fertilizante,Field Campaign,17202,6751.0,87241.06,48592.69,38648.37,12.92,1238.09
+2024,Abril,Kenya,Chrysal Boost Z,Insecticida,Influencers Agrícolas,22005,6751.0,112864.24,51639.86,61224.39,16.72,1590.85
+2025,Febrero,Ecuador,Chrysal Protect Y,Nutricional,Influencers Agrícolas,26849,,116162.85,71046.77,45116.08,,1210.91
+2024,Mayo,Ecuador,Chrysal Root R,Fertilizante,Social Media,13053,,72583.18,37318.27,35264.91,,609.1
+2023,Mayo,Colombia,Chrysal Flora F,Fungicida,E-mail Marketing,19790,6751.0,116928.86,65770.83,51158.03,17.32,755.92
+2024,Enero,Holanda,Chrysal Root R,Nutricional,Social Media,8646,,51330.88,25967.73,25363.15,,544.67
+2024,Mayo,Ecuador,Chrysal Flora F,Insecticida,Social Media,25827,,140154.57,85003.75,55150.82,,1072.33
+2024,Enero,Holanda,Chrysal Boost Z,Nutricional,Social Media,4565,,23653.2,14837.67,8815.54,,164.65
+2025,Abril,Ecuador,Chrysal Root R,Fertilizante,Influencers Agrícolas,16750,6751.0,66409.05,35178.77,31230.28,9.84,769.39
+2025,Febrero,Ecuador,Chrysal Flora F,Insecticida,Social Media,10541,,48247.68,30038.26,18209.42,,268.68
+2024,Febrero,Kenya,Chrysal Boost Z,Fungicida,Social Media,23542,,95388.25,48019.88,47368.37,,1525.43
+2025,Enero,Kenya,Chrysal Protect Y,Insecticida,E-mail Marketing,25503,,163278.43,90935.01,72343.42,,529.33
+2022,Febrero,Kenya,Chrysal Flora F,Insecticida,E-mail Marketing,23731,6751.0,98832.88,61449.57,37383.31,14.64,1392.28
+2022,Mayo,Holanda,Chrysal Protect Y,Regulador de crecimiento,Social Media,24380,,102634.77,52875.0,49759.77,,755.09
+2025,Marzo,Colombia,Chrysal Protect Y,Insecticida,E-mail Marketing,15966,6751.0,99018.85,63452.11,35566.73,14.67,541.95
+2025,Enero,Ecuador,Chrysal Grow X,Insecticida,E-mail Marketing,30040,,190712.14,90469.24,100242.89,,1746.46
+2024,Febrero,Ecuador,Chrysal Root R,Nutricional,Social Media,26791,6751.0,157202.58,71315.74,85886.84,23.29,2131.94
+2023,Enero,Ecuador,Chrysal Flora F,Fungicida,Influencers Agrícolas,33769,,128815.0,81259.99,47555.01,,2251.14
+2025,Enero,Holanda,Chrysal Protect Y,Nutricional,Social Media,11361,,43213.1,20039.2,23173.9,,381.17
+2022,Marzo,Kenya,Chrysal Grow X,Nutricional,E-mail Marketing,17701,6751.0,85334.26,55328.84,30005.42,12.64,540.97
+2024,Mayo,Colombia,Chrysal Boost Z,Fertilizante,Influencers Agrícolas,30820,6751.0,129048.5,82627.09,46421.41,19.12,2218.24
+2025,Enero,Holanda,Chrysal Flora F,Nutricional,Field Campaign,26717,6751.0,102850.9,49101.45,53749.45,15.23,1246.38
+2022,Febrero,Kenya,Chrysal Protect Y,Regulador de crecimiento,Influencers Agrícolas,2788,,14087.71,7854.14,6233.57,,78.69
+2022,Abril,Holanda,Chrysal Root R,Regulador de crecimiento,E-mail Marketing,15056,,,46531.03,49018.36,,1080.01
+2023,Enero,Colombia,Chrysal Grow X,Fertilizante,Influencers Agrícolas,22992,,107471.8,57565.23,49906.57,,1585.66
+2024,Enero,Kenya,Chrysal Protect Y,Fungicida,Social Media,29030,,162134.87,74952.52,87182.35,,2294.37
+2024,Marzo,Holanda,Chrysal Root R,Fungicida,Field Campaign,23425,6751.0,130267.26,64454.27,65812.98,19.3,1747.14
+2023,Mayo,Colombia,Chrysal Protect Y,Nutricional,Field Campaign,32888,,147269.71,76971.19,70298.52,,2338.58
+2023,Abril,Ecuador,Chrysal Flora F,Nutricional,Field Campaign,14914,,82864.39,44558.63,38305.76,,345.33
+2024,Febrero,Colombia,Chrysal Flora F,Nutricional,E-mail Marketing,6555,,28666.99,18504.52,10162.47,,172.17
+2024,Abril,Ecuador,Chrysal Flora F,Fungicida,E-mail Marketing,11625,,48004.51,29358.27,18646.24,,629.37
+2025,Febrero,Holanda,Chrysal Grow X,Insecticida,Field Campaign,23493,,133762.91,79920.93,53841.98,,1219.02
+2025,Mayo,Kenya,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,4917,,20190.63,11254.42,8936.21,,233.45
+2023,Febrero,Kenya,Chrysal Root R,Insecticida,Field Campaign,25529,,165725.46,102418.26,63307.2,,1118.36
+2025,Marzo,Holanda,Chrysal Protect Y,Insecticida,Influencers Agrícolas,32982,6751.0,141668.29,73364.99,68303.3,20.98,1512.97
+2022,Marzo,Kenya,Chrysal Boost Z,Fungicida,Influencers Agrícolas,29690,,160450.19,94951.19,65499.01,,1607.95
+2025,Marzo,Kenya,Chrysal Root R,Insecticida,E-mail Marketing,30140,,148008.84,96021.74,51987.1,,606.56
+2025,Marzo,Ecuador,Chrysal Root R,Fertilizante,Influencers Agrícolas,2318,,9599.4,4923.78,4675.62,,82.62
+2022,Abril,Holanda,Chrysal Flora F,Nutricional,Field Campaign,31749,,123033.04,71950.16,51082.89,,1622.27
+2023,Mayo,Colombia,Chrysal Grow X,Fertilizante,E-mail Marketing,23347,6751.0,127973.71,79198.19,48775.52,18.96,1478.63
+2022,Febrero,Ecuador,Chrysal Protect Y,Regulador de crecimiento,Social Media,17146,6751.0,102503.0,64900.95,37602.04,15.18,522.09
+2025,Febrero,Holanda,Chrysal Grow X,Nutricional,Social Media,3400,6751.0,20649.7,12257.39,8392.32,3.06,179.56
+2023,Marzo,Ecuador,Chrysal Protect Y,Insecticida,E-mail Marketing,30067,6751.0,153441.71,77752.23,75689.49,22.73,1890.24
+2025,Marzo,Colombia,Chrysal Protect Y,Regulador de crecimiento,Field Campaign,27790,6751.0,163936.82,84469.5,79467.32,24.28,1297.17
+2022,Enero,Colombia,Chrysal Grow X,Nutricional,Social Media,16993,6751.0,95444.37,43346.21,52098.15,14.14,367.47
+2022,Mayo,Holanda,Chrysal Root R,Insecticida,Social Media,30909,,177896.35,107125.13,70771.23,,1451.37
+2025,Abril,Colombia,Chrysal Protect Y,Fertilizante,Influencers Agrícolas,20033,6751.0,102769.64,47124.8,55644.83,15.22,756.98
+2024,Febrero,Ecuador,Chrysal Grow X,Nutricional,Influencers Agrícolas,16994,6751.0,93640.54,58331.54,35308.99,13.87,1287.79
+2024,Enero,Colombia,Chrysal Protect Y,Insecticida,Field Campaign,2106,,12583.18,5961.06,6622.12,,57.87
+2022,Enero,Ecuador,Chrysal Boost Z,Fertilizante,E-mail Marketing,4649,6751.0,22660.56,10976.22,11684.35,3.36,274.98
+2022,Febrero,Ecuador,Chrysal Root R,Regulador de crecimiento,Field Campaign,13160,,78646.04,42886.1,35759.94,,304.83
+2024,Abril,Colombia,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,30031,,162120.72,96879.46,65241.25,,1404.56
+2024,Enero,Holanda,Chrysal Protect Y,Regulador de crecimiento,Social Media,19489,6751.0,82787.96,39556.12,43231.84,12.26,1037.57
+2025,Enero,Kenya,Chrysal Boost Z,Regulador de crecimiento,Influencers Agrícolas,29884,,115550.89,62168.02,53382.87,,1131.93
+2025,Mayo,Colombia,Chrysal Flora F,Fungicida,Field Campaign,10080,6751.0,48176.7,26331.95,21844.75,7.14,476.83
+2024,Abril,Ecuador,Chrysal Flora F,Nutricional,Field Campaign,3442,6751.0,18160.27,8943.15,9217.11,2.69,102.62
+2025,Enero,Ecuador,Chrysal Protect Y,Nutricional,E-mail Marketing,15096,,91595.21,43334.76,48260.44,,577.38
+2025,Abril,Colombia,Chrysal Grow X,Fungicida,E-mail Marketing,16238,,67293.7,41539.34,25754.36,,929.89
+2023,Febrero,Holanda,Chrysal Protect Y,Insecticida,Field Campaign,3794,6751.0,22614.35,12449.05,10165.31,3.35,144.58
+2025,Marzo,Holanda,Chrysal Boost Z,Insecticida,E-mail Marketing,34839,,,96719.6,116847.8,,2577.55
+2022,Enero,Ecuador,Chrysal Flora F,Regulador de crecimiento,Field Campaign,2613,,10992.52,6711.99,4280.53,,150.78
+2025,Mayo,Ecuador,Chrysal Protect Y,Fertilizante,Field Campaign,28291,6751.0,172555.43,111498.2,61057.23,25.56,1310.41
+2025,Febrero,Holanda,Chrysal Grow X,Insecticida,Field Campaign,19645,6751.0,127239.18,72677.14,54562.04,18.85,438.58
+2024,Abril,Kenya,Chrysal Protect Y,Fertilizante,Social Media,14118,,81354.48,44805.3,36549.18,,705.52
+2022,Febrero,Colombia,Chrysal Root R,Nutricional,E-mail Marketing,18000,6751.0,106539.81,66660.16,39879.64,15.78,1185.96
+2025,Enero,Ecuador,Chrysal Grow X,Fertilizante,Influencers Agrícolas,882,6751.0,5719.7,3663.49,2056.21,0.85,31.69
+2025,Abril,Ecuador,Chrysal Boost Z,Nutricional,Influencers Agrícolas,2720,6751.0,14782.65,8883.01,5899.65,2.19,186.07
+2023,Marzo,Holanda,Chrysal Flora F,Fungicida,E-mail Marketing,12483,6751.0,57812.43,31166.14,26646.29,8.56,438.26
+2025,Febrero,Colombia,Chrysal Protect Y,Fungicida,Field Campaign,12136,6751.0,73560.34,41814.95,31745.39,10.9,842.54
+2025,Enero,Holanda,Chrysal Grow X,Regulador de crecimiento,Influencers Agrícolas,16396,6751.0,89507.59,52826.22,36681.37,13.26,411.8
+2023,Mayo,Colombia,Chrysal Root R,Insecticida,Influencers Agrícolas,2893,6751.0,15533.18,7593.47,7939.71,2.3,208.21
+2024,Abril,Colombia,Chrysal Grow X,Regulador de crecimiento,E-mail Marketing,13705,,,33156.37,28308.03,,
+2025,Febrero,Colombia,Chrysal Root R,Nutricional,Influencers Agrícolas,25151,6751.0,146934.72,90506.54,56428.19,21.76,950.51
+2023,Febrero,Ecuador,Chrysal Boost Z,Regulador de crecimiento,Field Campaign,31781,,127775.56,74230.58,53544.98,,1141.15
+2022,Marzo,Kenya,Chrysal Flora F,Fertilizante,E-mail Marketing,9167,,,30716.44,26995.1,,
+2024,Marzo,Holanda,Chrysal Boost Z,Nutricional,Field Campaign,6085,,28476.12,16592.25,11883.87,,486.45
+2022,Mayo,Kenya,Chrysal Protect Y,Fungicida,Influencers Agrícolas,17553,6751.0,72757.04,34460.97,38296.07,10.78,583.1
+2022,Mayo,Holanda,Chrysal Grow X,Insecticida,Influencers Agrícolas,19285,6751.0,96316.8,51076.76,45240.05,14.27,505.13
+2023,Enero,Colombia,Chrysal Root R,Nutricional,Field Campaign,13777,,53932.39,32824.64,21107.75,,759.14
+2025,Enero,Ecuador,Chrysal Root R,Nutricional,Social Media,20674,6751.0,116776.9,57699.67,59077.23,17.3,1019.49
+2023,Mayo,Kenya,Chrysal Grow X,Fertilizante,Influencers Agrícolas,8474,,52854.92,25750.51,27104.41,,436.0
+2023,Mayo,Ecuador,Chrysal Grow X,Insecticida,Social Media,29838,6751.0,180836.48,115764.96,65071.53,26.79,1790.76
+2023,Abril,Holanda,Chrysal Protect Y,Fungicida,Influencers Agrícolas,30115,6751.0,124793.48,61395.83,63397.64,18.49,1085.0
+2023,Marzo,Ecuador,Chrysal Boost Z,Nutricional,Social Media,4476,,18534.81,9307.88,9226.93,,334.09
+2024,Enero,Ecuador,Chrysal Root R,Nutricional,Social Media,3226,,19343.98,12456.04,6887.94,,148.85
+2025,Marzo,Kenya,Chrysal Protect Y,Fertilizante,Social Media,25273,,159105.83,94976.91,64128.92,,701.2
+2022,Marzo,Colombia,Chrysal Boost Z,Regulador de crecimiento,Field Campaign,3762,6751.0,18974.81,11193.61,7781.2,2.81,242.79
+2022,Mayo,Ecuador,Chrysal Protect Y,Fungicida,Social Media,30743,,158241.05,98202.06,60038.98,,1801.12
+2025,Abril,Colombia,Chrysal Root R,Insecticida,Social Media,1659,6751.0,,3657.46,4072.33,1.14,
+2022,Febrero,Holanda,Chrysal Grow X,Nutricional,Social Media,4938,6751.0,30687.28,18142.05,12545.23,4.55,282.9
+2025,Abril,Ecuador,Chrysal Grow X,Nutricional,Influencers Agrícolas,26440,6751.0,146510.33,80688.76,65821.56,21.7,877.59
+2022,Abril,Kenya,Chrysal Boost Z,Fungicida,Social Media,11209,,51317.93,31603.13,19714.8,,523.35
+2023,Marzo,Holanda,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,4817,,22190.54,12240.93,9949.61,,356.29
+2022,Abril,Holanda,Chrysal Boost Z,Nutricional,Social Media,11251,,69826.41,40083.73,29742.68,,315.16
+2025,Enero,Kenya,Chrysal Flora F,Fungicida,Social Media,29127,6751.0,111754.82,60967.67,50787.15,16.55,1258.34
+2025,Marzo,Ecuador,Chrysal Protect Y,Fertilizante,Field Campaign,11078,6751.0,51749.35,28236.09,23513.26,7.67,767.36
+2025,Enero,Ecuador,Chrysal Protect Y,Regulador de crecimiento,Influencers Agrícolas,25744,,136359.87,82306.0,54053.87,,2012.39
+2025,Febrero,Holanda,Chrysal Root R,Insecticida,Social Media,1934,6751.0,8123.16,4676.61,3446.55,1.2,91.35
+2025,Marzo,Ecuador,Chrysal Flora F,Nutricional,Influencers Agrícolas,30931,6751.0,125229.31,72213.81,53015.5,18.55,1559.54
+2024,Febrero,Colombia,Chrysal Root R,Fungicida,Influencers Agrícolas,23320,,139949.06,75580.4,64368.66,,1266.98
+2024,Marzo,Kenya,Chrysal Grow X,Fertilizante,E-mail Marketing,22669,,140885.38,78363.54,62521.85,,1721.5
+2022,Mayo,Colombia,Chrysal Flora F,Insecticida,Field Campaign,5839,,35172.6,21073.44,14099.17,,417.44
+2025,Abril,Ecuador,Chrysal Boost Z,Fungicida,Field Campaign,22081,6751.0,137492.37,84583.68,52908.69,20.37,667.64
+2022,Mayo,Holanda,Chrysal Grow X,Fungicida,Field Campaign,11242,6751.0,59508.43,35069.05,24439.38,8.81,519.44
+2025,Febrero,Kenya,Chrysal Grow X,Insecticida,E-mail Marketing,9052,6751.0,54249.51,34438.38,19811.13,8.04,433.05
+2025,Abril,Ecuador,Chrysal Boost Z,Fertilizante,E-mail Marketing,28386,6751.0,137300.67,84311.51,52989.16,20.34,1911.68
+2024,Marzo,Ecuador,Chrysal Grow X,Fertilizante,Field Campaign,18368,6751.0,102841.02,57834.99,45006.03,15.23,1031.8
+2024,Abril,Holanda,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,21610,,139813.59,81690.45,58123.13,,1280.46
+2023,Enero,Holanda,Chrysal Root R,Nutricional,E-mail Marketing,2351,6751.0,10366.65,6585.54,3781.12,1.54,187.83
+2024,Abril,Colombia,Chrysal Grow X,Insecticida,E-mail Marketing,13425,6751.0,65147.89,37384.05,27763.84,9.65,328.88
+2023,Enero,Kenya,Chrysal Flora F,Insecticida,Field Campaign,27049,6751.0,137845.16,84769.45,53075.71,20.42,902.91
+2023,Abril,Kenya,Chrysal Protect Y,Insecticida,Field Campaign,2161,,9017.08,5299.9,3717.18,,96.11
+2023,Enero,Holanda,Chrysal Flora F,Fertilizante,Field Campaign,26949,,108302.76,60691.49,47611.27,,1101.32
+2023,Febrero,Colombia,Chrysal Root R,Nutricional,E-mail Marketing,5170,,,15563.08,15665.03,,110.11
+2023,Mayo,Kenya,Chrysal Flora F,Regulador de crecimiento,Field Campaign,6083,6751.0,39158.37,20957.54,18200.83,5.8,155.16
+2022,Marzo,Holanda,Chrysal Boost Z,Fungicida,E-mail Marketing,8410,,41148.09,26480.8,14667.3,,511.81
+2024,Abril,Ecuador,Chrysal Root R,Fungicida,Social Media,15724,,63472.36,36912.54,26559.81,,1144.07
+2023,Mayo,Kenya,Chrysal Protect Y,Insecticida,E-mail Marketing,11426,,45449.11,25582.35,19866.76,,581.05
+2025,Marzo,Colombia,Chrysal Boost Z,Nutricional,Influencers Agrícolas,1669,6751.0,,6594.29,3764.46,1.53,87.37
+2024,Marzo,Colombia,Chrysal Flora F,Fertilizante,Field Campaign,32352,,163451.96,92726.68,70725.28,,1142.21
+2024,Enero,Colombia,Chrysal Root R,Nutricional,Field Campaign,1814,6751.0,8460.63,4697.48,3763.15,1.25,119.86
+2023,Febrero,Ecuador,Chrysal Protect Y,Nutricional,Influencers Agrícolas,10903,6751.0,55457.51,33377.78,22079.73,8.21,709.87
+2022,Febrero,Kenya,Chrysal Boost Z,Fertilizante,E-mail Marketing,17786,,82872.46,49104.68,33767.78,,983.6
+2023,Mayo,Kenya,Chrysal Protect Y,Insecticida,Social Media,31271,6751.0,,78239.72,81880.2,23.72,1024.43
+2022,Febrero,Ecuador,Chrysal Flora F,Nutricional,Influencers Agrícolas,34258,,,114124.29,95562.15,,
+2025,Abril,Kenya,Chrysal Protect Y,Fungicida,Influencers Agrícolas,25869,6751.0,,76051.98,63620.28,20.69,617.09
+2024,Febrero,Ecuador,Chrysal Grow X,Fertilizante,E-mail Marketing,17673,,100304.26,52724.42,47579.84,,981.94
+2025,Mayo,Ecuador,Chrysal Boost Z,Regulador de crecimiento,Field Campaign,24048,,115060.32,63681.14,51379.19,,1671.39
+2022,Febrero,Ecuador,Chrysal Protect Y,Insecticida,E-mail Marketing,24424,,141511.82,75372.24,66139.59,,1746.31
+2022,Abril,Colombia,Chrysal Flora F,Fertilizante,Influencers Agrícolas,29861,6751.0,,81914.74,85302.87,24.77,
+2025,Enero,Kenya,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,24970,,,54816.4,48130.35,,1674.4
+2022,Mayo,Ecuador,Chrysal Protect Y,Regulador de crecimiento,Field Campaign,8824,6751.0,,21910.36,25263.94,6.99,
+2025,Enero,Kenya,Chrysal Flora F,Nutricional,Field Campaign,17478,,78532.28,44383.08,34149.2,,638.13
+2024,Enero,Colombia,Chrysal Root R,Nutricional,Field Campaign,21211,6751.0,,78616.88,48035.23,18.76,
+2025,Enero,Ecuador,Chrysal Root R,Nutricional,E-mail Marketing,20096,6751.0,99475.84,59193.84,40282.0,14.73,1525.06
+2024,Marzo,Holanda,Chrysal Root R,Fertilizante,Field Campaign,27093,,175715.64,91737.41,83978.23,,1091.68
+2025,Marzo,Colombia,Chrysal Grow X,Fertilizante,Influencers Agrícolas,27972,,113279.64,52948.52,60331.12,,2093.22
+2022,Enero,Holanda,Chrysal Protect Y,Insecticida,Influencers Agrícolas,21928,,129527.36,63524.09,66003.27,,1729.3
+2025,Mayo,Kenya,Chrysal Grow X,Nutricional,Social Media,19057,,107081.18,59868.88,47212.3,,1137.87
+2022,Abril,Kenya,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,13655,,80185.53,39404.09,40781.45,,942.38
+2025,Abril,Colombia,Chrysal Grow X,Fungicida,Social Media,20442,6751.0,94653.22,52891.71,41761.51,14.02,1328.17
+2025,Febrero,Kenya,Chrysal Flora F,Insecticida,Influencers Agrícolas,20825,,106801.99,53007.94,53794.05,,1290.57
+2023,Mayo,Holanda,Chrysal Flora F,Fertilizante,Social Media,5258,,31288.11,19391.9,11896.22,,201.99
+2022,Marzo,Ecuador,Chrysal Boost Z,Insecticida,Influencers Agrícolas,6107,6751.0,27040.95,14316.95,12724.0,4.01,143.06
+2023,Enero,Ecuador,Chrysal Root R,Insecticida,Social Media,19225,,84787.82,42318.46,42469.36,,780.21
+2022,Febrero,Ecuador,Chrysal Flora F,Insecticida,Field Campaign,29073,,153733.3,94156.3,59577.0,,1744.85
+2023,Abril,Colombia,Chrysal Boost Z,Insecticida,Social Media,6468,6751.0,33721.7,17486.99,16234.71,5.0,169.15
+2024,Marzo,Kenya,Chrysal Root R,Fungicida,Field Campaign,26734,,121963.41,57603.02,64360.39,,553.8
+2025,Marzo,Holanda,Chrysal Flora F,Nutricional,Field Campaign,8497,,39127.02,22070.84,17056.18,,241.16
+2022,Enero,Kenya,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,25217,,,64979.83,49762.11,,1587.26
+2022,Abril,Kenya,Chrysal Grow X,Insecticida,Field Campaign,17246,6751.0,101459.64,60159.39,41300.25,15.03,1351.53
+2025,Mayo,Kenya,Chrysal Grow X,Insecticida,Field Campaign,11551,,64225.09,31986.91,32238.18,,912.34
+2022,Marzo,Ecuador,Chrysal Root R,Insecticida,Social Media,8152,6751.0,49299.44,26560.28,22739.15,7.3,404.66
+2022,Enero,Holanda,Chrysal Flora F,Nutricional,Influencers Agrícolas,14316,,92105.95,46649.23,45456.72,,1033.06
+2023,Mayo,Holanda,Chrysal Protect Y,Fertilizante,E-mail Marketing,24099,6751.0,,57075.17,65353.62,18.13,1547.39
+2022,Abril,Kenya,Chrysal Grow X,Fertilizante,Field Campaign,32757,,130375.27,81526.62,48848.64,,1639.89
+2024,Marzo,Ecuador,Chrysal Root R,Fungicida,E-mail Marketing,29727,6751.0,116822.63,69599.88,47222.75,17.3,1616.13
+2024,Mayo,Ecuador,Chrysal Flora F,Fertilizante,Social Media,30293,6751.0,139296.17,71081.81,68214.36,20.63,855.28
+2025,Mayo,Holanda,Chrysal Flora F,Insecticida,Field Campaign,27511,6751.0,173810.93,99050.44,74760.5,25.75,2097.98
+2022,Mayo,Ecuador,Chrysal Protect Y,Insecticida,Social Media,8803,6751.0,45887.18,22496.32,23390.86,6.8,361.94
+2025,Marzo,Ecuador,Chrysal Root R,Insecticida,E-mail Marketing,32507,6751.0,,92562.24,54818.76,21.83,1520.32
+2024,Marzo,Ecuador,Chrysal Flora F,Fungicida,Social Media,4078,6751.0,19891.47,9408.29,10483.18,2.95,245.9
+2022,Febrero,Colombia,Chrysal Grow X,Insecticida,E-mail Marketing,8096,,43849.61,19765.98,24083.63,,324.12
+2022,Abril,Kenya,Chrysal Protect Y,Fertilizante,Social Media,26198,,145738.53,80214.73,65523.81,,923.62
+2025,Enero,Holanda,Chrysal Root R,Nutricional,E-mail Marketing,14061,6751.0,,33586.9,25688.4,8.78,813.61
+2024,Mayo,Holanda,Chrysal Protect Y,Nutricional,Influencers Agrícolas,11973,6751.0,77082.0,43612.46,33469.54,11.42,257.41
+2022,Febrero,Colombia,Chrysal Grow X,Regulador de crecimiento,Social Media,31249,6751.0,164709.89,75915.18,88794.71,24.4,1976.3
+2025,Enero,Kenya,Chrysal Root R,Fertilizante,Social Media,2437,6751.0,,5206.76,4946.66,1.5,123.9
+2024,Febrero,Holanda,Chrysal Protect Y,Insecticida,Influencers Agrícolas,32581,,202419.73,111298.42,91121.31,,1835.78
+2025,Marzo,Ecuador,Chrysal Boost Z,Nutricional,Influencers Agrícolas,14452,6751.0,57830.02,28528.47,29301.56,8.57,836.96
+2023,Mayo,Holanda,Chrysal Grow X,Fertilizante,Social Media,5903,,,23044.34,13854.64,,
+2022,Enero,Ecuador,Chrysal Grow X,Nutricional,Influencers Agrícolas,26300,,170706.13,79791.78,90914.35,,1445.24
+2023,Enero,Colombia,Chrysal Grow X,Insecticida,Field Campaign,19252,6751.0,109566.33,59985.03,49581.29,16.23,1174.9
+2024,Enero,Ecuador,Chrysal Boost Z,Nutricional,E-mail Marketing,31974,6751.0,188013.75,110605.34,77408.42,27.85,2084.29
+2023,Enero,Holanda,Chrysal Boost Z,Regulador de crecimiento,E-mail Marketing,16754,,78923.36,39647.17,39276.19,,1066.34
+2023,Enero,Holanda,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,17986,,114071.84,65573.99,48497.86,,1298.18
+2024,Febrero,Holanda,Chrysal Protect Y,Nutricional,Field Campaign,13156,6751.0,68808.88,42377.81,26431.07,10.19,412.66
+2025,Mayo,Colombia,Chrysal Flora F,Fertilizante,Influencers Agrícolas,33763,6751.0,195064.0,95204.38,99859.62,28.89,1487.9
+2023,Marzo,Colombia,Chrysal Protect Y,Fertilizante,Influencers Agrícolas,2987,6751.0,18803.44,11910.93,6892.51,2.79,229.6
+2025,Marzo,Kenya,Chrysal Boost Z,Fertilizante,Social Media,12507,,80457.36,45113.38,35343.97,,547.75
+2023,Marzo,Holanda,Chrysal Boost Z,Nutricional,Influencers Agrícolas,27735,,167787.09,85545.64,82241.45,,762.5
+2025,Marzo,Ecuador,Chrysal Flora F,Fertilizante,Social Media,22025,6751.0,101714.69,54536.54,47178.16,15.07,1134.88
+2024,Febrero,Colombia,Chrysal Root R,Insecticida,Field Campaign,4406,,,14471.79,13769.25,,117.07
+2023,Abril,Holanda,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,33628,,184816.89,109970.16,74846.73,,1081.85
+2024,Mayo,Holanda,Chrysal Protect Y,Insecticida,E-mail Marketing,27289,6751.0,172268.22,104956.16,67312.06,25.52,2180.37
+2023,Enero,Colombia,Chrysal Flora F,Fertilizante,E-mail Marketing,15187,6751.0,85434.22,52677.67,32756.55,12.66,797.04
+2024,Abril,Kenya,Chrysal Grow X,Insecticida,Influencers Agrícolas,4727,,21883.86,14162.22,7721.64,,175.1
+2024,Marzo,Colombia,Chrysal Protect Y,Fertilizante,Social Media,7096,,,20713.68,13340.49,,565.46
+2023,Abril,Colombia,Chrysal Protect Y,Nutricional,Social Media,31244,6751.0,165164.34,94189.39,70974.95,24.47,2436.83
+2023,Mayo,Ecuador,Chrysal Root R,Insecticida,Field Campaign,3391,6751.0,20118.94,10418.47,9700.47,2.98,157.49
+2023,Enero,Ecuador,Chrysal Boost Z,Nutricional,Influencers Agrícolas,26947,6751.0,125534.02,70163.36,55370.66,18.59,959.96
+2022,Enero,Kenya,Chrysal Protect Y,Nutricional,Field Campaign,2000,6751.0,10730.55,4916.88,5813.66,1.59,140.61
+2025,Mayo,Holanda,Chrysal Boost Z,Fungicida,Social Media,16521,6751.0,78196.99,46837.26,31359.73,11.58,1039.79
+2022,Mayo,Colombia,Chrysal Flora F,Fertilizante,Social Media,20038,,,64853.72,55425.93,,1226.66
+2022,Marzo,Kenya,Chrysal Grow X,Regulador de crecimiento,E-mail Marketing,11887,,60150.19,27308.47,32841.73,,874.73
+2024,Enero,Ecuador,Chrysal Root R,Fertilizante,Influencers Agrícolas,31616,,126690.11,58594.35,68095.76,,1940.12
+2023,Abril,Colombia,Chrysal Boost Z,Regulador de crecimiento,Social Media,24208,,102843.86,54249.45,48594.41,,896.37
+2025,Febrero,Holanda,Chrysal Protect Y,Fertilizante,E-mail Marketing,936,6751.0,,2103.09,1608.13,0.55,
+2024,Febrero,Ecuador,Chrysal Boost Z,Nutricional,Influencers Agrícolas,18213,6751.0,93762.67,50898.2,42864.47,13.89,698.45
+2022,Mayo,Ecuador,Chrysal Protect Y,Insecticida,Field Campaign,19778,6751.0,80834.88,46386.35,34448.52,11.97,1296.53
+2023,Marzo,Ecuador,Chrysal Boost Z,Insecticida,Influencers Agrícolas,1461,,6002.05,3277.47,2724.58,,83.55
+2024,Febrero,Kenya,Chrysal Protect Y,Fungicida,Influencers Agrícolas,28053,,177879.31,103586.38,74292.94,,691.36
+2023,Enero,Holanda,Chrysal Flora F,Regulador de crecimiento,Social Media,27684,,170427.37,84161.33,86266.04,,1405.52
+2024,Mayo,Colombia,Chrysal Protect Y,Regulador de crecimiento,Social Media,33654,6751.0,168964.41,79847.28,89117.13,25.03,1366.29
+2023,Abril,Kenya,Chrysal Protect Y,Regulador de crecimiento,Influencers Agrícolas,11504,,74335.1,42317.99,32017.11,,456.87
+2022,Mayo,Kenya,Chrysal Grow X,Nutricional,Social Media,25327,6751.0,96255.36,52645.7,43609.65,14.26,1421.74
+2025,Abril,Kenya,Chrysal Protect Y,Regulador de crecimiento,Social Media,17122,6751.0,93447.5,42553.52,50893.98,13.84,673.57
+2022,Mayo,Ecuador,Chrysal Grow X,Insecticida,Social Media,7768,6751.0,42447.12,22331.28,20115.84,6.29,517.45
+2025,Mayo,Holanda,Chrysal Root R,Nutricional,E-mail Marketing,28318,6751.0,142583.86,67189.09,75394.76,21.12,686.64
+2023,Mayo,Kenya,Chrysal Grow X,Fertilizante,E-mail Marketing,28686,6751.0,139751.29,77739.64,62011.65,20.7,1710.35
+2024,Abril,Colombia,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,2500,6751.0,12573.84,6653.52,5920.32,1.86,171.38
+2022,Abril,Holanda,Chrysal Grow X,Regulador de crecimiento,Social Media,29046,,142917.74,81839.04,61078.7,,1753.5
+2025,Mayo,Colombia,Chrysal Root R,Fertilizante,E-mail Marketing,23999,6751.0,138530.14,84658.6,53871.54,20.52,1195.96
+2022,Febrero,Holanda,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,32915,6751.0,137106.11,69915.03,67191.08,20.31,2535.06
+2025,Marzo,Colombia,Chrysal Boost Z,Fertilizante,Social Media,6320,,27388.52,17594.94,9793.57,,240.14
+2022,Marzo,Ecuador,Chrysal Boost Z,Nutricional,Field Campaign,21729,6751.0,93160.9,51902.44,41258.46,13.8,459.57
+2025,Marzo,Kenya,Chrysal Grow X,Insecticida,Social Media,15755,,71034.1,40749.29,30284.81,,723.46
+2025,Abril,Colombia,Chrysal Grow X,Fertilizante,Social Media,14717,,,45012.91,31783.31,,323.49
+2023,Abril,Holanda,Chrysal Root R,Fungicida,E-mail Marketing,5557,,22785.16,13291.64,9493.52,,429.2
+2025,Febrero,Kenya,Chrysal Root R,Fertilizante,Influencers Agrícolas,13845,6751.0,85064.47,46972.1,38092.37,12.6,451.28
+2023,Marzo,Kenya,Chrysal Protect Y,Regulador de crecimiento,Influencers Agrícolas,5533,6751.0,,13644.4,11823.31,3.77,
+2025,Marzo,Holanda,Chrysal Root R,Nutricional,E-mail Marketing,31754,,134600.52,62018.05,72582.47,,2110.83
+2024,Mayo,Colombia,Chrysal Protect Y,Nutricional,Social Media,31935,6751.0,179608.11,81617.01,97991.1,26.6,1055.89
+2024,Abril,Ecuador,Chrysal Flora F,Fertilizante,Field Campaign,7881,6751.0,30758.23,16043.25,14714.97,4.56,451.37
+2024,Marzo,Ecuador,Chrysal Grow X,Insecticida,Social Media,24301,,133021.61,68736.55,64285.06,,556.12
+2025,Febrero,Colombia,Chrysal Flora F,Fungicida,Social Media,21913,,124578.38,65719.96,58858.42,,1074.05
+2023,Febrero,Kenya,Chrysal Root R,Nutricional,Field Campaign,25490,6751.0,111653.2,53333.79,58319.41,16.54,532.2
+2023,Marzo,Kenya,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,30145,,117966.52,70500.76,47465.76,,2268.97
+2025,Abril,Kenya,Chrysal Flora F,Regulador de crecimiento,Influencers Agrícolas,27629,,132117.53,82096.89,50020.64,,2170.68
+2024,Febrero,Kenya,Chrysal Flora F,Insecticida,E-mail Marketing,4430,,18013.29,11487.85,6525.44,,147.68
+2024,Mayo,Colombia,Chrysal Root R,Nutricional,E-mail Marketing,32670,6751.0,134420.39,73725.88,60694.51,19.91,1061.33
+2023,Febrero,Kenya,Chrysal Flora F,Fertilizante,Social Media,4253,6751.0,,11261.16,7819.95,2.83,
+2024,Enero,Holanda,Chrysal Protect Y,Regulador de crecimiento,Influencers Agrícolas,9128,6751.0,,26066.99,15901.39,6.22,321.33
+2022,Enero,Kenya,Chrysal Root R,Insecticida,Influencers Agrícolas,16334,,85441.85,45596.74,39845.1,,1203.89
+2023,Abril,Ecuador,Chrysal Flora F,Nutricional,E-mail Marketing,20544,6751.0,115696.78,59223.17,56473.62,17.14,1118.33
+2024,Marzo,Kenya,Chrysal Root R,Nutricional,Field Campaign,20189,,109030.32,69489.92,39540.4,,828.69
+2023,Abril,Colombia,Chrysal Boost Z,Nutricional,E-mail Marketing,15465,6751.0,64961.86,35932.7,29029.16,9.62,1081.96
+2022,Abril,Ecuador,Chrysal Protect Y,Nutricional,Field Campaign,9440,6751.0,40258.13,22119.86,18138.27,5.96,468.27
+2023,Abril,Colombia,Chrysal Flora F,Nutricional,Influencers Agrícolas,26321,,162471.03,78909.45,83561.58,,1966.13
+2023,Abril,Colombia,Chrysal Boost Z,Regulador de crecimiento,E-mail Marketing,30849,6751.0,163732.65,77221.39,86511.26,24.25,2334.68
+2023,Mayo,Ecuador,Chrysal Boost Z,Insecticida,Social Media,6418,,39463.2,24404.89,15058.32,,192.06
+2023,Mayo,Colombia,Chrysal Root R,Nutricional,E-mail Marketing,2720,6751.0,13064.64,7483.77,5580.87,1.94,54.78
+2022,Febrero,Colombia,Chrysal Boost Z,Fungicida,Influencers Agrícolas,4988,6751.0,,14027.37,13201.52,4.03,
+2025,Enero,Kenya,Chrysal Protect Y,Fungicida,Social Media,13007,,,33118.29,34698.8,,
+2023,Abril,Holanda,Chrysal Protect Y,Insecticida,Social Media,1038,,4838.78,2715.03,2123.74,,24.21
+2023,Febrero,Colombia,Chrysal Grow X,Fertilizante,Field Campaign,33772,,171182.55,97023.51,74159.04,,2363.43
+2024,Enero,Colombia,Chrysal Protect Y,Fertilizante,Social Media,11599,6751.0,,29391.96,30420.9,8.86,
+2023,Marzo,Colombia,Chrysal Boost Z,Fertilizante,Social Media,6352,6751.0,27580.9,17107.91,10472.99,4.09,225.74
+2024,Mayo,Kenya,Chrysal Protect Y,Fungicida,E-mail Marketing,29716,6751.0,138195.09,64516.77,73678.32,20.47,2161.09
+2025,Enero,Holanda,Chrysal Root R,Fertilizante,Influencers Agrícolas,5727,,34000.09,17721.48,16278.61,,182.12
+2022,Marzo,Ecuador,Chrysal Grow X,Regulador de crecimiento,Field Campaign,28764,,180425.88,105743.44,74682.44,,2210.17
+2022,Enero,Kenya,Chrysal Boost Z,Nutricional,E-mail Marketing,11964,,57085.56,28818.16,28267.39,,386.88
+2025,Mayo,Kenya,Chrysal Grow X,Fungicida,Social Media,19871,6751.0,91979.38,56616.53,35362.85,13.62,1129.09
+2022,Mayo,Holanda,Chrysal Boost Z,Insecticida,Social Media,6960,6751.0,30116.15,18008.66,12107.49,4.46,232.36
+2025,Febrero,Holanda,Chrysal Root R,Insecticida,Field Campaign,16610,,,56857.86,36688.43,,876.01
+2025,Abril,Kenya,Chrysal Grow X,Nutricional,Influencers Agrícolas,5926,6751.0,27688.46,13119.38,14569.08,4.1,361.71
+2025,Enero,Ecuador,Chrysal Flora F,Fungicida,Field Campaign,30809,,,95258.26,103981.19,,
+2022,Enero,Kenya,Chrysal Boost Z,Fertilizante,E-mail Marketing,34384,6751.0,160894.73,81621.05,79273.68,23.83,1762.29
+2024,Marzo,Holanda,Chrysal Flora F,Fertilizante,Field Campaign,26196,6751.0,127421.73,70542.63,56879.09,18.87,1261.17
+2025,Mayo,Ecuador,Chrysal Grow X,Regulador de crecimiento,Social Media,992,,,3229.21,2156.37,,
+2023,Enero,Holanda,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,13616,6751.0,81213.28,50133.46,31079.82,12.03,940.84
+2022,Mayo,Ecuador,Chrysal Flora F,Fertilizante,Social Media,32930,6751.0,166879.37,98603.53,68275.85,24.72,1321.84
+2025,Enero,Colombia,Chrysal Grow X,Insecticida,Influencers Agrícolas,31498,,155637.01,98941.47,56695.55,,1715.85
+2025,Febrero,Holanda,Chrysal Root R,Insecticida,Social Media,11455,,74322.58,44426.23,29896.36,,582.91
+2023,Abril,Holanda,Chrysal Flora F,Regulador de crecimiento,Social Media,30875,6751.0,118199.78,60430.06,57769.72,17.51,1568.32
+2024,Enero,Kenya,Chrysal Flora F,Nutricional,Field Campaign,10159,,63155.21,31768.1,31387.11,,268.54
+2024,Mayo,Holanda,Chrysal Root R,Fertilizante,Social Media,34072,6751.0,143193.72,84375.25,58818.47,21.21,1547.17
+2024,Febrero,Holanda,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,15471,,91619.23,44762.79,46856.45,,729.33
+2025,Enero,Colombia,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,27848,6751.0,,71351.8,80932.63,22.56,1782.79
+2025,Marzo,Holanda,Chrysal Flora F,Fertilizante,Influencers Agrícolas,11538,6751.0,54493.83,30322.8,24171.03,8.07,812.29
+2025,Abril,Colombia,Chrysal Protect Y,Fertilizante,E-mail Marketing,26763,,164845.69,101269.38,63576.32,,1410.38
+2022,Enero,Colombia,Chrysal Root R,Insecticida,Field Campaign,7573,6751.0,,13657.43,15383.88,4.3,190.89
+2023,Febrero,Colombia,Chrysal Flora F,Nutricional,Influencers Agrícolas,30694,6751.0,135423.92,82388.97,53034.95,20.06,1050.07
+2025,Marzo,Colombia,Chrysal Root R,Nutricional,E-mail Marketing,1517,,8086.54,4951.5,3135.03,,45.35
+2023,Febrero,Ecuador,Chrysal Boost Z,Fertilizante,Field Campaign,12476,,59250.57,32377.76,26872.81,,342.8
+2023,Febrero,Kenya,Chrysal Boost Z,Fungicida,E-mail Marketing,5234,6751.0,28514.93,13158.56,15356.37,4.22,219.59
+2024,Marzo,Ecuador,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,29900,,115566.42,56040.23,59526.18,,1009.53
+2022,Febrero,Holanda,Chrysal Root R,Regulador de crecimiento,Social Media,5794,,23839.06,14100.45,9738.61,,191.77
+2025,Marzo,Ecuador,Chrysal Root R,Fertilizante,E-mail Marketing,5034,6751.0,20856.67,12354.56,8502.1,3.09,117.2
+2024,Enero,Ecuador,Chrysal Root R,Fungicida,E-mail Marketing,4564,6751.0,19675.7,12389.22,7286.48,2.91,96.12
+2024,Marzo,Holanda,Chrysal Protect Y,Insecticida,Field Campaign,23985,,120889.07,68488.16,52400.91,,627.59
+2025,Marzo,Holanda,Chrysal Boost Z,Fertilizante,Field Campaign,12799,,74627.74,35434.85,39192.89,,388.22
+2023,Abril,Holanda,Chrysal Root R,Fertilizante,Social Media,3381,,21114.19,10014.1,11100.09,,155.05
+2024,Marzo,Ecuador,Chrysal Root R,Regulador de crecimiento,E-mail Marketing,3563,6751.0,21575.77,12820.89,8754.88,3.2,180.4
+2023,Marzo,Ecuador,Chrysal Protect Y,Fertilizante,Social Media,28174,6751.0,122038.42,59403.05,62635.37,18.08,801.14
+2022,Enero,Holanda,Chrysal Protect Y,Fertilizante,E-mail Marketing,11331,6751.0,56554.23,29163.72,27390.51,8.38,515.41
+2023,Abril,Kenya,Chrysal Root R,Fertilizante,Influencers Agrícolas,26107,6751.0,113262.9,62004.92,51257.99,16.78,1057.46
+2022,Mayo,Kenya,Chrysal Grow X,Regulador de crecimiento,Influencers Agrícolas,31635,6751.0,142802.73,64968.53,77834.2,21.15,980.86
+2023,Enero,Colombia,Chrysal Root R,Insecticida,Social Media,11864,6751.0,,30592.15,30621.07,9.07,242.15
+2024,Enero,Holanda,Chrysal Root R,Insecticida,Social Media,12112,6751.0,48252.93,25650.19,22602.74,7.15,581.63
+2024,Mayo,Colombia,Chrysal Protect Y,Fertilizante,Social Media,7276,,,16156.73,15778.15,,
+2022,Marzo,Kenya,Chrysal Protect Y,Regulador de crecimiento,Field Campaign,25365,,160446.84,76577.12,83869.72,,851.67
+2025,Febrero,Colombia,Chrysal Root R,Insecticida,Field Campaign,3182,6751.0,16096.19,9586.93,6509.26,2.38,88.8
+2022,Abril,Holanda,Chrysal Root R,Insecticida,Field Campaign,23263,6751.0,116374.17,71294.25,45079.92,17.24,1703.38
+2022,Febrero,Holanda,Chrysal Root R,Insecticida,Social Media,34202,6751.0,131312.81,65852.82,65459.99,19.45,1248.42
+2023,Mayo,Holanda,Chrysal Protect Y,Regulador de crecimiento,E-mail Marketing,27145,,121283.3,73362.31,47920.98,,907.1
+2023,Enero,Ecuador,Chrysal Root R,Regulador de crecimiento,Influencers Agrícolas,27746,6751.0,170332.4,89784.04,80548.37,25.23,1981.78
+2022,Enero,Colombia,Chrysal Root R,Fertilizante,Social Media,14962,,63506.16,35013.31,28492.85,,1032.77
+2024,Abril,Kenya,Chrysal Flora F,Nutricional,Field Campaign,9197,,45256.94,28113.62,17143.32,,431.35
+2023,Enero,Kenya,Chrysal Grow X,Insecticida,Field Campaign,23135,,88808.17,53284.08,35524.09,,1141.81
+2025,Enero,Kenya,Chrysal Boost Z,Nutricional,Social Media,15194,,77360.34,47268.98,30091.36,,502.39
+2023,Abril,Ecuador,Chrysal Grow X,Regulador de crecimiento,Social Media,27997,,107977.63,51545.17,56432.45,,691.47
+2023,Abril,Ecuador,Chrysal Flora F,Regulador de crecimiento,Field Campaign,22810,6751.0,,63632.36,73522.93,20.32,
+2025,Mayo,Holanda,Chrysal Boost Z,Regulador de crecimiento,E-mail Marketing,24923,6751.0,,94436.39,55777.15,22.25,645.52
+2022,Enero,Kenya,Chrysal Root R,Nutricional,Field Campaign,23187,,137427.12,72501.99,64925.13,,1088.78
+2025,Enero,Ecuador,Chrysal Flora F,Regulador de crecimiento,Field Campaign,3690,6751.0,16845.16,8550.2,8294.96,2.5,282.03
+2022,Mayo,Holanda,Chrysal Root R,Fertilizante,Social Media,28569,,173143.58,103009.91,70133.67,,2204.67
+2022,Marzo,Kenya,Chrysal Protect Y,Regulador de crecimiento,E-mail Marketing,8826,,46478.55,28690.43,17788.13,,303.26
+2022,Marzo,Colombia,Chrysal Flora F,Fungicida,Field Campaign,4106,6751.0,19746.91,12292.41,7454.5,2.93,235.88
+2025,Marzo,Holanda,Chrysal Protect Y,Nutricional,Field Campaign,34465,6751.0,189157.39,97075.47,92081.93,28.02,1669.64
+2022,Mayo,Ecuador,Chrysal Flora F,Fungicida,Influencers Agrícolas,10077,6751.0,38628.37,23966.68,14661.69,5.72,731.0
+2024,Enero,Ecuador,Chrysal Flora F,Regulador de crecimiento,Social Media,15483,6751.0,64811.75,29695.89,35115.86,9.6,561.81
+2025,Mayo,Holanda,Chrysal Protect Y,Fertilizante,Influencers Agrícolas,1470,6751.0,,3924.22,4607.95,1.26,
+2024,Mayo,Holanda,Chrysal Boost Z,Insecticida,Influencers Agrícolas,24475,,109139.81,62723.07,46416.74,,728.22
+2022,Marzo,Ecuador,Chrysal Grow X,Regulador de crecimiento,Field Campaign,18689,6751.0,101193.92,46814.46,54379.46,14.99,765.71
+2023,Febrero,Colombia,Chrysal Root R,Fertilizante,Social Media,13806,6751.0,66817.96,34406.03,32411.93,9.9,537.65
+2022,Enero,Kenya,Chrysal Flora F,Nutricional,E-mail Marketing,27331,6751.0,166937.08,97583.27,69353.81,24.73,1844.34
+2024,Marzo,Colombia,Chrysal Root R,Fungicida,Field Campaign,22439,,,73980.6,68989.96,,
+2024,Febrero,Holanda,Chrysal Protect Y,Fungicida,E-mail Marketing,17433,6751.0,107834.0,52398.69,55435.31,15.97,661.99
+2025,Febrero,Colombia,Chrysal Root R,Fungicida,E-mail Marketing,4239,,19205.53,9723.18,9482.34,,201.2
+2023,Abril,Ecuador,Chrysal Protect Y,Nutricional,Social Media,32972,6751.0,142578.83,77208.59,65370.25,21.12,848.49
+2025,Enero,Holanda,Chrysal Root R,Fertilizante,Influencers Agrícolas,12377,6751.0,62887.22,34278.39,28608.83,9.32,914.52
+2024,Febrero,Kenya,Chrysal Grow X,Nutricional,Social Media,12563,,47988.18,29109.63,18878.55,,956.36
+2022,Marzo,Ecuador,Chrysal Grow X,Fungicida,E-mail Marketing,20976,6751.0,81170.52,48704.8,32465.72,12.02,1652.66
+2023,Abril,Ecuador,Chrysal Grow X,Regulador de crecimiento,Field Campaign,25055,6751.0,132638.28,71805.53,60832.75,19.65,1806.8
+2022,Enero,Kenya,Chrysal Grow X,Insecticida,E-mail Marketing,20796,,108247.62,67019.72,41227.89,,632.98
+2022,Mayo,Kenya,Chrysal Grow X,Nutricional,Field Campaign,21862,6751.0,141783.19,67041.82,74741.37,21.0,497.84
+2023,Marzo,Colombia,Chrysal Grow X,Nutricional,Field Campaign,12505,,54333.89,27225.12,27108.77,,684.97
+2025,Febrero,Holanda,Chrysal Protect Y,Fertilizante,Social Media,28847,,129721.51,79855.95,49865.56,,2156.5
+2022,Febrero,Kenya,Chrysal Flora F,Fertilizante,E-mail Marketing,11766,,48317.78,25395.77,22922.01,,360.52
+2024,Marzo,Kenya,Chrysal Root R,Nutricional,Influencers Agrícolas,18174,,114084.85,73725.77,40359.08,,371.16
+2022,Febrero,Holanda,Chrysal Grow X,Fungicida,E-mail Marketing,11938,,70435.28,38264.01,32171.27,,815.72
+2023,Abril,Kenya,Chrysal Protect Y,Insecticida,E-mail Marketing,16735,6751.0,100749.98,61294.99,39454.99,14.92,411.81
+2023,Enero,Kenya,Chrysal Protect Y,Fertilizante,Influencers Agrícolas,1289,6751.0,8040.09,4264.96,3775.13,1.19,57.78
+2023,Abril,Colombia,Chrysal Protect Y,Fungicida,Social Media,23060,6751.0,120309.32,64364.37,55944.95,17.82,1400.51
+2025,Febrero,Ecuador,Chrysal Flora F,Regulador de crecimiento,E-mail Marketing,26869,,134834.6,71000.75,63833.85,,919.13
+2022,Mayo,Ecuador,Chrysal Root R,Fertilizante,E-mail Marketing,20075,,94193.04,55933.25,38259.79,,502.63
+2025,Enero,Ecuador,Chrysal Flora F,Fungicida,Field Campaign,33621,,,101408.21,79838.55,,
+2025,Enero,Ecuador,Chrysal Boost Z,Fungicida,E-mail Marketing,17799,,89467.59,57147.93,32319.67,,1028.97
+2023,Marzo,Kenya,Chrysal Protect Y,Insecticida,Influencers Agrícolas,34522,6751.0,173273.76,86667.73,86606.02,25.67,2737.92
+2023,Marzo,Holanda,Chrysal Boost Z,Insecticida,Field Campaign,11425,6751.0,72316.88,33997.07,38319.81,10.71,464.52
+2025,Mayo,Holanda,Chrysal Grow X,Regulador de crecimiento,Social Media,2429,,15683.77,8291.26,7392.51,,57.58
+2022,Enero,Colombia,Chrysal Grow X,Fungicida,Field Campaign,11773,,70055.33,40165.7,29889.63,,754.19
+2024,Mayo,Colombia,Chrysal Flora F,Fungicida,Influencers Agrícolas,7659,6751.0,44753.43,27843.78,16909.64,6.63,392.94
+2025,Marzo,Kenya,Chrysal Root R,Insecticida,Influencers Agrícolas,22639,,127627.52,66269.23,61358.29,,742.38
+2022,Marzo,Holanda,Chrysal Boost Z,Fertilizante,Field Campaign,28016,,119023.23,69123.62,49899.62,,1874.38
+2023,Enero,Holanda,Chrysal Root R,Fertilizante,Social Media,19745,,78182.02,40657.76,37524.26,,636.29
+2023,Abril,Ecuador,Chrysal Flora F,Nutricional,Field Campaign,7339,6751.0,41575.15,23841.02,17734.13,6.16,261.56
+2022,Febrero,Kenya,Chrysal Grow X,Insecticida,Social Media,34425,6751.0,198553.86,124485.64,74068.22,29.41,879.62
+2024,Marzo,Kenya,Chrysal Root R,Nutricional,Field Campaign,5686,,22327.94,11080.72,11247.22,,249.99
+2023,Marzo,Ecuador,Chrysal Root R,Insecticida,Influencers Agrícolas,8285,6751.0,52243.05,27733.14,24509.92,7.74,373.95
+2023,Abril,Kenya,Chrysal Grow X,Regulador de crecimiento,E-mail Marketing,32255,,130506.3,84653.31,45852.99,,1640.93
+2023,Abril,Kenya,Chrysal Boost Z,Fungicida,E-mail Marketing,17567,,80315.12,50093.46,30221.66,,1098.6
+2022,Mayo,Colombia,Chrysal Grow X,Regulador de crecimiento,Social Media,29253,6751.0,164268.83,92471.52,71797.31,24.33,2175.43
+2025,Mayo,Holanda,Chrysal Root R,Insecticida,Social Media,11544,,49161.92,27202.55,21959.38,,326.28
+2023,Febrero,Kenya,Chrysal Boost Z,Fungicida,Social Media,13026,,51447.79,26079.92,25367.87,,303.0
+2025,Febrero,Colombia,Chrysal Boost Z,Fertilizante,Influencers Agrícolas,28669,6751.0,134575.02,74479.46,60095.57,19.93,605.26
+2024,Enero,Holanda,Chrysal Grow X,Fertilizante,Field Campaign,23388,,137243.67,85041.16,52202.51,,669.3
+2023,Mayo,Ecuador,Chrysal Root R,Nutricional,Influencers Agrícolas,14240,,70017.12,41102.49,28914.63,,846.95
+2023,Marzo,Colombia,Chrysal Flora F,Insecticida,E-mail Marketing,32509,,180848.44,91872.6,88975.84,,2069.15
+2024,Mayo,Colombia,Chrysal Root R,Insecticida,Social Media,23295,6751.0,124977.01,61275.33,63701.69,18.51,1565.2
