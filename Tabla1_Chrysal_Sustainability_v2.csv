@@ -1,0 +1,701 @@
+Sales_order_number,Date,Country,Product_reference,Campaign_ID,Category_product,Sales_revenue_USD,Production_cost_USD,Customer_ID
+SO-000001,2024-02-01,Holanda,Chrysal Grow X,4,Fungicida,127316.56,57858.21,1
+SO-000002,2025-01-01,Kenya,Chrysal Flora F,3,Nutricional,28100.09,18200.66,2
+SO-000003,2022-05-01,Ecuador,Chrysal Flora F,4,Insecticida,222096.76,101783.75,3
+SO-000004,2024-05-01,Kenya,Chrysal Flora F,3,Nutricional,114488.78,73680.46,4
+SO-000005,2024-04-01,Colombia,Chrysal Grow X,2,Insecticida,140394.64,78617.18,5
+SO-000006,2025-02-01,Colombia,Chrysal Grow X,4,Insecticida,33108.23,21276.4,6
+SO-000007,2022-01-01,Ecuador,Chrysal Flora F,4,Nutricional,121059.66,57255.25,7
+SO-000008,2022-04-01,Holanda,Chrysal Root R,2,Insecticida,123166.31,67505.2,8
+SO-000009,2024-03-01,Ecuador,Chrysal Root R,4,Insecticida,122902.46,59472.6,9
+SO-000010,2023-04-01,Kenya,Chrysal Protect Y,3,Fungicida,,29817.69,10
+SO-000011,2024-04-01,Holanda,Chrysal Boost Z,3,Regulador de crecimiento,69225.77,39701.38,11
+SO-000012,2024-02-01,Colombia,Chrysal Root R,4,Regulador de crecimiento,116010.19,57025.59,12
+SO-000013,2024-03-01,Holanda,Chrysal Grow X,3,Fungicida,138690.13,78712.11,13
+SO-000014,2024-04-01,Colombia,Chrysal Root R,1,Nutricional,,7113.15,14
+SO-000015,2025-01-01,Holanda,Chrysal Protect Y,4,Fertilizante,175647.16,90703.72,15
+SO-000016,2022-01-01,Holanda,Chrysal Protect Y,2,Fertilizante,97130.68,58892.91,16
+SO-000017,2025-05-01,Holanda,Chrysal Boost Z,1,Fertilizante,121771.16,65441.07,17
+SO-000018,2025-03-01,Kenya,Chrysal Root R,4,Fungicida,137371.56,79064.08,18
+SO-000019,2025-03-01,Kenya,Chrysal Grow X,2,Fungicida,139883.97,81061.58,19
+SO-000020,2024-05-01,Ecuador,Chrysal Grow X,3,Insecticida,142968.45,88461.87,20
+SO-000021,2023-04-01,Ecuador,Chrysal Flora F,2,Fertilizante,155163.5,79906.8,21
+SO-000022,2022-03-01,Colombia,Chrysal Grow X,1,Nutricional,54370.16,31940.24,22
+SO-000023,2023-01-01,Kenya,Chrysal Boost Z,3,Nutricional,,80339.61,23
+SO-000024,2025-01-01,Colombia,Chrysal Boost Z,4,Fertilizante,40980.33,24426.27,24
+SO-000025,2025-02-01,Ecuador,Chrysal Grow X,3,Fertilizante,85752.06,46989.91,25
+SO-000026,2023-03-01,Colombia,Chrysal Grow X,4,Fertilizante,103056.68,59375.44,26
+SO-000027,2023-04-01,Ecuador,Chrysal Flora F,4,Fungicida,42704.89,25534.82,27
+SO-000028,2023-05-01,Kenya,Chrysal Grow X,2,Fungicida,76717.03,43917.06,28
+SO-000029,2025-05-01,Holanda,Chrysal Flora F,2,Fungicida,150279.53,68127.0,29
+SO-000030,2025-04-01,Kenya,Chrysal Flora F,2,Regulador de crecimiento,183708.36,89825.07,30
+SO-000031,2022-02-01,Colombia,Chrysal Grow X,1,Nutricional,150662.12,92219.33,31
+SO-000032,2022-05-01,Colombia,Chrysal Protect Y,1,Nutricional,156626.03,79022.55,32
+SO-000033,2025-03-01,Kenya,Chrysal Protect Y,2,Insecticida,137910.56,82237.78,33
+SO-000034,2023-02-01,Kenya,Chrysal Flora F,1,Fungicida,65176.54,34180.15,34
+SO-000035,2023-03-01,Ecuador,Chrysal Grow X,3,Regulador de crecimiento,35961.57,19936.26,35
+SO-000036,2022-01-01,Colombia,Chrysal Protect Y,3,Regulador de crecimiento,,17974.68,36
+SO-000037,2025-02-01,Colombia,Chrysal Grow X,1,Nutricional,172789.75,84018.17,37
+SO-000038,2022-05-01,Kenya,Chrysal Grow X,1,Fungicida,191744.48,122992.46,38
+SO-000039,2022-02-01,Holanda,Chrysal Grow X,3,Insecticida,151435.4,95105.61,39
+SO-000040,2024-02-01,Colombia,Chrysal Root R,4,Fungicida,183450.2,106484.59,40
+SO-000041,2024-02-01,Holanda,Chrysal Grow X,3,Fertilizante,151968.12,82355.92,41
+SO-000042,2024-02-01,Kenya,Chrysal Root R,3,Fungicida,64512.18,37749.45,42
+SO-000043,2023-03-01,Kenya,Chrysal Flora F,1,Fertilizante,84464.24,48459.0,43
+SO-000044,2025-01-01,Ecuador,Chrysal Protect Y,3,Fertilizante,130522.33,73576.8,44
+SO-000045,2025-04-01,Colombia,Chrysal Protect Y,1,Insecticida,,29697.68,45
+SO-000046,2025-02-01,Holanda,Chrysal Protect Y,1,Nutricional,66759.58,38490.94,46
+SO-000047,2025-05-01,Ecuador,Chrysal Protect Y,2,Fungicida,108461.35,65487.23,47
+SO-000048,2024-02-01,Colombia,Chrysal Protect Y,3,Fertilizante,28102.58,18233.42,48
+SO-000049,2023-05-01,Ecuador,Chrysal Protect Y,4,Fungicida,69291.09,31334.52,49
+SO-000050,2023-03-01,Kenya,Chrysal Protect Y,2,Nutricional,153343.61,91398.11,50
+SO-000051,2024-05-01,Colombia,Chrysal Flora F,1,Nutricional,107337.27,60576.63,51
+SO-000052,2023-04-01,Ecuador,Chrysal Grow X,1,Regulador de crecimiento,108835.8,58424.2,52
+SO-000053,2024-01-01,Ecuador,Chrysal Boost Z,4,Nutricional,132657.85,63080.67,53
+SO-000054,2025-05-01,Holanda,Chrysal Root R,1,Insecticida,77772.76,41360.88,54
+SO-000055,2024-05-01,Ecuador,Chrysal Boost Z,3,Fertilizante,104324.33,54339.98,55
+SO-000056,2025-01-01,Colombia,Chrysal Boost Z,2,Regulador de crecimiento,,63211.25,56
+SO-000057,2025-04-01,Colombia,Chrysal Grow X,1,Insecticida,14670.37,8746.12,57
+SO-000058,2022-02-01,Holanda,Chrysal Grow X,1,Fungicida,10447.4,6165.48,58
+SO-000059,2024-05-01,Colombia,Chrysal Grow X,4,Fertilizante,194085.76,110202.67,59
+SO-000060,2022-01-01,Kenya,Chrysal Protect Y,3,Nutricional,9987.12,6369.12,60
+SO-000061,2024-03-01,Colombia,Chrysal Flora F,1,Fertilizante,,36950.86,61
+SO-000062,2024-01-01,Colombia,Chrysal Protect Y,4,Fungicida,6342.83,3163.55,62
+SO-000063,2022-03-01,Ecuador,Chrysal Flora F,1,Regulador de crecimiento,152403.69,88574.07,63
+SO-000064,2022-04-01,Ecuador,Chrysal Flora F,4,Regulador de crecimiento,60983.52,29867.46,64
+SO-000065,2024-02-01,Colombia,Chrysal Boost Z,4,Regulador de crecimiento,115100.91,59047.01,65
+SO-000066,2023-01-01,Holanda,Chrysal Boost Z,3,Nutricional,112463.77,55660.62,66
+SO-000067,2025-05-01,Ecuador,Chrysal Flora F,1,Insecticida,172448.37,79986.85,67
+SO-000068,2022-04-01,Holanda,Chrysal Flora F,3,Insecticida,29580.38,18206.72,68
+SO-000069,2025-01-01,Colombia,Chrysal Protect Y,4,Fertilizante,111142.93,55672.4,69
+SO-000070,2023-05-01,Colombia,Chrysal Protect Y,2,Nutricional,70586.89,38442.01,70
+SO-000071,2023-01-01,Kenya,Chrysal Boost Z,1,Regulador de crecimiento,117935.0,54092.43,71
+SO-000072,2023-03-01,Ecuador,Chrysal Grow X,2,Regulador de crecimiento,73524.52,43369.75,72
+SO-000073,2022-01-01,Colombia,Chrysal Flora F,1,Fungicida,117556.05,60672.11,73
+SO-000074,2023-01-01,Kenya,Chrysal Protect Y,3,Fungicida,199479.56,119477.75,74
+SO-000075,2022-01-01,Ecuador,Chrysal Boost Z,3,Regulador de crecimiento,185313.31,98675.74,75
+SO-000076,2023-04-01,Colombia,Chrysal Protect Y,3,Regulador de crecimiento,49302.64,24116.44,76
+SO-000077,2025-01-01,Colombia,Chrysal Flora F,3,Nutricional,88812.95,49081.15,77
+SO-000078,2025-05-01,Ecuador,Chrysal Flora F,3,Insecticida,70418.64,33526.38,78
+SO-000079,2024-03-01,Ecuador,Chrysal Root R,2,Fungicida,107168.8,57668.37,79
+SO-000080,2025-03-01,Ecuador,Chrysal Grow X,3,Insecticida,38489.87,19763.05,80
+SO-000081,2024-01-01,Colombia,Chrysal Root R,4,Nutricional,133117.62,84182.51,81
+SO-000082,2025-04-01,Colombia,Chrysal Boost Z,4,Regulador de crecimiento,185251.69,85620.69,82
+SO-000083,2022-04-01,Kenya,Chrysal Protect Y,2,Insecticida,168354.36,99127.63,83
+SO-000084,2025-05-01,Holanda,Chrysal Boost Z,1,Regulador de crecimiento,6335.64,3082.6,84
+SO-000085,2024-01-01,Ecuador,Chrysal Flora F,4,Regulador de crecimiento,170306.31,87504.92,85
+SO-000086,2024-03-01,Colombia,Chrysal Root R,1,Fertilizante,155530.79,82913.9,86
+SO-000087,2023-04-01,Colombia,Chrysal Root R,2,Insecticida,17260.73,10901.93,87
+SO-000088,2022-01-01,Ecuador,Chrysal Root R,1,Insecticida,170258.18,84876.37,88
+SO-000089,2025-04-01,Holanda,Chrysal Boost Z,1,Regulador de crecimiento,155081.73,72618.84,89
+SO-000090,2023-04-01,Ecuador,Chrysal Flora F,1,Nutricional,126066.11,64764.94,90
+SO-000091,2025-03-01,Holanda,Chrysal Protect Y,1,Fertilizante,61365.14,28899.0,91
+SO-000092,2025-02-01,Colombia,Chrysal Protect Y,2,Regulador de crecimiento,99240.99,47210.86,92
+SO-000093,2023-05-01,Holanda,Chrysal Boost Z,4,Fungicida,19264.56,10880.05,93
+SO-000094,2023-05-01,Kenya,Chrysal Root R,3,Fungicida,27064.43,12508.65,94
+SO-000095,2023-03-01,Colombia,Chrysal Grow X,1,Fertilizante,61550.11,28078.31,95
+SO-000096,2023-04-01,Kenya,Chrysal Boost Z,4,Nutricional,109138.57,64706.38,96
+SO-000097,2023-01-01,Ecuador,Chrysal Boost Z,4,Regulador de crecimiento,81747.68,42699.22,97
+SO-000098,2025-04-01,Ecuador,Chrysal Flora F,2,Insecticida,50931.27,24196.18,98
+SO-000099,2023-03-01,Ecuador,Chrysal Protect Y,4,Fertilizante,71680.74,35892.17,99
+SO-000100,2022-05-01,Holanda,Chrysal Boost Z,2,Nutricional,63995.76,37016.26,100
+SO-000101,2024-04-01,Colombia,Chrysal Boost Z,1,Insecticida,96794.33,48891.52,101
+SO-000102,2023-05-01,Ecuador,Chrysal Root R,1,Fungicida,138942.38,76266.06,102
+SO-000103,2023-01-01,Ecuador,Chrysal Root R,3,Fungicida,190861.18,90532.91,103
+SO-000104,2025-05-01,Colombia,Chrysal Grow X,3,Insecticida,122793.88,69700.11,104
+SO-000105,2023-05-01,Ecuador,Chrysal Flora F,3,Fertilizante,91234.46,46822.94,105
+SO-000106,2023-02-01,Kenya,Chrysal Grow X,4,Fungicida,151137.31,86963.45,106
+SO-000107,2023-02-01,Colombia,Chrysal Root R,1,Regulador de crecimiento,55822.43,34145.41,107
+SO-000108,2025-02-01,Colombia,Chrysal Protect Y,2,Insecticida,118961.33,68085.05,108
+SO-000109,2023-05-01,Colombia,Chrysal Root R,3,Insecticida,111564.35,56802.93,109
+SO-000110,2024-03-01,Kenya,Chrysal Flora F,2,Fungicida,117903.72,59087.3,110
+SO-000111,2025-05-01,Colombia,Chrysal Root R,2,Fertilizante,47706.49,24591.94,111
+SO-000112,2024-03-01,Kenya,Chrysal Flora F,3,Regulador de crecimiento,18817.16,9087.26,112
+SO-000113,2025-03-01,Colombia,Chrysal Flora F,1,Fertilizante,,33135.12,113
+SO-000114,2023-02-01,Holanda,Chrysal Flora F,3,Nutricional,109861.31,66810.86,114
+SO-000115,2024-04-01,Ecuador,Chrysal Flora F,2,Nutricional,148371.7,78183.95,115
+SO-000116,2025-01-01,Holanda,Chrysal Flora F,3,Fungicida,114661.18,61595.87,116
+SO-000117,2022-02-01,Ecuador,Chrysal Protect Y,2,Fungicida,26208.39,14907.59,117
+SO-000118,2023-02-01,Kenya,Chrysal Grow X,2,Fungicida,85084.22,48321.94,118
+SO-000119,2025-04-01,Holanda,Chrysal Boost Z,3,Nutricional,80065.63,37108.45,119
+SO-000120,2022-01-01,Colombia,Chrysal Grow X,4,Fertilizante,55972.18,34496.11,120
+SO-000121,2025-05-01,Ecuador,Chrysal Flora F,3,Fertilizante,26131.92,12686.14,121
+SO-000122,2022-05-01,Ecuador,Chrysal Protect Y,4,Fungicida,139260.93,82806.54,122
+SO-000123,2023-02-01,Holanda,Chrysal Root R,2,Regulador de crecimiento,152082.46,91939.04,123
+SO-000124,2024-01-01,Kenya,Chrysal Protect Y,2,Fertilizante,103270.79,61237.5,124
+SO-000125,2022-02-01,Holanda,Chrysal Flora F,4,Nutricional,98087.27,55497.34,125
+SO-000126,2025-03-01,Kenya,Chrysal Protect Y,2,Insecticida,84386.9,38220.67,126
+SO-000127,2023-02-01,Kenya,Chrysal Protect Y,4,Insecticida,11110.2,5800.36,127
+SO-000128,2022-02-01,Ecuador,Chrysal Flora F,4,Insecticida,,40919.02,128
+SO-000129,2025-05-01,Holanda,Chrysal Protect Y,2,Regulador de crecimiento,16847.05,8886.65,129
+SO-000130,2025-05-01,Holanda,Chrysal Boost Z,1,Fungicida,155225.42,96658.24,130
+SO-000131,2025-05-01,Kenya,Chrysal Boost Z,4,Nutricional,124675.29,63803.88,131
+SO-000132,2022-03-01,Holanda,Chrysal Protect Y,3,Regulador de crecimiento,114708.57,58353.05,132
+SO-000133,2022-05-01,Colombia,Chrysal Root R,3,Nutricional,13230.36,6657.51,133
+SO-000134,2022-01-01,Colombia,Chrysal Flora F,2,Nutricional,108469.06,56030.36,134
+SO-000135,2024-04-01,Holanda,Chrysal Boost Z,1,Fungicida,165046.93,92670.72,135
+SO-000136,2022-01-01,Holanda,Chrysal Root R,2,Insecticida,82328.44,48689.29,136
+SO-000137,2022-01-01,Kenya,Chrysal Protect Y,1,Fungicida,166087.65,96748.31,137
+SO-000138,2022-05-01,Colombia,Chrysal Root R,4,Regulador de crecimiento,55341.41,33843.68,138
+SO-000139,2024-04-01,Colombia,Chrysal Grow X,4,Regulador de crecimiento,151317.17,94903.53,139
+SO-000140,2022-04-01,Ecuador,Chrysal Boost Z,4,Regulador de crecimiento,25355.88,15548.63,140
+SO-000141,2025-04-01,Kenya,Chrysal Protect Y,4,Fungicida,132208.32,59994.69,141
+SO-000142,2022-03-01,Ecuador,Chrysal Flora F,3,Nutricional,82896.43,49504.39,142
+SO-000143,2025-05-01,Colombia,Chrysal Protect Y,3,Nutricional,93023.39,45737.73,143
+SO-000144,2025-04-01,Kenya,Chrysal Flora F,2,Fertilizante,28682.59,13669.71,144
+SO-000145,2025-03-01,Holanda,Chrysal Protect Y,1,Regulador de crecimiento,68476.89,39558.95,145
+SO-000146,2024-02-01,Kenya,Chrysal Root R,4,Nutricional,114372.54,58781.61,146
+SO-000147,2024-02-01,Holanda,Chrysal Root R,4,Fertilizante,9523.31,4394.28,147
+SO-000148,2024-03-01,Holanda,Chrysal Root R,1,Nutricional,94465.27,45109.62,148
+SO-000149,2022-03-01,Kenya,Chrysal Grow X,1,Regulador de crecimiento,133656.69,60170.36,149
+SO-000150,2025-05-01,Holanda,Chrysal Flora F,2,Insecticida,162281.98,102342.27,150
+SO-000151,2024-05-01,Ecuador,Chrysal Root R,1,Regulador de crecimiento,151989.91,69143.8,151
+SO-000152,2024-02-01,Colombia,Chrysal Grow X,4,Fungicida,,66361.55,152
+SO-000153,2022-04-01,Holanda,Chrysal Flora F,4,Nutricional,61349.19,32714.61,153
+SO-000154,2024-02-01,Ecuador,Chrysal Protect Y,4,Nutricional,53317.77,27795.32,154
+SO-000155,2022-04-01,Holanda,Chrysal Grow X,4,Fungicida,,52448.31,155
+SO-000156,2023-04-01,Colombia,Chrysal Boost Z,4,Fungicida,166188.62,76123.99,156
+SO-000157,2024-05-01,Ecuador,Chrysal Grow X,2,Insecticida,95855.52,52954.7,157
+SO-000158,2023-01-01,Colombia,Chrysal Grow X,4,Nutricional,120120.93,70402.38,158
+SO-000159,2022-01-01,Colombia,Chrysal Flora F,2,Nutricional,,66051.88,159
+SO-000160,2025-03-01,Ecuador,Chrysal Protect Y,4,Insecticida,78876.01,45280.68,160
+SO-000161,2024-05-01,Ecuador,Chrysal Boost Z,3,Fertilizante,14898.64,9099.36,161
+SO-000162,2022-04-01,Ecuador,Chrysal Root R,3,Insecticida,109113.05,50927.97,162
+SO-000163,2025-01-01,Kenya,Chrysal Root R,3,Regulador de crecimiento,72628.99,38289.12,163
+SO-000164,2025-04-01,Ecuador,Chrysal Grow X,3,Nutricional,,4570.96,164
+SO-000165,2023-01-01,Ecuador,Chrysal Flora F,2,Fungicida,159178.28,99845.79,165
+SO-000166,2022-01-01,Ecuador,Chrysal Flora F,2,Regulador de crecimiento,92901.74,44618.31,166
+SO-000167,2025-01-01,Ecuador,Chrysal Root R,1,Nutricional,97027.76,46609.93,167
+SO-000168,2024-05-01,Holanda,Chrysal Boost Z,4,Insecticida,43528.97,22448.4,168
+SO-000169,2024-02-01,Kenya,Chrysal Protect Y,3,Regulador de crecimiento,25847.34,11912.86,169
+SO-000170,2023-04-01,Colombia,Chrysal Boost Z,2,Nutricional,13866.6,6745.99,170
+SO-000171,2025-05-01,Ecuador,Chrysal Protect Y,4,Fertilizante,45096.75,28999.1,171
+SO-000172,2022-05-01,Holanda,Chrysal Root R,4,Fertilizante,36723.89,19670.67,172
+SO-000173,2024-05-01,Holanda,Chrysal Protect Y,2,Fungicida,99975.64,57626.34,173
+SO-000174,2025-05-01,Holanda,Chrysal Flora F,3,Nutricional,111981.01,66653.59,174
+SO-000175,2025-05-01,Colombia,Chrysal Grow X,1,Fertilizante,174794.19,91485.93,175
+SO-000176,2023-03-01,Ecuador,Chrysal Grow X,4,Insecticida,86769.08,41601.04,176
+SO-000177,2024-04-01,Kenya,Chrysal Root R,1,Nutricional,73323.59,36025.07,177
+SO-000178,2024-05-01,Kenya,Chrysal Flora F,3,Insecticida,179870.25,92211.07,178
+SO-000179,2022-04-01,Holanda,Chrysal Boost Z,3,Insecticida,121316.59,70025.59,179
+SO-000180,2024-03-01,Colombia,Chrysal Flora F,1,Fertilizante,123653.03,65493.58,180
+SO-000181,2022-03-01,Colombia,Chrysal Grow X,3,Nutricional,110773.07,49998.86,181
+SO-000182,2024-04-01,Colombia,Chrysal Grow X,4,Regulador de crecimiento,70343.08,39018.0,182
+SO-000183,2023-01-01,Kenya,Chrysal Flora F,1,Fertilizante,109487.88,69448.46,183
+SO-000184,2024-02-01,Holanda,Chrysal Flora F,3,Fertilizante,,54211.25,184
+SO-000185,2022-01-01,Ecuador,Chrysal Grow X,1,Nutricional,163337.06,100459.2,185
+SO-000186,2022-01-01,Kenya,Chrysal Boost Z,4,Nutricional,81144.58,49417.99,186
+SO-000187,2023-01-01,Holanda,Chrysal Root R,3,Insecticida,93011.83,47877.48,187
+SO-000188,2024-05-01,Holanda,Chrysal Root R,4,Nutricional,61094.85,36842.56,188
+SO-000189,2024-03-01,Ecuador,Chrysal Flora F,3,Insecticida,59326.05,28395.36,189
+SO-000190,2023-01-01,Ecuador,Chrysal Root R,2,Fertilizante,126300.16,73449.0,190
+SO-000191,2024-03-01,Ecuador,Chrysal Grow X,3,Fungicida,76550.12,44269.99,191
+SO-000192,2024-04-01,Colombia,Chrysal Grow X,1,Regulador de crecimiento,172366.21,78446.27,192
+SO-000193,2022-02-01,Ecuador,Chrysal Flora F,3,Fertilizante,,23921.75,193
+SO-000194,2024-04-01,Holanda,Chrysal Flora F,4,Nutricional,49593.28,31275.98,194
+SO-000195,2024-04-01,Ecuador,Chrysal Flora F,4,Regulador de crecimiento,137134.81,69045.05,195
+SO-000196,2023-05-01,Holanda,Chrysal Boost Z,3,Fungicida,100918.65,61810.47,196
+SO-000197,2023-02-01,Kenya,Chrysal Root R,1,Fungicida,154542.35,72091.1,197
+SO-000198,2025-04-01,Colombia,Chrysal Flora F,2,Insecticida,20526.81,11700.15,198
+SO-000199,2022-04-01,Kenya,Chrysal Protect Y,1,Regulador de crecimiento,113931.92,62335.5,199
+SO-000200,2024-02-01,Kenya,Chrysal Protect Y,2,Insecticida,96002.47,53683.11,200
+SO-000201,2024-02-01,Holanda,Chrysal Grow X,4,Fertilizante,210217.55,133538.81,201
+SO-000202,2025-04-01,Kenya,Chrysal Root R,1,Regulador de crecimiento,118342.11,73876.61,202
+SO-000203,2024-02-01,Holanda,Chrysal Flora F,2,Fertilizante,84563.4,51331.4,203
+SO-000204,2022-04-01,Ecuador,Chrysal Protect Y,3,Insecticida,59821.16,30194.12,204
+SO-000205,2025-04-01,Ecuador,Chrysal Root R,4,Regulador de crecimiento,140729.27,88992.09,205
+SO-000206,2022-05-01,Holanda,Chrysal Grow X,3,Insecticida,116211.61,54561.53,206
+SO-000207,2025-01-01,Ecuador,Chrysal Boost Z,4,Regulador de crecimiento,64847.58,40248.68,207
+SO-000208,2025-04-01,Colombia,Chrysal Root R,1,Insecticida,84747.73,43698.64,208
+SO-000209,2023-03-01,Kenya,Chrysal Root R,1,Fungicida,87585.74,40355.52,209
+SO-000210,2022-01-01,Colombia,Chrysal Boost Z,4,Insecticida,107203.12,62592.84,210
+SO-000211,2024-01-01,Kenya,Chrysal Root R,4,Fungicida,153903.13,76375.35,211
+SO-000212,2024-01-01,Ecuador,Chrysal Grow X,4,Insecticida,94402.38,47079.81,212
+SO-000213,2022-05-01,Colombia,Chrysal Grow X,1,Regulador de crecimiento,118619.05,60639.18,213
+SO-000214,2024-04-01,Ecuador,Chrysal Boost Z,2,Regulador de crecimiento,92322.68,42721.12,214
+SO-000215,2024-05-01,Kenya,Chrysal Flora F,3,Regulador de crecimiento,178360.45,86580.7,215
+SO-000216,2022-04-01,Holanda,Chrysal Protect Y,3,Nutricional,68853.2,31054.72,216
+SO-000217,2025-05-01,Holanda,Chrysal Flora F,1,Fertilizante,,66145.12,217
+SO-000218,2022-05-01,Colombia,Chrysal Root R,3,Regulador de crecimiento,166376.24,77672.93,218
+SO-000219,2025-03-01,Ecuador,Chrysal Protect Y,4,Fungicida,182221.29,106878.35,219
+SO-000220,2024-05-01,Ecuador,Chrysal Boost Z,2,Regulador de crecimiento,72205.27,35895.02,220
+SO-000221,2024-02-01,Colombia,Chrysal Boost Z,3,Nutricional,130694.29,83476.38,221
+SO-000222,2024-03-01,Holanda,Chrysal Protect Y,2,Fungicida,108746.12,67884.8,222
+SO-000223,2023-05-01,Kenya,Chrysal Grow X,4,Nutricional,47703.09,24227.84,223
+SO-000224,2025-01-01,Colombia,Chrysal Protect Y,3,Fungicida,180611.08,109566.47,224
+SO-000225,2023-02-01,Kenya,Chrysal Root R,1,Insecticida,118917.68,72616.96,225
+SO-000226,2023-02-01,Holanda,Chrysal Grow X,2,Fertilizante,131800.67,85316.24,226
+SO-000227,2022-02-01,Ecuador,Chrysal Boost Z,4,Fertilizante,35487.98,20212.82,227
+SO-000228,2023-03-01,Holanda,Chrysal Protect Y,2,Nutricional,116998.19,54567.16,228
+SO-000229,2022-05-01,Colombia,Chrysal Flora F,3,Fertilizante,108672.91,62961.54,229
+SO-000230,2022-05-01,Ecuador,Chrysal Flora F,3,Nutricional,16509.29,9492.77,230
+SO-000231,2023-01-01,Colombia,Chrysal Root R,1,Nutricional,76841.51,44389.05,231
+SO-000232,2025-01-01,Colombia,Chrysal Flora F,4,Nutricional,70455.09,36032.79,232
+SO-000233,2025-02-01,Holanda,Chrysal Protect Y,4,Fertilizante,65331.78,40632.18,233
+SO-000234,2025-01-01,Colombia,Chrysal Protect Y,1,Nutricional,25905.42,16628.54,234
+SO-000235,2025-03-01,Holanda,Chrysal Flora F,1,Fertilizante,146443.09,72275.89,235
+SO-000236,2025-05-01,Ecuador,Chrysal Protect Y,4,Nutricional,145745.22,68154.9,236
+SO-000237,2023-02-01,Holanda,Chrysal Root R,2,Regulador de crecimiento,60777.73,29714.66,237
+SO-000238,2023-01-01,Ecuador,Chrysal Grow X,2,Nutricional,43278.09,26577.53,238
+SO-000239,2024-03-01,Holanda,Chrysal Root R,1,Fungicida,38845.41,22737.34,239
+SO-000240,2025-03-01,Kenya,Chrysal Root R,2,Nutricional,,15828.78,240
+SO-000241,2023-01-01,Kenya,Chrysal Protect Y,4,Insecticida,57325.37,30403.01,241
+SO-000242,2024-05-01,Colombia,Chrysal Grow X,3,Nutricional,137797.06,77933.28,242
+SO-000243,2025-01-01,Holanda,Chrysal Protect Y,3,Fungicida,13896.59,7109.15,243
+SO-000244,2022-02-01,Holanda,Chrysal Boost Z,2,Fungicida,179108.85,97693.13,244
+SO-000245,2024-01-01,Ecuador,Chrysal Protect Y,1,Fertilizante,132013.82,80345.27,245
+SO-000246,2023-03-01,Colombia,Chrysal Protect Y,1,Regulador de crecimiento,151043.36,97611.52,246
+SO-000247,2022-01-01,Holanda,Chrysal Protect Y,1,Nutricional,,53502.2,247
+SO-000248,2022-05-01,Colombia,Chrysal Grow X,1,Fertilizante,156697.1,99780.51,248
+SO-000249,2022-04-01,Kenya,Chrysal Protect Y,1,Regulador de crecimiento,53434.45,28344.02,249
+SO-000250,2024-01-01,Holanda,Chrysal Grow X,2,Nutricional,67683.1,36803.22,250
+SO-000251,2023-05-01,Holanda,Chrysal Flora F,3,Insecticida,156144.45,92301.21,251
+SO-000252,2022-05-01,Colombia,Chrysal Boost Z,3,Nutricional,,12170.82,252
+SO-000253,2025-03-01,Holanda,Chrysal Grow X,2,Fungicida,13015.61,6226.65,253
+SO-000254,2022-05-01,Colombia,Chrysal Flora F,1,Fungicida,51044.56,26076.03,254
+SO-000255,2022-05-01,Holanda,Chrysal Grow X,2,Insecticida,181871.75,86907.3,255
+SO-000256,2024-05-01,Ecuador,Chrysal Grow X,3,Fertilizante,61425.72,35160.19,256
+SO-000257,2024-05-01,Colombia,Chrysal Boost Z,4,Regulador de crecimiento,177001.07,90493.6,257
+SO-000258,2023-02-01,Holanda,Chrysal Root R,2,Nutricional,127112.32,65491.01,258
+SO-000259,2025-02-01,Kenya,Chrysal Root R,1,Fungicida,110883.56,51470.29,259
+SO-000260,2024-03-01,Holanda,Chrysal Grow X,3,Fertilizante,90989.53,47310.85,260
+SO-000261,2022-01-01,Kenya,Chrysal Protect Y,3,Insecticida,32668.29,20335.99,261
+SO-000262,2023-05-01,Kenya,Chrysal Flora F,3,Fungicida,,6615.52,262
+SO-000263,2022-01-01,Ecuador,Chrysal Protect Y,3,Insecticida,104112.53,61326.18,263
+SO-000264,2022-01-01,Colombia,Chrysal Protect Y,1,Nutricional,89102.32,51316.31,264
+SO-000265,2024-03-01,Holanda,Chrysal Grow X,4,Regulador de crecimiento,122871.46,76511.68,265
+SO-000266,2023-05-01,Ecuador,Chrysal Grow X,3,Fungicida,5427.42,2585.94,266
+SO-000267,2025-05-01,Holanda,Chrysal Grow X,2,Fungicida,58484.8,37752.99,267
+SO-000268,2025-04-01,Kenya,Chrysal Grow X,4,Nutricional,136378.93,77262.17,268
+SO-000269,2024-01-01,Colombia,Chrysal Root R,3,Fertilizante,147268.75,95591.39,269
+SO-000270,2024-01-01,Holanda,Chrysal Grow X,4,Regulador de crecimiento,81379.47,51456.48,270
+SO-000271,2023-02-01,Holanda,Chrysal Root R,2,Fungicida,76056.36,37594.92,271
+SO-000272,2025-04-01,Kenya,Chrysal Root R,3,Regulador de crecimiento,6772.16,3123.54,272
+SO-000273,2025-02-01,Holanda,Chrysal Grow X,2,Fungicida,89776.13,44989.32,273
+SO-000274,2025-02-01,Holanda,Chrysal Boost Z,1,Regulador de crecimiento,90659.22,50362.35,274
+SO-000275,2022-02-01,Kenya,Chrysal Flora F,3,Insecticida,125451.86,60758.75,275
+SO-000276,2025-03-01,Ecuador,Chrysal Protect Y,3,Fungicida,13303.99,6432.37,276
+SO-000277,2022-03-01,Kenya,Chrysal Root R,3,Regulador de crecimiento,13676.21,7419.6,277
+SO-000278,2023-02-01,Ecuador,Chrysal Flora F,3,Fertilizante,152610.61,69690.18,278
+SO-000279,2022-04-01,Colombia,Chrysal Boost Z,1,Insecticida,97493.65,46248.81,279
+SO-000280,2023-01-01,Ecuador,Chrysal Protect Y,3,Insecticida,5525.77,2946.19,280
+SO-000281,2025-04-01,Ecuador,Chrysal Protect Y,4,Fertilizante,145711.96,67410.14,281
+SO-000282,2025-05-01,Colombia,Chrysal Root R,3,Regulador de crecimiento,56604.61,29963.71,282
+SO-000283,2023-03-01,Ecuador,Chrysal Grow X,1,Nutricional,45765.49,24933.09,283
+SO-000284,2024-01-01,Kenya,Chrysal Boost Z,3,Fertilizante,93638.26,50588.38,284
+SO-000285,2023-01-01,Ecuador,Chrysal Root R,4,Regulador de crecimiento,217312.03,135566.84,285
+SO-000286,2024-05-01,Colombia,Chrysal Boost Z,1,Fertilizante,44435.65,24706.78,286
+SO-000287,2022-05-01,Kenya,Chrysal Grow X,1,Fertilizante,39505.29,21474.92,287
+SO-000288,2022-02-01,Colombia,Chrysal Grow X,4,Fungicida,27211.38,14480.32,288
+SO-000289,2022-03-01,Colombia,Chrysal Root R,4,Regulador de crecimiento,124569.36,76426.38,289
+SO-000290,2025-03-01,Holanda,Chrysal Grow X,4,Nutricional,,51338.32,290
+SO-000291,2022-04-01,Holanda,Chrysal Flora F,4,Fungicida,21197.39,13156.13,291
+SO-000292,2024-02-01,Colombia,Chrysal Protect Y,4,Fertilizante,164121.07,95963.12,292
+SO-000293,2022-02-01,Colombia,Chrysal Root R,1,Fertilizante,29956.01,14303.17,293
+SO-000294,2023-02-01,Colombia,Chrysal Boost Z,1,Fertilizante,70721.89,35741.0,294
+SO-000295,2023-02-01,Holanda,Chrysal Flora F,3,Regulador de crecimiento,143552.98,65921.34,295
+SO-000296,2025-03-01,Holanda,Chrysal Root R,3,Regulador de crecimiento,,81708.81,296
+SO-000297,2023-03-01,Ecuador,Chrysal Grow X,2,Fungicida,129709.67,75511.74,297
+SO-000298,2024-02-01,Ecuador,Chrysal Grow X,3,Nutricional,,59838.95,298
+SO-000299,2022-04-01,Colombia,Chrysal Grow X,3,Fungicida,27308.16,13990.36,299
+SO-000300,2025-01-01,Kenya,Chrysal Grow X,4,Insecticida,84375.94,52239.73,300
+SO-000301,2022-01-01,Kenya,Chrysal Boost Z,4,Fertilizante,46987.74,23584.12,301
+SO-000302,2022-04-01,Holanda,Chrysal Flora F,3,Fertilizante,79639.77,35864.08,302
+SO-000303,2024-02-01,Holanda,Chrysal Protect Y,2,Fertilizante,6598.81,3466.24,303
+SO-000304,2023-03-01,Holanda,Chrysal Boost Z,4,Fungicida,213030.15,120181.45,304
+SO-000305,2023-01-01,Colombia,Chrysal Boost Z,3,Fungicida,15755.85,8598.61,305
+SO-000306,2022-05-01,Kenya,Chrysal Protect Y,3,Fertilizante,61017.38,37978.14,306
+SO-000307,2025-05-01,Ecuador,Chrysal Protect Y,1,Fungicida,30509.99,14372.68,307
+SO-000308,2023-04-01,Colombia,Chrysal Grow X,2,Regulador de crecimiento,,75820.18,308
+SO-000309,2025-02-01,Ecuador,Chrysal Boost Z,1,Regulador de crecimiento,8946.76,4943.94,309
+SO-000310,2023-01-01,Ecuador,Chrysal Root R,2,Fungicida,25247.83,12782.43,310
+SO-000311,2025-02-01,Colombia,Chrysal Protect Y,4,Fertilizante,92494.01,56832.54,311
+SO-000312,2024-01-01,Ecuador,Chrysal Protect Y,2,Fungicida,115005.83,69069.02,312
+SO-000313,2025-04-01,Kenya,Chrysal Flora F,3,Fungicida,104808.26,62525.66,313
+SO-000314,2024-04-01,Ecuador,Chrysal Root R,3,Fungicida,131239.69,82056.1,314
+SO-000315,2024-05-01,Kenya,Chrysal Root R,2,Insecticida,70115.19,41687.47,315
+SO-000316,2025-02-01,Kenya,Chrysal Protect Y,2,Regulador de crecimiento,107964.89,53590.34,316
+SO-000317,2024-05-01,Kenya,Chrysal Grow X,2,Nutricional,109712.84,64852.64,317
+SO-000318,2022-02-01,Holanda,Chrysal Flora F,1,Nutricional,52236.25,26720.96,318
+SO-000319,2024-05-01,Ecuador,Chrysal Root R,2,Insecticida,106986.29,53325.71,319
+SO-000320,2023-03-01,Colombia,Chrysal Protect Y,4,Fungicida,57254.98,26600.7,320
+SO-000321,2025-03-01,Colombia,Chrysal Root R,1,Insecticida,,76710.38,321
+SO-000322,2022-03-01,Ecuador,Chrysal Flora F,1,Insecticida,,37474.66,322
+SO-000323,2025-03-01,Holanda,Chrysal Flora F,2,Fertilizante,93874.17,46646.07,323
+SO-000324,2023-01-01,Holanda,Chrysal Boost Z,4,Regulador de crecimiento,52267.63,31354.09,324
+SO-000325,2023-03-01,Kenya,Chrysal Protect Y,1,Nutricional,5356.74,3393.86,325
+SO-000326,2023-04-01,Ecuador,Chrysal Flora F,3,Fungicida,110967.5,52332.91,326
+SO-000327,2024-04-01,Ecuador,Chrysal Boost Z,1,Nutricional,102014.92,50653.19,327
+SO-000328,2024-01-01,Colombia,Chrysal Boost Z,2,Nutricional,149349.69,89617.6,328
+SO-000329,2025-03-01,Ecuador,Chrysal Root R,4,Regulador de crecimiento,183710.25,92755.55,329
+SO-000330,2025-03-01,Holanda,Chrysal Root R,2,Nutricional,89246.7,51310.86,330
+SO-000331,2022-03-01,Ecuador,Chrysal Boost Z,3,Nutricional,12323.46,5745.6,331
+SO-000332,2022-05-01,Colombia,Chrysal Root R,3,Insecticida,78630.72,42495.23,332
+SO-000333,2025-02-01,Kenya,Chrysal Flora F,3,Regulador de crecimiento,57575.47,34419.67,333
+SO-000334,2024-05-01,Colombia,Chrysal Grow X,2,Fertilizante,35464.35,20828.31,334
+SO-000335,2023-02-01,Colombia,Chrysal Flora F,1,Fungicida,101312.99,62106.32,335
+SO-000336,2025-03-01,Kenya,Chrysal Boost Z,2,Nutricional,6864.02,4293.38,336
+SO-000337,2022-03-01,Colombia,Chrysal Boost Z,4,Fungicida,176983.83,107010.92,337
+SO-000338,2024-05-01,Colombia,Chrysal Flora F,1,Fertilizante,105775.98,61806.76,338
+SO-000339,2025-05-01,Ecuador,Chrysal Root R,3,Fungicida,,63060.58,339
+SO-000340,2025-02-01,Ecuador,Chrysal Root R,2,Fertilizante,87241.06,48592.69,340
+SO-000341,2024-04-01,Kenya,Chrysal Boost Z,3,Insecticida,112864.24,51639.86,341
+SO-000342,2025-02-01,Ecuador,Chrysal Protect Y,3,Nutricional,116162.85,71046.77,342
+SO-000343,2024-05-01,Ecuador,Chrysal Root R,4,Fertilizante,72583.18,37318.27,343
+SO-000344,2023-05-01,Colombia,Chrysal Flora F,1,Fungicida,116928.86,65770.83,344
+SO-000345,2024-01-01,Holanda,Chrysal Root R,4,Nutricional,51330.88,25967.73,345
+SO-000346,2024-05-01,Ecuador,Chrysal Flora F,4,Insecticida,140154.57,85003.75,346
+SO-000347,2024-01-01,Holanda,Chrysal Boost Z,4,Nutricional,23653.2,14837.67,347
+SO-000348,2025-04-01,Ecuador,Chrysal Root R,3,Fertilizante,66409.05,35178.77,348
+SO-000349,2025-02-01,Ecuador,Chrysal Flora F,4,Insecticida,48247.68,30038.26,349
+SO-000350,2024-02-01,Kenya,Chrysal Boost Z,4,Fungicida,95388.25,48019.88,350
+SO-000351,2025-01-01,Kenya,Chrysal Protect Y,1,Insecticida,163278.43,90935.01,351
+SO-000352,2022-02-01,Kenya,Chrysal Flora F,1,Insecticida,98832.88,61449.57,352
+SO-000353,2022-05-01,Holanda,Chrysal Protect Y,4,Regulador de crecimiento,102634.77,52875.0,353
+SO-000354,2025-03-01,Colombia,Chrysal Protect Y,1,Insecticida,99018.85,63452.11,354
+SO-000355,2025-01-01,Ecuador,Chrysal Grow X,1,Insecticida,190712.14,90469.24,355
+SO-000356,2024-02-01,Ecuador,Chrysal Root R,4,Nutricional,157202.58,71315.74,356
+SO-000357,2023-01-01,Ecuador,Chrysal Flora F,3,Fungicida,128815.0,81259.99,357
+SO-000358,2025-01-01,Holanda,Chrysal Protect Y,4,Nutricional,43213.1,20039.2,358
+SO-000359,2022-03-01,Kenya,Chrysal Grow X,1,Nutricional,85334.26,55328.84,359
+SO-000360,2024-05-01,Colombia,Chrysal Boost Z,3,Fertilizante,129048.5,82627.09,360
+SO-000361,2025-01-01,Holanda,Chrysal Flora F,2,Nutricional,102850.9,49101.45,361
+SO-000362,2022-02-01,Kenya,Chrysal Protect Y,3,Regulador de crecimiento,14087.71,7854.14,362
+SO-000363,2022-04-01,Holanda,Chrysal Root R,1,Regulador de crecimiento,,46531.03,363
+SO-000364,2023-01-01,Colombia,Chrysal Grow X,3,Fertilizante,107471.8,57565.23,364
+SO-000365,2024-01-01,Kenya,Chrysal Protect Y,4,Fungicida,162134.87,74952.52,365
+SO-000366,2024-03-01,Holanda,Chrysal Root R,2,Fungicida,130267.26,64454.27,366
+SO-000367,2023-05-01,Colombia,Chrysal Protect Y,2,Nutricional,147269.71,76971.19,367
+SO-000368,2023-04-01,Ecuador,Chrysal Flora F,2,Nutricional,82864.39,44558.63,368
+SO-000369,2024-02-01,Colombia,Chrysal Flora F,1,Nutricional,28666.99,18504.52,369
+SO-000370,2024-04-01,Ecuador,Chrysal Flora F,1,Fungicida,48004.51,29358.27,370
+SO-000371,2025-02-01,Holanda,Chrysal Grow X,2,Insecticida,133762.91,79920.93,371
+SO-000372,2025-05-01,Kenya,Chrysal Flora F,3,Regulador de crecimiento,20190.63,11254.42,372
+SO-000373,2023-02-01,Kenya,Chrysal Root R,2,Insecticida,165725.46,102418.26,373
+SO-000374,2025-03-01,Holanda,Chrysal Protect Y,3,Insecticida,141668.29,73364.99,374
+SO-000375,2022-03-01,Kenya,Chrysal Boost Z,3,Fungicida,160450.19,94951.19,375
+SO-000376,2025-03-01,Kenya,Chrysal Root R,1,Insecticida,148008.84,96021.74,376
+SO-000377,2025-03-01,Ecuador,Chrysal Root R,3,Fertilizante,9599.4,4923.78,377
+SO-000378,2022-04-01,Holanda,Chrysal Flora F,2,Nutricional,123033.04,71950.16,378
+SO-000379,2023-05-01,Colombia,Chrysal Grow X,1,Fertilizante,127973.71,79198.19,379
+SO-000380,2022-02-01,Ecuador,Chrysal Protect Y,4,Regulador de crecimiento,102503.0,64900.95,380
+SO-000381,2025-02-01,Holanda,Chrysal Grow X,4,Nutricional,20649.7,12257.39,381
+SO-000382,2023-03-01,Ecuador,Chrysal Protect Y,1,Insecticida,153441.71,77752.23,382
+SO-000383,2025-03-01,Colombia,Chrysal Protect Y,2,Regulador de crecimiento,163936.82,84469.5,383
+SO-000384,2022-01-01,Colombia,Chrysal Grow X,4,Nutricional,95444.37,43346.21,384
+SO-000385,2022-05-01,Holanda,Chrysal Root R,4,Insecticida,177896.35,107125.13,385
+SO-000386,2025-04-01,Colombia,Chrysal Protect Y,3,Fertilizante,102769.64,47124.8,386
+SO-000387,2024-02-01,Ecuador,Chrysal Grow X,3,Nutricional,93640.54,58331.54,387
+SO-000388,2024-01-01,Colombia,Chrysal Protect Y,2,Insecticida,12583.18,5961.06,388
+SO-000389,2022-01-01,Ecuador,Chrysal Boost Z,1,Fertilizante,22660.56,10976.22,389
+SO-000390,2022-02-01,Ecuador,Chrysal Root R,2,Regulador de crecimiento,78646.04,42886.1,390
+SO-000391,2024-04-01,Colombia,Chrysal Flora F,1,Regulador de crecimiento,162120.72,96879.46,391
+SO-000392,2024-01-01,Holanda,Chrysal Protect Y,4,Regulador de crecimiento,82787.96,39556.12,392
+SO-000393,2025-01-01,Kenya,Chrysal Boost Z,3,Regulador de crecimiento,115550.89,62168.02,393
+SO-000394,2025-05-01,Colombia,Chrysal Flora F,2,Fungicida,48176.7,26331.95,394
+SO-000395,2024-04-01,Ecuador,Chrysal Flora F,2,Nutricional,18160.27,8943.15,395
+SO-000396,2025-01-01,Ecuador,Chrysal Protect Y,1,Nutricional,91595.21,43334.76,396
+SO-000397,2025-04-01,Colombia,Chrysal Grow X,1,Fungicida,67293.7,41539.34,397
+SO-000398,2023-02-01,Holanda,Chrysal Protect Y,2,Insecticida,22614.35,12449.05,398
+SO-000399,2025-03-01,Holanda,Chrysal Boost Z,1,Insecticida,,96719.6,399
+SO-000400,2022-01-01,Ecuador,Chrysal Flora F,2,Regulador de crecimiento,10992.52,6711.99,400
+SO-000401,2025-05-01,Ecuador,Chrysal Protect Y,2,Fertilizante,172555.43,111498.2,401
+SO-000402,2025-02-01,Holanda,Chrysal Grow X,2,Insecticida,127239.18,72677.14,402
+SO-000403,2024-04-01,Kenya,Chrysal Protect Y,4,Fertilizante,81354.48,44805.3,403
+SO-000404,2022-02-01,Colombia,Chrysal Root R,1,Nutricional,106539.81,66660.16,404
+SO-000405,2025-01-01,Ecuador,Chrysal Grow X,3,Fertilizante,5719.7,3663.49,405
+SO-000406,2025-04-01,Ecuador,Chrysal Boost Z,3,Nutricional,14782.65,8883.01,406
+SO-000407,2023-03-01,Holanda,Chrysal Flora F,1,Fungicida,57812.43,31166.14,407
+SO-000408,2025-02-01,Colombia,Chrysal Protect Y,2,Fungicida,73560.34,41814.95,408
+SO-000409,2025-01-01,Holanda,Chrysal Grow X,3,Regulador de crecimiento,89507.59,52826.22,409
+SO-000410,2023-05-01,Colombia,Chrysal Root R,3,Insecticida,15533.18,7593.47,410
+SO-000411,2024-04-01,Colombia,Chrysal Grow X,1,Regulador de crecimiento,,33156.37,411
+SO-000412,2025-02-01,Colombia,Chrysal Root R,3,Nutricional,146934.72,90506.54,412
+SO-000413,2023-02-01,Ecuador,Chrysal Boost Z,2,Regulador de crecimiento,127775.56,74230.58,413
+SO-000414,2022-03-01,Kenya,Chrysal Flora F,1,Fertilizante,,30716.44,414
+SO-000415,2024-03-01,Holanda,Chrysal Boost Z,2,Nutricional,28476.12,16592.25,415
+SO-000416,2022-05-01,Kenya,Chrysal Protect Y,3,Fungicida,72757.04,34460.97,416
+SO-000417,2022-05-01,Holanda,Chrysal Grow X,3,Insecticida,96316.8,51076.76,417
+SO-000418,2023-01-01,Colombia,Chrysal Root R,2,Nutricional,53932.39,32824.64,418
+SO-000419,2025-01-01,Ecuador,Chrysal Root R,4,Nutricional,116776.9,57699.67,419
+SO-000420,2023-05-01,Kenya,Chrysal Grow X,3,Fertilizante,52854.92,25750.51,420
+SO-000421,2023-05-01,Ecuador,Chrysal Grow X,4,Insecticida,180836.48,115764.96,421
+SO-000422,2023-04-01,Holanda,Chrysal Protect Y,3,Fungicida,124793.48,61395.83,422
+SO-000423,2023-03-01,Ecuador,Chrysal Boost Z,4,Nutricional,18534.81,9307.88,423
+SO-000424,2024-01-01,Ecuador,Chrysal Root R,4,Nutricional,19343.98,12456.04,424
+SO-000425,2025-03-01,Kenya,Chrysal Protect Y,4,Fertilizante,159105.83,94976.91,425
+SO-000426,2022-03-01,Colombia,Chrysal Boost Z,2,Regulador de crecimiento,18974.81,11193.61,426
+SO-000427,2022-05-01,Ecuador,Chrysal Protect Y,4,Fungicida,158241.05,98202.06,427
+SO-000428,2025-04-01,Colombia,Chrysal Root R,4,Insecticida,,3657.46,428
+SO-000429,2022-02-01,Holanda,Chrysal Grow X,4,Nutricional,30687.28,18142.05,429
+SO-000430,2025-04-01,Ecuador,Chrysal Grow X,3,Nutricional,146510.33,80688.76,430
+SO-000431,2022-04-01,Kenya,Chrysal Boost Z,4,Fungicida,51317.93,31603.13,431
+SO-000432,2023-03-01,Holanda,Chrysal Flora F,3,Regulador de crecimiento,22190.54,12240.93,432
+SO-000433,2022-04-01,Holanda,Chrysal Boost Z,4,Nutricional,69826.41,40083.73,433
+SO-000434,2025-01-01,Kenya,Chrysal Flora F,4,Fungicida,111754.82,60967.67,434
+SO-000435,2025-03-01,Ecuador,Chrysal Protect Y,2,Fertilizante,51749.35,28236.09,435
+SO-000436,2025-01-01,Ecuador,Chrysal Protect Y,3,Regulador de crecimiento,136359.87,82306.0,436
+SO-000437,2025-02-01,Holanda,Chrysal Root R,4,Insecticida,8123.16,4676.61,437
+SO-000438,2025-03-01,Ecuador,Chrysal Flora F,3,Nutricional,125229.31,72213.81,438
+SO-000439,2024-02-01,Colombia,Chrysal Root R,3,Fungicida,139949.06,75580.4,439
+SO-000440,2024-03-01,Kenya,Chrysal Grow X,1,Fertilizante,140885.38,78363.54,440
+SO-000441,2022-05-01,Colombia,Chrysal Flora F,2,Insecticida,35172.6,21073.44,441
+SO-000442,2025-04-01,Ecuador,Chrysal Boost Z,2,Fungicida,137492.37,84583.68,442
+SO-000443,2022-05-01,Holanda,Chrysal Grow X,2,Fungicida,59508.43,35069.05,443
+SO-000444,2025-02-01,Kenya,Chrysal Grow X,1,Insecticida,54249.51,34438.38,444
+SO-000445,2025-04-01,Ecuador,Chrysal Boost Z,1,Fertilizante,137300.67,84311.51,445
+SO-000446,2024-03-01,Ecuador,Chrysal Grow X,2,Fertilizante,102841.02,57834.99,446
+SO-000447,2024-04-01,Holanda,Chrysal Flora F,1,Regulador de crecimiento,139813.59,81690.45,447
+SO-000448,2023-01-01,Holanda,Chrysal Root R,1,Nutricional,10366.65,6585.54,448
+SO-000449,2024-04-01,Colombia,Chrysal Grow X,1,Insecticida,65147.89,37384.05,449
+SO-000450,2023-01-01,Kenya,Chrysal Flora F,2,Insecticida,137845.16,84769.45,450
+SO-000451,2023-04-01,Kenya,Chrysal Protect Y,2,Insecticida,9017.08,5299.9,451
+SO-000452,2023-01-01,Holanda,Chrysal Flora F,2,Fertilizante,108302.76,60691.49,452
+SO-000453,2023-02-01,Colombia,Chrysal Root R,1,Nutricional,,15563.08,453
+SO-000454,2023-05-01,Kenya,Chrysal Flora F,2,Regulador de crecimiento,39158.37,20957.54,454
+SO-000455,2022-03-01,Holanda,Chrysal Boost Z,1,Fungicida,41148.09,26480.8,455
+SO-000456,2024-04-01,Ecuador,Chrysal Root R,4,Fungicida,63472.36,36912.54,456
+SO-000457,2023-05-01,Kenya,Chrysal Protect Y,1,Insecticida,45449.11,25582.35,457
+SO-000458,2025-03-01,Colombia,Chrysal Boost Z,3,Nutricional,,6594.29,458
+SO-000459,2024-03-01,Colombia,Chrysal Flora F,2,Fertilizante,163451.96,92726.68,459
+SO-000460,2024-01-01,Colombia,Chrysal Root R,2,Nutricional,8460.63,4697.48,460
+SO-000461,2023-02-01,Ecuador,Chrysal Protect Y,3,Nutricional,55457.51,33377.78,461
+SO-000462,2022-02-01,Kenya,Chrysal Boost Z,1,Fertilizante,82872.46,49104.68,462
+SO-000463,2023-05-01,Kenya,Chrysal Protect Y,4,Insecticida,,78239.72,463
+SO-000464,2022-02-01,Ecuador,Chrysal Flora F,3,Nutricional,,114124.29,464
+SO-000465,2025-04-01,Kenya,Chrysal Protect Y,3,Fungicida,,76051.98,465
+SO-000466,2024-02-01,Ecuador,Chrysal Grow X,1,Fertilizante,100304.26,52724.42,466
+SO-000467,2025-05-01,Ecuador,Chrysal Boost Z,2,Regulador de crecimiento,115060.32,63681.14,467
+SO-000468,2022-02-01,Ecuador,Chrysal Protect Y,1,Insecticida,141511.82,75372.24,468
+SO-000469,2022-04-01,Colombia,Chrysal Flora F,3,Fertilizante,,81914.74,469
+SO-000470,2025-01-01,Kenya,Chrysal Flora F,3,Regulador de crecimiento,,54816.4,470
+SO-000471,2022-05-01,Ecuador,Chrysal Protect Y,2,Regulador de crecimiento,,21910.36,471
+SO-000472,2025-01-01,Kenya,Chrysal Flora F,2,Nutricional,78532.28,44383.08,472
+SO-000473,2024-01-01,Colombia,Chrysal Root R,2,Nutricional,,78616.88,473
+SO-000474,2025-01-01,Ecuador,Chrysal Root R,1,Nutricional,99475.84,59193.84,474
+SO-000475,2024-03-01,Holanda,Chrysal Root R,2,Fertilizante,175715.64,91737.41,475
+SO-000476,2025-03-01,Colombia,Chrysal Grow X,3,Fertilizante,113279.64,52948.52,476
+SO-000477,2022-01-01,Holanda,Chrysal Protect Y,3,Insecticida,129527.36,63524.09,477
+SO-000478,2025-05-01,Kenya,Chrysal Grow X,4,Nutricional,107081.18,59868.88,478
+SO-000479,2022-04-01,Kenya,Chrysal Flora F,1,Regulador de crecimiento,80185.53,39404.09,479
+SO-000480,2025-04-01,Colombia,Chrysal Grow X,4,Fungicida,94653.22,52891.71,480
+SO-000481,2025-02-01,Kenya,Chrysal Flora F,3,Insecticida,106801.99,53007.94,481
+SO-000482,2023-05-01,Holanda,Chrysal Flora F,4,Fertilizante,31288.11,19391.9,482
+SO-000483,2022-03-01,Ecuador,Chrysal Boost Z,3,Insecticida,27040.95,14316.95,483
+SO-000484,2023-01-01,Ecuador,Chrysal Root R,4,Insecticida,84787.82,42318.46,484
+SO-000485,2022-02-01,Ecuador,Chrysal Flora F,2,Insecticida,153733.3,94156.3,485
+SO-000486,2023-04-01,Colombia,Chrysal Boost Z,4,Insecticida,33721.7,17486.99,486
+SO-000487,2024-03-01,Kenya,Chrysal Root R,2,Fungicida,121963.41,57603.02,487
+SO-000488,2025-03-01,Holanda,Chrysal Flora F,2,Nutricional,39127.02,22070.84,488
+SO-000489,2022-01-01,Kenya,Chrysal Flora F,1,Regulador de crecimiento,,64979.83,489
+SO-000490,2022-04-01,Kenya,Chrysal Grow X,2,Insecticida,101459.64,60159.39,490
+SO-000491,2025-05-01,Kenya,Chrysal Grow X,2,Insecticida,64225.09,31986.91,491
+SO-000492,2022-03-01,Ecuador,Chrysal Root R,4,Insecticida,49299.44,26560.28,492
+SO-000493,2022-01-01,Holanda,Chrysal Flora F,3,Nutricional,92105.95,46649.23,493
+SO-000494,2023-05-01,Holanda,Chrysal Protect Y,1,Fertilizante,,57075.17,494
+SO-000495,2022-04-01,Kenya,Chrysal Grow X,2,Fertilizante,130375.27,81526.62,495
+SO-000496,2024-03-01,Ecuador,Chrysal Root R,1,Fungicida,116822.63,69599.88,496
+SO-000497,2024-05-01,Ecuador,Chrysal Flora F,4,Fertilizante,139296.17,71081.81,497
+SO-000498,2025-05-01,Holanda,Chrysal Flora F,2,Insecticida,173810.93,99050.44,498
+SO-000499,2022-05-01,Ecuador,Chrysal Protect Y,4,Insecticida,45887.18,22496.32,499
+SO-000500,2025-03-01,Ecuador,Chrysal Root R,1,Insecticida,,92562.24,500
+SO-000501,2024-03-01,Ecuador,Chrysal Flora F,4,Fungicida,19891.47,9408.29,501
+SO-000502,2022-02-01,Colombia,Chrysal Grow X,1,Insecticida,43849.61,19765.98,502
+SO-000503,2022-04-01,Kenya,Chrysal Protect Y,4,Fertilizante,145738.53,80214.73,503
+SO-000504,2025-01-01,Holanda,Chrysal Root R,1,Nutricional,,33586.9,504
+SO-000505,2024-05-01,Holanda,Chrysal Protect Y,3,Nutricional,77082.0,43612.46,505
+SO-000506,2022-02-01,Colombia,Chrysal Grow X,4,Regulador de crecimiento,164709.89,75915.18,506
+SO-000507,2025-01-01,Kenya,Chrysal Root R,4,Fertilizante,,5206.76,507
+SO-000508,2024-02-01,Holanda,Chrysal Protect Y,3,Insecticida,202419.73,111298.42,508
+SO-000509,2025-03-01,Ecuador,Chrysal Boost Z,3,Nutricional,57830.02,28528.47,509
+SO-000510,2023-05-01,Holanda,Chrysal Grow X,4,Fertilizante,,23044.34,510
+SO-000511,2022-01-01,Ecuador,Chrysal Grow X,3,Nutricional,170706.13,79791.78,511
+SO-000512,2023-01-01,Colombia,Chrysal Grow X,2,Insecticida,109566.33,59985.03,512
+SO-000513,2024-01-01,Ecuador,Chrysal Boost Z,1,Nutricional,188013.75,110605.34,513
+SO-000514,2023-01-01,Holanda,Chrysal Boost Z,1,Regulador de crecimiento,78923.36,39647.17,514
+SO-000515,2023-01-01,Holanda,Chrysal Flora F,1,Regulador de crecimiento,114071.84,65573.99,515
+SO-000516,2024-02-01,Holanda,Chrysal Protect Y,2,Nutricional,68808.88,42377.81,516
+SO-000517,2025-05-01,Colombia,Chrysal Flora F,3,Fertilizante,195064.0,95204.38,517
+SO-000518,2023-03-01,Colombia,Chrysal Protect Y,3,Fertilizante,18803.44,11910.93,518
+SO-000519,2025-03-01,Kenya,Chrysal Boost Z,4,Fertilizante,80457.36,45113.38,519
+SO-000520,2023-03-01,Holanda,Chrysal Boost Z,3,Nutricional,167787.09,85545.64,520
+SO-000521,2025-03-01,Ecuador,Chrysal Flora F,4,Fertilizante,101714.69,54536.54,521
+SO-000522,2024-02-01,Colombia,Chrysal Root R,2,Insecticida,,14471.79,522
+SO-000523,2023-04-01,Holanda,Chrysal Flora F,1,Regulador de crecimiento,184816.89,109970.16,523
+SO-000524,2024-05-01,Holanda,Chrysal Protect Y,1,Insecticida,172268.22,104956.16,524
+SO-000525,2023-01-01,Colombia,Chrysal Flora F,1,Fertilizante,85434.22,52677.67,525
+SO-000526,2024-04-01,Kenya,Chrysal Grow X,3,Insecticida,21883.86,14162.22,526
+SO-000527,2024-03-01,Colombia,Chrysal Protect Y,4,Fertilizante,,20713.68,527
+SO-000528,2023-04-01,Colombia,Chrysal Protect Y,4,Nutricional,165164.34,94189.39,528
+SO-000529,2023-05-01,Ecuador,Chrysal Root R,2,Insecticida,20118.94,10418.47,529
+SO-000530,2023-01-01,Ecuador,Chrysal Boost Z,3,Nutricional,125534.02,70163.36,530
+SO-000531,2022-01-01,Kenya,Chrysal Protect Y,2,Nutricional,10730.55,4916.88,531
+SO-000532,2025-05-01,Holanda,Chrysal Boost Z,4,Fungicida,78196.99,46837.26,532
+SO-000533,2022-05-01,Colombia,Chrysal Flora F,4,Fertilizante,,64853.72,533
+SO-000534,2022-03-01,Kenya,Chrysal Grow X,1,Regulador de crecimiento,60150.19,27308.47,534
+SO-000535,2024-01-01,Ecuador,Chrysal Root R,3,Fertilizante,126690.11,58594.35,535
+SO-000536,2023-04-01,Colombia,Chrysal Boost Z,4,Regulador de crecimiento,102843.86,54249.45,536
+SO-000537,2025-02-01,Holanda,Chrysal Protect Y,1,Fertilizante,,2103.09,537
+SO-000538,2024-02-01,Ecuador,Chrysal Boost Z,3,Nutricional,93762.67,50898.2,538
+SO-000539,2022-05-01,Ecuador,Chrysal Protect Y,2,Insecticida,80834.88,46386.35,539
+SO-000540,2023-03-01,Ecuador,Chrysal Boost Z,3,Insecticida,6002.05,3277.47,540
+SO-000541,2024-02-01,Kenya,Chrysal Protect Y,3,Fungicida,177879.31,103586.38,541
+SO-000542,2023-01-01,Holanda,Chrysal Flora F,4,Regulador de crecimiento,170427.37,84161.33,542
+SO-000543,2024-05-01,Colombia,Chrysal Protect Y,4,Regulador de crecimiento,168964.41,79847.28,543
+SO-000544,2023-04-01,Kenya,Chrysal Protect Y,3,Regulador de crecimiento,74335.1,42317.99,544
+SO-000545,2022-05-01,Kenya,Chrysal Grow X,4,Nutricional,96255.36,52645.7,545
+SO-000546,2025-04-01,Kenya,Chrysal Protect Y,4,Regulador de crecimiento,93447.5,42553.52,546
+SO-000547,2022-05-01,Ecuador,Chrysal Grow X,4,Insecticida,42447.12,22331.28,547
+SO-000548,2025-05-01,Holanda,Chrysal Root R,1,Nutricional,142583.86,67189.09,548
+SO-000549,2023-05-01,Kenya,Chrysal Grow X,1,Fertilizante,139751.29,77739.64,549
+SO-000550,2024-04-01,Colombia,Chrysal Flora F,3,Regulador de crecimiento,12573.84,6653.52,550
+SO-000551,2022-04-01,Holanda,Chrysal Grow X,4,Regulador de crecimiento,142917.74,81839.04,551
+SO-000552,2025-05-01,Colombia,Chrysal Root R,1,Fertilizante,138530.14,84658.6,552
+SO-000553,2022-02-01,Holanda,Chrysal Flora F,3,Regulador de crecimiento,137106.11,69915.03,553
+SO-000554,2025-03-01,Colombia,Chrysal Boost Z,4,Fertilizante,27388.52,17594.94,554
+SO-000555,2022-03-01,Ecuador,Chrysal Boost Z,2,Nutricional,93160.9,51902.44,555
+SO-000556,2025-03-01,Kenya,Chrysal Grow X,4,Insecticida,71034.1,40749.29,556
+SO-000557,2025-04-01,Colombia,Chrysal Grow X,4,Fertilizante,,45012.91,557
+SO-000558,2023-04-01,Holanda,Chrysal Root R,1,Fungicida,22785.16,13291.64,558
+SO-000559,2025-02-01,Kenya,Chrysal Root R,3,Fertilizante,85064.47,46972.1,559
+SO-000560,2023-03-01,Kenya,Chrysal Protect Y,3,Regulador de crecimiento,,13644.4,560
+SO-000561,2025-03-01,Holanda,Chrysal Root R,1,Nutricional,134600.52,62018.05,561
+SO-000562,2024-05-01,Colombia,Chrysal Protect Y,4,Nutricional,179608.11,81617.01,562
+SO-000563,2024-04-01,Ecuador,Chrysal Flora F,2,Fertilizante,30758.23,16043.25,563
+SO-000564,2024-03-01,Ecuador,Chrysal Grow X,4,Insecticida,133021.61,68736.55,564
+SO-000565,2025-02-01,Colombia,Chrysal Flora F,4,Fungicida,124578.38,65719.96,565
+SO-000566,2023-02-01,Kenya,Chrysal Root R,2,Nutricional,111653.2,53333.79,566
+SO-000567,2023-03-01,Kenya,Chrysal Flora F,1,Regulador de crecimiento,117966.52,70500.76,567
+SO-000568,2025-04-01,Kenya,Chrysal Flora F,3,Regulador de crecimiento,132117.53,82096.89,568
+SO-000569,2024-02-01,Kenya,Chrysal Flora F,1,Insecticida,18013.29,11487.85,569
+SO-000570,2024-05-01,Colombia,Chrysal Root R,1,Nutricional,134420.39,73725.88,570
+SO-000571,2023-02-01,Kenya,Chrysal Flora F,4,Fertilizante,,11261.16,571
+SO-000572,2024-01-01,Holanda,Chrysal Protect Y,3,Regulador de crecimiento,,26066.99,572
+SO-000573,2022-01-01,Kenya,Chrysal Root R,3,Insecticida,85441.85,45596.74,573
+SO-000574,2023-04-01,Ecuador,Chrysal Flora F,1,Nutricional,115696.78,59223.17,574
+SO-000575,2024-03-01,Kenya,Chrysal Root R,2,Nutricional,109030.32,69489.92,575
+SO-000576,2023-04-01,Colombia,Chrysal Boost Z,1,Nutricional,64961.86,35932.7,576
+SO-000577,2022-04-01,Ecuador,Chrysal Protect Y,2,Nutricional,40258.13,22119.86,577
+SO-000578,2023-04-01,Colombia,Chrysal Flora F,3,Nutricional,162471.03,78909.45,578
+SO-000579,2023-04-01,Colombia,Chrysal Boost Z,1,Regulador de crecimiento,163732.65,77221.39,579
+SO-000580,2023-05-01,Ecuador,Chrysal Boost Z,4,Insecticida,39463.2,24404.89,580
+SO-000581,2023-05-01,Colombia,Chrysal Root R,1,Nutricional,13064.64,7483.77,581
+SO-000582,2022-02-01,Colombia,Chrysal Boost Z,3,Fungicida,,14027.37,582
+SO-000583,2025-01-01,Kenya,Chrysal Protect Y,4,Fungicida,,33118.29,583
+SO-000584,2023-04-01,Holanda,Chrysal Protect Y,4,Insecticida,4838.78,2715.03,584
+SO-000585,2023-02-01,Colombia,Chrysal Grow X,2,Fertilizante,171182.55,97023.51,585
+SO-000586,2024-01-01,Colombia,Chrysal Protect Y,4,Fertilizante,,29391.96,586
+SO-000587,2023-03-01,Colombia,Chrysal Boost Z,4,Fertilizante,27580.9,17107.91,587
+SO-000588,2024-05-01,Kenya,Chrysal Protect Y,1,Fungicida,138195.09,64516.77,588
+SO-000589,2025-01-01,Holanda,Chrysal Root R,3,Fertilizante,34000.09,17721.48,589
+SO-000590,2022-03-01,Ecuador,Chrysal Grow X,2,Regulador de crecimiento,180425.88,105743.44,590
+SO-000591,2022-01-01,Kenya,Chrysal Boost Z,1,Nutricional,57085.56,28818.16,591
+SO-000592,2025-05-01,Kenya,Chrysal Grow X,4,Fungicida,91979.38,56616.53,592
+SO-000593,2022-05-01,Holanda,Chrysal Boost Z,4,Insecticida,30116.15,18008.66,593
+SO-000594,2025-02-01,Holanda,Chrysal Root R,2,Insecticida,,56857.86,594
+SO-000595,2025-04-01,Kenya,Chrysal Grow X,3,Nutricional,27688.46,13119.38,595
+SO-000596,2025-01-01,Ecuador,Chrysal Flora F,2,Fungicida,,95258.26,596
+SO-000597,2022-01-01,Kenya,Chrysal Boost Z,1,Fertilizante,160894.73,81621.05,597
+SO-000598,2024-03-01,Holanda,Chrysal Flora F,2,Fertilizante,127421.73,70542.63,598
+SO-000599,2025-05-01,Ecuador,Chrysal Grow X,4,Regulador de crecimiento,,3229.21,599
+SO-000600,2023-01-01,Holanda,Chrysal Flora F,1,Regulador de crecimiento,81213.28,50133.46,600
+SO-000601,2022-05-01,Ecuador,Chrysal Flora F,4,Fertilizante,166879.37,98603.53,601
+SO-000602,2025-01-01,Colombia,Chrysal Grow X,3,Insecticida,155637.01,98941.47,602
+SO-000603,2025-02-01,Holanda,Chrysal Root R,4,Insecticida,74322.58,44426.23,603
+SO-000604,2023-04-01,Holanda,Chrysal Flora F,4,Regulador de crecimiento,118199.78,60430.06,604
+SO-000605,2024-01-01,Kenya,Chrysal Flora F,2,Nutricional,63155.21,31768.1,605
+SO-000606,2024-05-01,Holanda,Chrysal Root R,4,Fertilizante,143193.72,84375.25,606
+SO-000607,2024-02-01,Holanda,Chrysal Flora F,1,Regulador de crecimiento,91619.23,44762.79,607
+SO-000608,2025-01-01,Colombia,Chrysal Flora F,1,Regulador de crecimiento,,71351.8,608
+SO-000609,2025-03-01,Holanda,Chrysal Flora F,3,Fertilizante,54493.83,30322.8,609
+SO-000610,2025-04-01,Colombia,Chrysal Protect Y,1,Fertilizante,164845.69,101269.38,610
+SO-000611,2022-01-01,Colombia,Chrysal Root R,2,Insecticida,,13657.43,611
+SO-000612,2023-02-01,Colombia,Chrysal Flora F,3,Nutricional,135423.92,82388.97,612
+SO-000613,2025-03-01,Colombia,Chrysal Root R,1,Nutricional,8086.54,4951.5,613
+SO-000614,2023-02-01,Ecuador,Chrysal Boost Z,2,Fertilizante,59250.57,32377.76,614
+SO-000615,2023-02-01,Kenya,Chrysal Boost Z,1,Fungicida,28514.93,13158.56,615
+SO-000616,2024-03-01,Ecuador,Chrysal Flora F,1,Regulador de crecimiento,115566.42,56040.23,616
+SO-000617,2022-02-01,Holanda,Chrysal Root R,4,Regulador de crecimiento,23839.06,14100.45,617
+SO-000618,2025-03-01,Ecuador,Chrysal Root R,1,Fertilizante,20856.67,12354.56,618
+SO-000619,2024-01-01,Ecuador,Chrysal Root R,1,Fungicida,19675.7,12389.22,619
+SO-000620,2024-03-01,Holanda,Chrysal Protect Y,2,Insecticida,120889.07,68488.16,620
+SO-000621,2025-03-01,Holanda,Chrysal Boost Z,2,Fertilizante,74627.74,35434.85,621
+SO-000622,2023-04-01,Holanda,Chrysal Root R,4,Fertilizante,21114.19,10014.1,622
+SO-000623,2024-03-01,Ecuador,Chrysal Root R,1,Regulador de crecimiento,21575.77,12820.89,623
+SO-000624,2023-03-01,Ecuador,Chrysal Protect Y,4,Fertilizante,122038.42,59403.05,624
+SO-000625,2022-01-01,Holanda,Chrysal Protect Y,1,Fertilizante,56554.23,29163.72,625
+SO-000626,2023-04-01,Kenya,Chrysal Root R,3,Fertilizante,113262.9,62004.92,626
+SO-000627,2022-05-01,Kenya,Chrysal Grow X,3,Regulador de crecimiento,142802.73,64968.53,627
+SO-000628,2023-01-01,Colombia,Chrysal Root R,4,Insecticida,,30592.15,628
+SO-000629,2024-01-01,Holanda,Chrysal Root R,4,Insecticida,48252.93,25650.19,629
+SO-000630,2024-05-01,Colombia,Chrysal Protect Y,4,Fertilizante,,16156.73,630
+SO-000631,2022-03-01,Kenya,Chrysal Protect Y,2,Regulador de crecimiento,160446.84,76577.12,631
+SO-000632,2025-02-01,Colombia,Chrysal Root R,2,Insecticida,16096.19,9586.93,632
+SO-000633,2022-04-01,Holanda,Chrysal Root R,2,Insecticida,116374.17,71294.25,633
+SO-000634,2022-02-01,Holanda,Chrysal Root R,4,Insecticida,131312.81,65852.82,634
+SO-000635,2023-05-01,Holanda,Chrysal Protect Y,1,Regulador de crecimiento,121283.3,73362.31,635
+SO-000636,2023-01-01,Ecuador,Chrysal Root R,3,Regulador de crecimiento,170332.4,89784.04,636
+SO-000637,2022-01-01,Colombia,Chrysal Root R,4,Fertilizante,63506.16,35013.31,637
+SO-000638,2024-04-01,Kenya,Chrysal Flora F,2,Nutricional,45256.94,28113.62,638
+SO-000639,2023-01-01,Kenya,Chrysal Grow X,2,Insecticida,88808.17,53284.08,639
+SO-000640,2025-01-01,Kenya,Chrysal Boost Z,4,Nutricional,77360.34,47268.98,640
+SO-000641,2023-04-01,Ecuador,Chrysal Grow X,4,Regulador de crecimiento,107977.63,51545.17,641
+SO-000642,2023-04-01,Ecuador,Chrysal Flora F,2,Regulador de crecimiento,,63632.36,642
+SO-000643,2025-05-01,Holanda,Chrysal Boost Z,1,Regulador de crecimiento,,94436.39,643
+SO-000644,2022-01-01,Kenya,Chrysal Root R,2,Nutricional,137427.12,72501.99,644
+SO-000645,2025-01-01,Ecuador,Chrysal Flora F,2,Regulador de crecimiento,16845.16,8550.2,645
+SO-000646,2022-05-01,Holanda,Chrysal Root R,4,Fertilizante,173143.58,103009.91,646
+SO-000647,2022-03-01,Kenya,Chrysal Protect Y,1,Regulador de crecimiento,46478.55,28690.43,647
+SO-000648,2022-03-01,Colombia,Chrysal Flora F,2,Fungicida,19746.91,12292.41,648
+SO-000649,2025-03-01,Holanda,Chrysal Protect Y,2,Nutricional,189157.39,97075.47,649
+SO-000650,2022-05-01,Ecuador,Chrysal Flora F,3,Fungicida,38628.37,23966.68,650
+SO-000651,2024-01-01,Ecuador,Chrysal Flora F,4,Regulador de crecimiento,64811.75,29695.89,651
+SO-000652,2025-05-01,Holanda,Chrysal Protect Y,3,Fertilizante,,3924.22,652
+SO-000653,2024-05-01,Holanda,Chrysal Boost Z,3,Insecticida,109139.81,62723.07,653
+SO-000654,2022-03-01,Ecuador,Chrysal Grow X,2,Regulador de crecimiento,101193.92,46814.46,654
+SO-000655,2023-02-01,Colombia,Chrysal Root R,4,Fertilizante,66817.96,34406.03,655
+SO-000656,2022-01-01,Kenya,Chrysal Flora F,1,Nutricional,166937.08,97583.27,656
+SO-000657,2024-03-01,Colombia,Chrysal Root R,2,Fungicida,,73980.6,657
+SO-000658,2024-02-01,Holanda,Chrysal Protect Y,1,Fungicida,107834.0,52398.69,658
+SO-000659,2025-02-01,Colombia,Chrysal Root R,1,Fungicida,19205.53,9723.18,659
+SO-000660,2023-04-01,Ecuador,Chrysal Protect Y,4,Nutricional,142578.83,77208.59,660
+SO-000661,2025-01-01,Holanda,Chrysal Root R,3,Fertilizante,62887.22,34278.39,661
+SO-000662,2024-02-01,Kenya,Chrysal Grow X,4,Nutricional,47988.18,29109.63,662
+SO-000663,2022-03-01,Ecuador,Chrysal Grow X,1,Fungicida,81170.52,48704.8,663
+SO-000664,2023-04-01,Ecuador,Chrysal Grow X,2,Regulador de crecimiento,132638.28,71805.53,664
+SO-000665,2022-01-01,Kenya,Chrysal Grow X,1,Insecticida,108247.62,67019.72,665
+SO-000666,2022-05-01,Kenya,Chrysal Grow X,2,Nutricional,141783.19,67041.82,666
+SO-000667,2023-03-01,Colombia,Chrysal Grow X,2,Nutricional,54333.89,27225.12,667
+SO-000668,2025-02-01,Holanda,Chrysal Protect Y,4,Fertilizante,129721.51,79855.95,668
+SO-000669,2022-02-01,Kenya,Chrysal Flora F,1,Fertilizante,48317.78,25395.77,669
+SO-000670,2024-03-01,Kenya,Chrysal Root R,3,Nutricional,114084.85,73725.77,670
+SO-000671,2022-02-01,Holanda,Chrysal Grow X,1,Fungicida,70435.28,38264.01,671
+SO-000672,2023-04-01,Kenya,Chrysal Protect Y,1,Insecticida,100749.98,61294.99,672
+SO-000673,2023-01-01,Kenya,Chrysal Protect Y,3,Fertilizante,8040.09,4264.96,673
+SO-000674,2023-04-01,Colombia,Chrysal Protect Y,4,Fungicida,120309.32,64364.37,674
+SO-000675,2025-02-01,Ecuador,Chrysal Flora F,1,Regulador de crecimiento,134834.6,71000.75,675
+SO-000676,2022-05-01,Ecuador,Chrysal Root R,1,Fertilizante,94193.04,55933.25,676
+SO-000677,2025-01-01,Ecuador,Chrysal Flora F,2,Fungicida,,101408.21,677
+SO-000678,2025-01-01,Ecuador,Chrysal Boost Z,1,Fungicida,89467.59,57147.93,678
+SO-000679,2023-03-01,Kenya,Chrysal Protect Y,3,Insecticida,173273.76,86667.73,679
+SO-000680,2023-03-01,Holanda,Chrysal Boost Z,2,Insecticida,72316.88,33997.07,680
+SO-000681,2025-05-01,Holanda,Chrysal Grow X,4,Regulador de crecimiento,15683.77,8291.26,681
+SO-000682,2022-01-01,Colombia,Chrysal Grow X,2,Fungicida,70055.33,40165.7,682
+SO-000683,2024-05-01,Colombia,Chrysal Flora F,3,Fungicida,44753.43,27843.78,683
+SO-000684,2025-03-01,Kenya,Chrysal Root R,3,Insecticida,127627.52,66269.23,684
+SO-000685,2022-03-01,Holanda,Chrysal Boost Z,2,Fertilizante,119023.23,69123.62,685
+SO-000686,2023-01-01,Holanda,Chrysal Root R,4,Fertilizante,78182.02,40657.76,686
+SO-000687,2023-04-01,Ecuador,Chrysal Flora F,2,Nutricional,41575.15,23841.02,687
+SO-000688,2022-02-01,Kenya,Chrysal Grow X,4,Insecticida,198553.86,124485.64,688
+SO-000689,2024-03-01,Kenya,Chrysal Root R,2,Nutricional,22327.94,11080.72,689
+SO-000690,2023-03-01,Ecuador,Chrysal Root R,3,Insecticida,52243.05,27733.14,690
+SO-000691,2023-04-01,Kenya,Chrysal Grow X,1,Regulador de crecimiento,130506.3,84653.31,691
+SO-000692,2023-04-01,Kenya,Chrysal Boost Z,1,Fungicida,80315.12,50093.46,692
+SO-000693,2022-05-01,Colombia,Chrysal Grow X,4,Regulador de crecimiento,164268.83,92471.52,693
+SO-000694,2025-05-01,Holanda,Chrysal Root R,4,Insecticida,49161.92,27202.55,694
+SO-000695,2023-02-01,Kenya,Chrysal Boost Z,4,Fungicida,51447.79,26079.92,695
+SO-000696,2025-02-01,Colombia,Chrysal Boost Z,3,Fertilizante,134575.02,74479.46,696
+SO-000697,2024-01-01,Holanda,Chrysal Grow X,2,Fertilizante,137243.67,85041.16,697
+SO-000698,2023-05-01,Ecuador,Chrysal Root R,3,Nutricional,70017.12,41102.49,698
+SO-000699,2023-03-01,Colombia,Chrysal Flora F,1,Insecticida,180848.44,91872.6,699
+SO-000700,2024-05-01,Colombia,Chrysal Root R,4,Insecticida,124977.01,61275.33,700
