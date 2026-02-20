@@ -17,19 +17,19 @@ Se implementan procesos de:
 - Visualizaciones para apoyar las conclusiones.
 
 ## 📈 Principales Resultados
-###🧑‍💻 Comportamiento de los usuarios
+### 🧑‍💻 Comportamiento de los usuarios
 Sesiones por usuario
 
 Se encuentra que un usuario en promedio dura 664 segundos en la pagina .
 En promedio cada usuario vuelve 1 vez a la semana.
-###📈 Tasa de Conversión
+### 📈 Tasa de Conversión
 Conversión en dias
 
 Durante el primer dia el 72.18% de los clientes toman la decision de comprar.
 Conversión en meses
 
 Ratifica que la mayoria de los clientes compran en el primer mes.
-###💰Comportamiento compras
+### 💰Comportamiento compras
 Tendencia compras Ingreso promedio por compra
 
 En promedio por cada compra se ingresan 8.62$ Dolares.
@@ -50,13 +50,13 @@ Costo de adquisicion por cliente
 📉 ROMI
 Retorno a la inversion
 
-##🧰 Herramientas Utilizadas
+## 🧰 Herramientas Utilizadas
 - Python: manipulación y análisis de datos
 - Pandas: limpieza y transformación
 - Matplotlib & Seaborn: visualización de datos
 - NumPy & SciPy: estadísticas y prueba de hipótesis
 - Jupyter Notebook
-##🚀 Conclusion
+## 🚀 Conclusion
 El informe muestra resultados positivos generales, con un LTV mayor que el CAC, indicando ganancias por encima del margen del 50%. Sin embargo, las fuentes de marketing con mayor uso generan menor retorno, siendo la fuente 3 la de mayor costo y menor retorno, mientras que la fuente 10 tiene el menor costo y mayor retorno.
 
 Se destaca la necesidad de volumen de clientes, ya que la alta tasa de conversión del primer día (72.18%) sugiere que la prioridad debe ser atraer usuarios a la página. El tiempo promedio de visita (10 minutos) y la frecuencia semanal indican una decisión de compra rápida una vez que el cliente ingresa.
