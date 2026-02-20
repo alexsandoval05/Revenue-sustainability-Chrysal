@@ -64,6 +64,5 @@ Se destaca la necesidad de volumen de clientes, ya que la alta tasa de conversi�
 
 Mensualmente, las ventas disminuyeron en noviembre de 2017 (mes 6), a pesar de ser el segundo mes con mayor inversión en publicidad, lo que requiere investigación (posiblemente relacionado con la falta de eventos relevantes). El ingreso promedio por venta es de $8.62, y el valor de vida promedio del cliente es de $18.92, lo que implica que realizan más de una compra. Se enfatiza la importancia del volumen de clientes y el alcance.
 
-[![Revenue-USD.jpg](https://i.postimg.cc/655kBq9F/Revenue-USD.jpg)](https://postimg.cc/9zK8pWwB)
 
 
