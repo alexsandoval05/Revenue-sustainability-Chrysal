@@ -17,8 +17,9 @@ Se implementan procesos de:
 - Visualizaciones para apoyar las conclusiones.
 
 ## 📈 Principales Resultados
-### 🧑‍💻 Comportamiento de los usuarios
-Sesiones por usuario
+### 🧑‍💻 Ingreso en USD por venta de productos - Revenue-sustainability-Chrysal
+
+[![Revenue-USD.jpg](https://i.postimg.cc/655kBq9F/Revenue-USD.jpg)](https://postimg.cc/9zK8pWwB)
 
 Se encuentra que un usuario en promedio dura 664 segundos en la pagina .
 En promedio cada usuario vuelve 1 vez a la semana.
@@ -65,6 +66,4 @@ Mensualmente, las ventas disminuyeron en noviembre de 2017 (mes 6), a pesar de s
 
 [![Revenue-USD.jpg](https://i.postimg.cc/655kBq9F/Revenue-USD.jpg)](https://postimg.cc/9zK8pWwB)
 
-# Revenue-sustainability-Chrysal
 
-[![Revenue-USD.jpg](https://i.postimg.cc/655kBq9F/Revenue-USD.jpg)](https://postimg.cc/9zK8pWwB)
