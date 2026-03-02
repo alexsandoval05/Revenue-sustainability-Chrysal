@@ -1,28 +1,32 @@
-#  **Análisis de utilidades de implementación de proyectos de sostenibilidad en Chrysal**
-🎯 OBJETIVO
-Definir rentabilidad anual en la implementación de proyectos de sostenibilidad y revisar si la inversion esta generando mayores ingresos.
+#  **Profitability Analysis of the Implementation of Sustainability Projects at Chrysal**
+🎯 OBJECTIVE
+Define the annual profitability of implementing sustainability projects and review whether the investment is generating higher income.
 
-## 📂 Descripcion del Proyecto
-Este proyecto comprende la inspección, limpieza, transformación y análisis de tres fuentes de datos:
+## 📂 Project Description
+This project includes the inspection, cleaning, transformation, and analysis of three data sources::
 
-Ingresos de venta de productos (Tabla1_Chrysal_Sustainability_v2.csv)
-Costos de campañas de marketing (Tabla2_Marketing_Campaign.csv)
-Costos de produccion y disposicion de residuos (Tabla3_Costs_v2.csv)
+Revenue Sales Order  (Tabla1_Chrysal_Sustainability_v2.csv)
+Marketing campaign costs (Tabla2_Marketing_Campaign.csv)
+Production and disposal waste costs (Tabla3_Costs_v2.csv)
 
-Se implementan procesos de:
+Processes are implemented for:
 
-- Limpieza de datos (fechas, columnas, duplicados).
-- Enriquecimiento temporal (día, semana, mes).
-- Métricas de negocio: CAC (Costo de Adquisición de Cliente), tasa de conversión, ingresos mensuales.
-- Visualizaciones para apoyar las conclusiones.
+-Data cleaning (dates, columns, duplicates).
+-Temporal enrichment (day, week, month).
+-Business metrics: CAC (Customer Acquisition Cost), conversion rate, monthly revenue.
+-Visualizations to support the conclusions.
 
-## 📈 Principales Resultados
+## 📈 Main Results
 ### 🧑‍💻 Ingreso en USD por venta de productos - Revenue-sustainability-Chrysal
 
 [![Revenue-USD.jpg](https://i.postimg.cc/655kBq9F/Revenue-USD.jpg)](https://postimg.cc/9zK8pWwB)
 
-Se encuentra que un usuario en promedio dura 664 segundos en la pagina .
-En promedio cada usuario vuelve 1 vez a la semana.
+- It was found that there are 70 null values in "Sales_revenue_USD", which corresponds to 100% nulls. For this reason, we must conduct verification tests to determine how to handle them.
+- Sales Revenue USD: Possibly right-skewed with an “outlier,” since the max is double the 75% value.
+- Production Cost: Possibly a normal distribution, but this should be confirmed using a histogram.
+- Waste_kg and Disposal_waste_cost: Possibly a skewed distribution or a left-side “outlier,” since the min is 10 times lower than the 25% value.
+
+
 ### 📈 Tasa de Conversión
 Conversión en dias
 
