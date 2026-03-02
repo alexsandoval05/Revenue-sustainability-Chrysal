@@ -21,6 +21,9 @@ Processes are implemented for:
 
 [![Revenue-USD.jpg](https://i.postimg.cc/655kBq9F/Revenue-USD.jpg)](https://postimg.cc/9zK8pWwB)
 
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/XYkjXvLj/General-Revenue-USD.jpg" alt="General-Revenue-USD"></a><br><br>
+
+
 [![Revenue-USD.jpg](https://i.postimg.cc/SnjFvkH3/General-Revenue-USD.jpg[/img][/url])
 
 [url=https://postimg.cc/SnjFvkH3][img]https://i.postimg.cc/SnjFvkH3/General-Revenue-USD.jpg[/img][/url]
