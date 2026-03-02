@@ -19,14 +19,7 @@ Processes are implemented for:
 ## 📈 Main Results
 ### 🧑‍💻 Ingreso en USD por venta de productos - Revenue-sustainability-Chrysal
 
-[![Revenue-USD.jpg](https://i.postimg.cc/655kBq9F/Revenue-USD.jpg)](https://postimg.cc/9zK8pWwB)
-
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/XYkjXvLj/General-Revenue-USD.jpg" alt="General-Revenue-USD"></a><br><br>
-
-
-[![Revenue-USD.jpg](https://i.postimg.cc/SnjFvkH3/General-Revenue-USD.jpg[/img][/url])
-
-[url=https://postimg.cc/SnjFvkH3][img]https://i.postimg.cc/SnjFvkH3/General-Revenue-USD.jpg[/img][/url]
 
 - It was found that there are 70 null values in "Sales_revenue_USD", which corresponds to 100% nulls. For this reason, we must conduct verification tests to determine how to handle them.
 - Sales Revenue USD: Possibly right-skewed with an “outlier,” since the max is double the 75% value.
