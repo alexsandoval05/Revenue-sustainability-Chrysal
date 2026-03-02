@@ -62,18 +62,18 @@ Costo de adquisicion por cliente
 📉 ROMI
 Retorno a la inversion
 
-## 🧰 Herramientas Utilizadas
-- Python: manipulación y análisis de datos
-- Pandas: limpieza y transformación
-- Matplotlib & Seaborn: visualización de datos
-- NumPy & SciPy: estadísticas y prueba de hipótesis
+## 🧰 Software used
+- Python: Data manipulation and analysis
+- Pandas: Cleaning and Transformation
+- Matplotlib & Seaborn: Data visualization
+- NumPy & SciPy: Statistics and hypothesis testing
 - Jupyter Notebook
-## 🚀 Conclusion
-El informe muestra resultados positivos generales, con un LTV mayor que el CAC, indicando ganancias por encima del margen del 50%. Sin embargo, las fuentes de marketing con mayor uso generan menor retorno, siendo la fuente 3 la de mayor costo y menor retorno, mientras que la fuente 10 tiene el menor costo y mayor retorno.
 
-Se destaca la necesidad de volumen de clientes, ya que la alta tasa de conversión del primer día (72.18%) sugiere que la prioridad debe ser atraer usuarios a la página. El tiempo promedio de visita (10 minutos) y la frecuencia semanal indican una decisión de compra rápida una vez que el cliente ingresa.
+## 🚀 Conclusions
 
-Mensualmente, las ventas disminuyeron en noviembre de 2017 (mes 6), a pesar de ser el segundo mes con mayor inversión en publicidad, lo que requiere investigación (posiblemente relacionado con la falta de eventos relevantes). El ingreso promedio por venta es de $8.62, y el valor de vida promedio del cliente es de $18.92, lo que implica que realizan más de una compra. Se enfatiza la importancia del volumen de clientes y el alcance.
+It is observed that there are representative profit margins of 43% annually after deducting production costs and waste disposal costs.
+
+No evidence was found of significantly higher profit trends by country, despite higher operating costs in locations such as the Netherlands. However, the overall global profit trend is increasing by approximately 7% annually.
 
 
 
