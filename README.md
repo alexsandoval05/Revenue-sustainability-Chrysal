@@ -1,5 +1,5 @@
 #  **Profitability Analysis of the Implementation of Sustainability Projects at Chrysal**
-🎯 OBJECTIVE
+🎯 **OBJECTIVE**
 Define the annual profitability of implementing sustainability projects and review whether the investment is generating higher income.
 
 ## 📂 Project Description
