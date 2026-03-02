@@ -37,25 +37,30 @@ Processes are implemented for:
 
 
 
-### 📈 Tasa de Conversión
-Conversión en dias
+### 📈 Outliers
+
+
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Z5xb0qH4/Revenue-Boxplot.jpg" alt="Revenue-Boxplot"></a><br><br>
+
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/sg4j12mV/Revenue-Boxplot-Year.jpg" alt="Revenue-Boxplot-Year"></a><br><br>
+
+**No dominance of trends by year and country is observed.**
+
 
 Durante el primer dia el 72.18% de los clientes toman la decision de comprar.
 Conversión en meses
 
 Ratifica que la mayoria de los clientes compran en el primer mes.
-### 💰Comportamiento compras
-Tendencia compras Ingreso promedio por compra
+### 💰Profit 
 
-En promedio por cada compra se ingresan 8.62$ Dolares.
-Distribucion Ingresos Distribucion Costos
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Hk9YjLzT/Profit-per-year-PCT.jpg" alt="Profit-per-year-PCT"></a><br><br>
 
-🧭 LTV
-LTV
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/fbWwdh21/usd-profit-per-year.jpg" alt="usd-profit-per-year"></a><br><br>
 
-En promedio un cliente nos reporta ingresos de 18.2$
-📊 Comparación de Costos Marketing
-Comparación de costos por fuente y mes primera compra
+
+🧭 
+
+📊 
 
 Costo mensual por fuente
 
