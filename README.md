@@ -27,18 +27,9 @@ Processes are implemented for:
 - **Waste_kg and Disposal_waste_cost:** Possibly a skewed distribution or a left-side “outlier,” since the min is 10 times lower than the 25% value.
 
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Hk9YjLzT/Profit-per-year-PCT.jpg" alt="Profit-per-year-PCT"></a><br><br>
-
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Z5xb0qH4/Revenue-Boxplot.jpg" alt="Revenue-Boxplot"></a><br><br>
-
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/sg4j12mV/Revenue-Boxplot-Year.jpg" alt="Revenue-Boxplot-Year"></a><br><br>
-
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/fbWwdh21/usd-profit-per-year.jpg" alt="usd-profit-per-year"></a><br><br>
-
-
-
 ### 📈 Outliers
 
+Evaluation of quartiles to identify outliers and determine the type of data distribution.
 
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Z5xb0qH4/Revenue-Boxplot.jpg" alt="Revenue-Boxplot"></a><br><br>
 
