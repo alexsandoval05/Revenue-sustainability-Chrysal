@@ -62,7 +62,7 @@ Costo de adquisicion por cliente
 📉 ROMI
 Retorno a la inversion
 
-## 🧰 Software used
+## 🧰 Tools used
 - Python: Data manipulation and analysis
 - Pandas: Cleaning and Transformation
 - Matplotlib & Seaborn: Data visualization
