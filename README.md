@@ -22,9 +22,9 @@ Processes are implemented for:
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/XYkjXvLj/General-Revenue-USD.jpg" alt="General-Revenue-USD"></a><br><br>
 
 - It was found that there are 70 null values in "Sales_revenue_USD", which corresponds to 100% nulls. For this reason, we must conduct verification tests to determine how to handle them.
-- Sales Revenue USD: Possibly right-skewed with an “outlier,” since the max is double the 75% value.
-- Production Cost: Possibly a normal distribution, but this should be confirmed using a histogram.
-- Waste_kg and Disposal_waste_cost: Possibly a skewed distribution or a left-side “outlier,” since the min is 10 times lower than the 25% value.
+- **Sales Revenue USD:** Possibly right-skewed with an “outlier,” since the max is double the 75% value.
+- **Production Cost:** Possibly a normal distribution, but this should be confirmed using a histogram.
+- **Waste_kg and Disposal_waste_cost:** Possibly a skewed distribution or a left-side “outlier,” since the min is 10 times lower than the 25% value.
 
 
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Hk9YjLzT/Profit-per-year-PCT.jpg" alt="Profit-per-year-PCT"></a><br><br>
