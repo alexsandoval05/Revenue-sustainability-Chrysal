@@ -46,9 +46,11 @@ Conversión en meses
 Ratifica que la mayoria de los clientes compran en el primer mes.
 ### 💰Profit 
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Hk9YjLzT/Profit-per-year-PCT.jpg" alt="Profit-per-year-PCT"></a><br><br>
+[![profit-per-year.png](https://i.postimg.cc/7Z6nkLTJ/profit-per-year.png)](https://postimg.cc/F7MLbNph)
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/fbWwdh21/usd-profit-per-year.jpg" alt="usd-profit-per-year"></a><br><br>
+[![sales-cost-per-country.png](https://i.postimg.cc/02Nw6B5X/sales-cost-per-country.png)](https://postimg.cc/3WPRV9v2)
+
+[![profit-per-country.png](https://i.postimg.cc/6pynP1Dc/profit-per-country.png)](https://postimg.cc/Xr6rGxNB)
 
 
 🧭 
@@ -62,6 +64,10 @@ Costo de adquisicion por cliente
 
 📉 ROMI
 Retorno a la inversion
+
+📉 POWER BI - Dashboard
+
+[![Dashboard-Profitability-of-Sustainabiliy-od-Chrysal-products.png](https://i.postimg.cc/0N7MRgZ6/Dashboard-Profitability-of-Sustainabiliy-od-Chrysal-products.png)](https://postimg.cc/1g55wjkP)
 
 ## 🧰 Tools used
 - Python: Data manipulation and analysis
