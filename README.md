@@ -20,7 +20,7 @@ Processes are implemented for:
 ## 📈 Main Results
 ### 🧑‍💻 Ingreso en USD por venta de productos - Revenue-sustainability-Chrysal
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/XYkjXvLj/General-Revenue-USD.jpg" alt="General-Revenue-USD"></a><br><br>
+[![sales-revenue.png](https://i.postimg.cc/ht93XvtM/sales-revenue.png)](https://postimg.cc/CRx4tFDf)
 
 - It was found that there are 70 null values in "Sales_revenue_USD", which corresponds to 100% nulls. For this reason, we must conduct verification tests to determine how to handle them.
 - **Sales Revenue USD:** Possibly right-skewed with an “outlier,” since the max is double the 75% value.
@@ -32,9 +32,10 @@ Processes are implemented for:
 
 Evaluation of quartiles to identify outliers and determine the type of data distribution.
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Z5xb0qH4/Revenue-Boxplot.jpg" alt="Revenue-Boxplot"></a><br><br>
+[![Outliers.png](https://i.postimg.cc/bw9cK3bC/Outliers.png)](https://postimg.cc/gxjThyg8)
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/sg4j12mV/Revenue-Boxplot-Year.jpg" alt="Revenue-Boxplot-Year"></a><br><br>
+[![revenue-per-product.png](https://i.postimg.cc/9f08JpBb/revenue-per-product.png)](https://postimg.cc/gw9H03QL)
+
 
 **No dominance of trends by year and country is observed.**
 
