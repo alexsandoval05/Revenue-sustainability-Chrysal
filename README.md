@@ -65,6 +65,14 @@ Costo de adquisicion por cliente
 📉 ROMI
 Retorno a la inversion
 
+📊 Marketing profitability after A/B Hypothesis test
+
+[![Marketinf-profitability.png](https://i.postimg.cc/gk6GBVgm/Marketinf-profitability.png)](https://postimg.cc/tYp0sx0M)
+
+💸 CORRELATION HEAT MAP
+
+[![correlation-heat-map.png](https://i.postimg.cc/yWqCzGLD/correlation-heat-map.png)](https://postimg.cc/H8thw6Dm)
+
 📉 POWER BI - Dashboard
 
 [![Dashboard-Profitability-of-Sustainabiliy-od-Chrysal-products.png](https://i.postimg.cc/0N7MRgZ6/Dashboard-Profitability-of-Sustainabiliy-od-Chrysal-products.png)](https://postimg.cc/1g55wjkP)
