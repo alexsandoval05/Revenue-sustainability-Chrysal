@@ -1,96 +1,125 @@
+# 🌱 Profitability Analysis of the Implementation of Sustainability Projects at Chrysal
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0)
+![SciPy](https://img.shields.io/badge/SciPy-Hypothesis%20Testing-8CAAE6?logo=scipy)
 
-#  **Profitability Analysis of the Implementation of Sustainability Projects at Chrysal**
-🎯 **OBJECTIVE**
+## 🎯 Objective
 
-To define the annual profitability of implementing sustainability projects and review whether the investment is generating higher income.
+To define the annual profitability of implementing sustainability projects at Chrysal and to evaluate whether the investment is generating higher income, by analyzing sales, production/waste costs, and marketing campaigns across four countries: **Colombia, Ecuador, the Netherlands, and Kenya**.
+
+---
 
 ## 📂 Project Description
-This project includes the inspection, cleaning, transformation, and analysis of three data sources::
 
-Revenue Sales Order  (Tabla1_Chrysal_Sustainability_v2.csv)
-Marketing campaign costs (Tabla2_Marketing_Campaign.csv)
-Production and disposal waste costs (Tabla3_Costs_v2.csv)
+This project covers the full data analytics workflow — inspection, cleaning, transformation, and analysis — of three data sources:
 
-Processes are implemented for:
+| Dataset | Content | Key fields |
+|---|---|---|
+| `Tabla1_Chrysal_sustainability.csv` | Sales orders by country, product, and date | `sales_revenue`, `production_cost_usd`, `pais`, `product_reference`, `campaign_id` |
+| `Tabla2_Marketing_Campaign.csv` | Marketing campaign costs and type | `Marketing_cost`, `Marketing_campaign_type` |
+| `Tabla3_Costs.csv` | Waste disposal costs by product | `Disposal_waste_cost`, `Product_reference` |
 
--Data cleaning (dates, columns, duplicates).
--Temporal enrichment (day, week, month).
--Business metrics: CAC (Customer Acquisition Cost), conversion rate, monthly revenue.
--Visualizations to support the conclusions.
+**Processes implemented:**
+- Data cleaning: duplicate removal, null-value detection and imputation (median), date parsing (year/month extraction)
+- Outlier treatment using the **IQR method** (winsorization applied to Colombia's sales revenue)
+- Business metrics: `costo_total`, `gross_profit`, `% profit margin`, profit per sale
+- Table integration (merge) across sales, costs, and marketing data using common keys
+- Hypothesis testing (t-test) to compare profitability across marketing campaigns
+- Correlation analysis between numeric business variables
+
+---
+
+## 🧰 Tools Used
+
+- **Python** — data manipulation and analysis
+- **Power BI** — interactive dashboard for exploring profitability by country, product, and campaign
+- **Pandas / NumPy** — cleaning, transformation, and aggregation
+- **Matplotlib & Seaborn** — data visualization
+- **SciPy (`ttest_ind`)** — statistical hypothesis testing
+- **Jupyter Notebook** — analysis environment
+
+---
 
 ## 📈 Main Results
-### 🧑‍💻 Ingreso en USD por venta de productos - Revenue-sustainability-Chrysal
+
+### 🧑‍💻 Revenue Distribution & Data Quality
+
+No null values were found in the `sales` table. The `costs` table had **~5% missing values**, concentrated in the product *Chrysal Flora F* (~34% of its records) — indicating a localized data-collection issue rather than randomness.
+
+**Sales Revenue USD** shows a right-skewed distribution, with a maximum ~5x the 75th percentile — a clear sign of outliers that needed further investigation.
 
 [![sales-revenue.png](https://i.postimg.cc/ht93XvtM/sales-revenue.png)](https://postimg.cc/CRx4tFDf)
 
-- It was found that there are 70 null values in "Sales_revenue_USD", which corresponds to 100% nulls. For this reason, we must conduct verification tests to determine how to handle them.
-- **Sales Revenue USD:** Possibly right-skewed with an “outlier,” since the max is double the 75% value.
-- **Production Cost:** Possibly a normal distribution, but this should be confirmed using a histogram.
-- **Waste_kg and Disposal_waste_cost:** Possibly a skewed distribution or a left-side “outlier,” since the min is 10 times lower than the 25% value.
+### 📊 Outlier Detection (IQR)
 
-
-### 📈 Outliers
-
-Evaluation of quartiles to identify outliers and determine the type of data distribution.
+Boxplot analysis shows the **Netherlands has no outliers** despite having the highest revenue values, while **Colombia does show outliers** in `sales_revenue`. These were treated by capping values at the upper IQR limit (winsorization) to avoid distorting downstream metrics.
 
 [![Outliers.png](https://i.postimg.cc/bw9cK3bC/Outliers.png)](https://postimg.cc/gxjThyg8)
 
+No clear dominance by year or country was found when comparing revenue per product — no single segment disproportionately drives the results.
+
 [![revenue-per-product.png](https://i.postimg.cc/9f08JpBb/revenue-per-product.png)](https://postimg.cc/gw9H03QL)
 
+### 💰 Profitability
 
-**No dominance of trends by year and country is observed.**
-
-
-Durante el primer dia el 72.18% de los clientes toman la decision de comprar.
-Conversión en meses
-
-Ratifica que la mayoria de los clientes compran en el primer mes.
-### 💰Profit 
-
-[![profit-per-year.png](https://i.postimg.cc/7Z6nkLTJ/profit-per-year.png)](https://postimg.cc/F7MLbNph)
+**Revenue vs. total cost by country:**
 
 [![sales-cost-per-country.png](https://i.postimg.cc/02Nw6B5X/sales-cost-per-country.png)](https://postimg.cc/3WPRV9v2)
 
+**Gross profit by country** — the Netherlands leads with **~19.2M USD in gross profit**, about **25.7% higher** than Colombia, Ecuador, and Kenya. In margin terms this is even more striking: the Netherlands converts revenue into profit at a **69.7% margin**, versus 37.7% (Colombia), 33.7% (Ecuador), and 33.3% (Kenya) — likely influenced by the Euro exchange effect and higher purchasing power in Europe.
+
 [![profit-per-country.png](https://i.postimg.cc/6pynP1Dc/profit-per-country.png)](https://postimg.cc/Xr6rGxNB)
 
+**Yearly profitability trend** — looking at the actual computed margin (not just absolute profit), the company's margin has stayed **relatively stable, between 47% and 50%**, from 2023 through 2025, with a slight dip in 2024 (47.1%) before recovering to 49.5% in 2025.
 
-🧭 
+[![profit-per-year.png](https://i.postimg.cc/7Z6nkLTJ/profit-per-year.png)](https://postimg.cc/F7MLbNph)
 
-📊 
+### 📣 Marketing Campaign Profitability
 
-Costo mensual por fuente
-
-💸 CAC por Fuente
-Costo de adquisicion por cliente
-
-📉 ROMI
-Retorno a la inversion
-
-📊 Marketing profitability after A/B Hypothesis test
+Profit by campaign type (Email marketing, Field campaign, Influencers Agro, Social Media):
 
 [![Marketinf-profitability.png](https://i.postimg.cc/gk6GBVgm/Marketinf-profitability.png)](https://postimg.cc/tYp0sx0M)
 
-💸 CORRELATION HEAT MAP
+An **independent t-test** was run to compare profit-per-sale between campaign types (e.g., Field campaign vs. Influencers Agro). **Result: p-value > 0.05** — there is **no statistically significant difference** in profitability between marketing campaign types, meaning investment channel alone does not explain profitability differences at the individual sale level, even though "Field campaign" and "Email marketing" show higher totals in absolute terms.
+
+### 🔗 Correlation Heat Map
 
 [![correlation-heat-map.png](https://i.postimg.cc/yWqCzGLD/correlation-heat-map.png)](https://postimg.cc/H8thw6Dm)
 
-📉 POWER BI - Dashboard
+`sales_revenue` and `profit_per_sale` show a strong positive correlation (~1.0), consistent with their direct mathematical relationship. `production_cost` and `Disposal_waste_cost` show weaker relationships with overall profitability.
+
+### 📉 Power BI Dashboard
+
+A complementary interactive dashboard was built to explore profitability by country, product, and campaign:
 
 [![Dashboard-Profitability-of-Sustainabiliy-od-Chrysal-products.png](https://i.postimg.cc/0N7MRgZ6/Dashboard-Profitability-of-Sustainabiliy-od-Chrysal-products.png)](https://postimg.cc/1g55wjkP)
 
-## 🧰 Tools used
-- Python: Data manipulation and analysis
-- Pandas: Cleaning and Transformation
-- Matplotlib & Seaborn: Data visualization
-- NumPy & SciPy: Statistics and hypothesis testing
-- Jupyter Notebook
+---
 
 ## 🚀 Conclusions
 
-It is observed that there are representative profit margins of 43% annually after deducting production costs and waste disposal costs.
+- The **Netherlands is the most profitable market**, both in absolute gross profit (~19.2M USD) and in margin efficiency (69.7% vs. ~33–38% in the other countries).
+- **Overall company profitability has stayed relatively stable** (~47%–50% margin) across 2023–2025, with only a small dip in 2024, based on the actual computed `margin_pct` values.
+- **Colombia's sales revenue contained outliers**, addressed via IQR-based winsorization to ensure reliable metrics.
+- **No statistical evidence** supports that any single marketing campaign type outperforms another in profit-per-sale (p-value > 0.05), even though Field campaigns and Email marketing lead in absolute totals.
+- Missing values in waste disposal costs were concentrated in one product line (*Chrysal Flora F*), suggesting a data-collection gap rather than a systemic issue.
 
-No evidence was found of significantly higher profit trends by country, despite higher operating costs in locations such as the Netherlands. However, the overall global profit trend is increasing by approximately 7% annually.
+---
 
+## 📁 Repository Structure
 
+```
+├── chrysal_profit_sustainability.ipynb   # Full analysis notebook
+└── README.md
+```
 
+## ▶️ How to Run
+
+```bash
+pip install pandas numpy matplotlib seaborn scipy
+jupyter notebook chrysal_profit_sustainability.ipynb
+```
