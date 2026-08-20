@@ -7,6 +7,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0)
 ![SciPy](https://img.shields.io/badge/SciPy-Hypothesis%20Testing-8CAAE6?logo=scipy)
 
+ **Note:** This project uses a simulated dataset created for educational purposes as part of the TripleTen Data Analyst bootcamp. The data is inspired by the general business context of a company in the sustainability/manufacturing sector but does not represent actual financial figures, real transactions, or confidential information from any employer.
+
 ## 🎯 Objective
 
 To define the annual profitability of implementing sustainability projects at Chrysal and to evaluate whether the investment is generating higher income, by analyzing sales, production/waste costs, and marketing campaigns across four countries: **Colombia, Ecuador, the Netherlands, and Kenya**.
@@ -107,6 +109,16 @@ A complementary interactive dashboard was built to explore profitability by coun
 - **Colombia's sales revenue contained outliers**, addressed via IQR-based winsorization to ensure reliable metrics.
 - **No statistical evidence** supports that any single marketing campaign type outperforms another in profit-per-sale (p-value > 0.05), even though Field campaigns and Email marketing lead in absolute totals.
 - Missing values in waste disposal costs were concentrated in one product line (*Chrysal Flora F*), suggesting a data-collection gap rather than a systemic issue.
+
+## 💡 Business Recommendations
+
+- **Prioritize expansion in high-margin markets over channel optimization.** Since marketing campaign type showed no statistically significant effect on profit-per-sale (p-value > 0.05), investment decisions should focus on market selection and pricing strategy — where the Netherlands' 69.7% margin vs. ~33-38% elsewhere suggests structural, country-level drivers (e.g., pricing power, cost base) matter more than campaign mix.
+
+- **Investigate the Netherlands' margin structure to replicate it.** A margin nearly double that of other markets warrants a deeper cost and pricing breakdown to identify which specific levers (currency effect, local production cost, distribution efficiency) could be partially replicated in Colombia, Ecuador, or Kenya.
+
+- **Close the data-collection gap for Chrysal Flora F.** The concentration of missing waste-disposal cost records in a single product line (~34%) points to a process issue at the source, not a data quality fluke — worth a targeted audit before the metric is used for further financial reporting.
+
+- **Maintain the current stable margin trend (47-50%) as a baseline, and monitor for the 2024 dip.** Since the year-over-year margin held steady with only a small 2024 decline, it's worth flagging whether that dip correlates with a specific event (cost spike, campaign change, currency shift) to confirm it was one-off rather than the start of a downward trend.
 
 ---
 
