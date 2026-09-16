@@ -1,11 +1,15 @@
-# 🌱 Profitability Analysis of the Implementation of Sustainability Projects at Chrysal
+# 🌱 Chrysal: Profitability of Sustainability Projects
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numeric-013243?logo=numpy)
+![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0)
 ![SciPy](https://img.shields.io/badge/SciPy-Hypothesis%20Testing-8CAAE6?logo=scipy)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+
+---
 
  **Note:** This project uses a simulated dataset created for educational purposes as part of the TripleTen Data Analyst bootcamp. The data is inspired by the general business context of a company in the sustainability/manufacturing sector but does not represent actual financial figures, real transactions, or confidential information from any employer.
 
@@ -25,24 +29,28 @@ This project covers the full data analytics workflow — inspection, cleaning, t
 | `Tabla2_Marketing_Campaign.csv` | Marketing campaign costs and type | `Marketing_cost`, `Marketing_campaign_type` |
 | `Tabla3_Costs.csv` | Waste disposal costs by product | `Disposal_waste_cost`, `Product_reference` |
 
+
 **Processes implemented:**
-- Data cleaning: duplicate removal, null-value detection and imputation (median), date parsing (year/month extraction)
-- Outlier treatment using the **IQR method** (winsorization applied to Colombia's sales revenue)
-- Business metrics: `costo_total`, `gross_profit`, `% profit margin`, profit per sale
-- Table integration (merge) across sales, costs, and marketing data using common keys
-- Hypothesis testing (t-test) to compare profitability across marketing campaigns
+- Data cleaning: duplicate removal (4 duplicated marketing rows), null detection and median imputation, datetime parsing (year/month extraction)
+- Outlier detection and treatment with the **IQR method** (winsorization applied to Colombia's `sales_revenue`)
+- Business metrics: `costo_total`, `gross_profit`, `margin_pct`, `profit_per_sale`
+- Table integration (merge) of sales, waste costs and marketing using common keys
+- **SQL analysis (SQLite in-memory)**: profitability by country and **ROI by campaign using a CTE + `CASE WHEN` segmentation**
+- Hypothesis testing (independent t-test) to compare profitability across marketing campaigns
 - Correlation analysis between numeric business variables
+- Dashboard design (Power BI) to communicate results to stakeholders
 
 ---
 
 ## 🧰 Tools Used
 
-- **Python** — data manipulation and analysis
-- **Power BI** — interactive dashboard for exploring profitability by country, product, and campaign
-- **Pandas / NumPy** — cleaning, transformation, and aggregation
+- **Python (Pandas, NumPy)** — cleaning, transformation and KPI calculation
+- **SQL (SQLite / `sqlite3`)** — aggregated profitability and ROI queries with CTEs, `LEFT JOIN`, `NULLIF` and `CASE WHEN`
 - **Matplotlib & Seaborn** — data visualization
 - **SciPy (`ttest_ind`)** — statistical hypothesis testing
-- **Jupyter Notebook** — analysis environment
+- **Power BI** — interactive business dashboard
+- **Jupyter Notebook / Google Colab** — analysis environment
+
 
 ---
 
@@ -133,5 +141,7 @@ A complementary interactive dashboard was built to explore profitability by coun
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
+
+> Note: the SQL section runs on an in-memory SQLite database created with Python's built-in `sqlite3` module — no external database or credentials are required to reproduce it.
 jupyter notebook chrysal_profit_sustainability.ipynb
 ```
